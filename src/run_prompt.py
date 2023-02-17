@@ -188,6 +188,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
     tr_loss = 0.0
     global_step = 0 
     for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
+        torch.cuda.empty_cache()
         logits = model(**batch)
         labels = train_dataset.prompt_id_2_label[batch['labels']]
         
