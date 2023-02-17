@@ -89,7 +89,7 @@ Some baselines, especially the baselines using entity markers, come from the pro
 ### 1. For TACRED
 
 ```bash
-bash scipts/run_large_tacred.sh
+bash scripts/run_large_tacred.sh
 ```
 
 ### 2. For TACREV
