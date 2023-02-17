@@ -211,8 +211,9 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
 
         loss.backward()
         tr_loss += loss.item()
-        
+        torch.cuda.empty_cache()
         if (step + 1) % args.gradient_accumulation_steps == 0:
+            torch.cuda.empty_cache()
             torch.nn.utils.clip_grad_norm_(model.parameters(), args.max_grad_norm)
             optimizer.step()
             scheduler.step()
