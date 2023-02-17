@@ -223,7 +223,9 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             print (args)
             global_step += 1
             print (tr_loss/global_step, mx_res)
+            torch.cuda.empty_cache()
 
+    torch.cuda.empty_cache()
     mi_f1, ma_f1 = evaluate(model, val_dataset, val_dataloader)
     hist_mi_f1.append(mi_f1)
     hist_ma_f1.append(ma_f1)
