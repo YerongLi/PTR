@@ -236,5 +236,5 @@ class REPromptDataset(DictDataset):
         if len(seq) <= max_length:
             return seq
         else:
-            print ("=========")
+            # print ("=========")
             return seq[len(seq) - max_length:]
