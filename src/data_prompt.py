@@ -91,10 +91,10 @@ class REPromptDataset(DictDataset):
 
         print (total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
-        print ("=================================")
-        for i in self.set:
-            print (i)
-        print ("=================================")
+        # print ("=================================")
+        # for i in self.set:
+        #     print (i)
+        # print ("=================================")
 
         for name in self.temp_ids:
             for j in range(len(self.temp_ids[name]['label_ids'])):
