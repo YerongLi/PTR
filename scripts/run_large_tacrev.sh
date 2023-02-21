@@ -11,9 +11,9 @@ python3 src/run_prompt.py \
 --output_dir results/tacrev \
 --model_type roberta \
 --model_name_or_path roberta-large \
---per_gpu_train_batch_size 8 \
+--per_gpu_train_batch_size 2 \
 --gradient_accumulation_steps 1 \
---max_seq_length 512 \
+--max_seq_length 64 \
 --warmup_steps 500 \
 --learning_rate 3e-5 \
 --learning_rate_for_new_token 1e-5 \
