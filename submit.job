@@ -16,4 +16,4 @@
 
 module load cuda
 conda activate /scratch/yerong/.conda/envs/ptr
-bash scripts/run_large_tacred.sh > ptr.log
+bash scripts/run_large_retacred > ptr.log
