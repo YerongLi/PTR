@@ -42,7 +42,7 @@ In this work, we propose prompt tuning with rules (PTR) for many-class text clas
 
 # Requirements
 
-The model is implemented using PyTorch. The versions of packages used are shown below.
+The model is implemented using PyTorch. The versions of packages used are shown below. This repo used python 3.7
 
 + numpy==1.18.0
 + scikit-learn==0.22.1
