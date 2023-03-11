@@ -5,7 +5,8 @@
 #SBATCH --ntasks-per-node=16
 #SBATCH --job-name=myjob
 #SBATCH --partition=secondary
-#SBATCH --output=myjob.o%j
+#SBATCH --output=ptr.log
+#SBATCH ‑‑gres=gpu:V100
 ##SBATCH --error=myjob.e%j
 ##SBATCH --mail-user=yerong2@illinois.edu
 
@@ -15,4 +16,4 @@
 
 module load cuda
 conda activate /scratch/yerong/.conda/envs/ptr
-bash scripts/run_large_tacred.sh > log
+bash scripts/run_large_tacred.sh > ptr.log
