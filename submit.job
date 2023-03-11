@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+#SBATCH --time=00:05:00
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=16
+#SBATCH --job-name=myjob
+#SBATCH --partition=secondary
+#SBATCH --output=myjob.o%j
+##SBATCH --error=myjob.e%j
+##SBATCH --mail-user=NetID@illinois.edu
+##SBATCH --mail-type=BEGIN,END
+#
+# End of embedded SBATCH options
+#
+
+conda activate /scratch/yerong/.conda/envs/ptr
+bash scripts/run_large_tacred.sh > log
