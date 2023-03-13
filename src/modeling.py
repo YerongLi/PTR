@@ -47,6 +47,7 @@ def get_model(tokenizer, prompt_label_idx):
     args = get_args()
     model = Model(args, tokenizer, prompt_label_idx)
     import sys
+    print('size of model')
     print(sys.getsizeof(model) )
     if torch.cuda.device_count() > 1:
         model = torch.nn.DataParallel(model)
