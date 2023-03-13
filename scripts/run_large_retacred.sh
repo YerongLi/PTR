@@ -4,7 +4,7 @@ for mode in train val test; do
     fi
 done
 
-export CUDA_VISIBLE_DEVICES=0,1,2,3
+export CUDA_VISIBLE_DEVICES=4
 
 python3 src/run_prompt.py \
 --data_dir data/retacred \
@@ -13,11 +13,11 @@ python3 src/run_prompt.py \
 --model_name_or_path roberta-large \
 --per_gpu_train_batch_size 1 \
 --gradient_accumulation_steps 1 \
---max_seq_length 64 \
+--max_seq_length 128 \
 --warmup_steps 1 \
 --learning_rate 3e-5 \
 --learning_rate_for_new_token 1e-5 \
---num_train_epochs 2 \
+--num_train_epochs 6 \
 --weight_decay 1e-2 \
 --adam_epsilon 1e-6 \
 --temps temp.txt
