@@ -190,10 +190,6 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
     global_step = 0 
     for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
         torch.cuda.empty_cache()
-        print('batch')
-        print(type(batch))
-        print(batch.keys())
-        print(batch['input_ids'].shape)
         logits = model(**batch)
         labels = train_dataset.prompt_id_2_label[batch['labels']]
         
@@ -226,9 +222,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             optimizer_new_token.step()
             scheduler_new_token.step()
             model.zero_grad()
-            print (args)
             global_step += 1
-            print (tr_loss/global_step, mx_res)
             torch.cuda.empty_cache()
 
     torch.cuda.empty_cache()

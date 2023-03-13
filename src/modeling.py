@@ -33,8 +33,6 @@ class Model(torch.nn.Module):
         hidden_states, _ = self.model(inputs_embeds=inputs_embeds,
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
-        print('idden_states[mlm_labels >= 0]')
-        print(hidden_states[mlm_labels >= 0].shape)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
         logits = [
             torch.mm(
@@ -48,9 +46,6 @@ class Model(torch.nn.Module):
 def get_model(tokenizer, prompt_label_idx):
     args = get_args()
     model = Model(args, tokenizer, prompt_label_idx)
-    # import sys
-    # print('size of model')
-    # print(sys.getsizeof(model) )
     if torch.cuda.device_count() > 1:
         model = torch.nn.DataParallel(model)
     model.cuda()
