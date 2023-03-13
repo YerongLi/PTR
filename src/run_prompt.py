@@ -191,6 +191,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
         torch.cuda.empty_cache()
         print('batch')
         print(type(batch))
+        print(batch.keys())
         logits = model(**batch)
         labels = train_dataset.prompt_id_2_label[batch['labels']]
         
