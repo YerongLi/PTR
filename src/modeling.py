@@ -33,6 +33,8 @@ class Model(torch.nn.Module):
         hidden_states, _ = self.model(inputs_embeds=inputs_embeds,
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
+        print('idden_states[mlm_labels >= 0]')
+        print(hidden_states[mlm_labels >= 0].shape)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
         logits = [
             torch.mm(
