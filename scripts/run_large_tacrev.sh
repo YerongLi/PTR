@@ -4,7 +4,7 @@ for mode in train val test; do
     fi
 done
 
-export CUDA_VISIBLE_DEVICES=0,1,2,3
+export CUDA_VISIBLE_DEVICES=1
 
 python3 src/run_prompt.py \
 --data_dir data/tacrev \
