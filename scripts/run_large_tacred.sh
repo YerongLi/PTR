@@ -1,4 +1,3 @@
-This code does not work for tacred dataset
 for mode in train val test; do
     if [ ! -d "data/tacred/$mode" ]; then
         mkdir -p results/tacred/$mode
