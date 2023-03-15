@@ -189,7 +189,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
     tr_loss = 0.0
     global_step = 0 
     for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
-        torch.cuda.empty_cache()
+        # torch.cuda.empty_cache()
         logits = model(**batch)
         labels = train_dataset.prompt_id_2_label[batch['labels']]
         
@@ -213,9 +213,9 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
 
         loss.backward()
         tr_loss += loss.item()
-        torch.cuda.empty_cache()
+        # torch.cuda.empty_cache()
         if (step + 1) % args.gradient_accumulation_steps == 0:
-            torch.cuda.empty_cache()
+            # torch.cuda.empty_cache()
             torch.nn.utils.clip_grad_norm_(model.parameters(), args.max_grad_norm)
             optimizer.step()
             scheduler.step()
@@ -223,9 +223,9 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             scheduler_new_token.step()
             model.zero_grad()
             global_step += 1
-            torch.cuda.empty_cache()
+            # torch.cuda.empty_cache()
 
-    torch.cuda.empty_cache()
+    # torch.cuda.empty_cache()
     mi_f1, ma_f1 = evaluate(model, val_dataset, val_dataloader)
     hist_mi_f1.append(mi_f1)
     hist_ma_f1.append(ma_f1)
