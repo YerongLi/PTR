@@ -1,12 +1,12 @@
 #!/bin/bash
 #
-#SBATCH --time=01:30:00
+#SBATCH --time=00:01:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --job-name=myjob
 #SBATCH --partition=secondary
-#SBATCH --output=ptr.log
-#SBATCH --gres=gpu:V100
+#SBATCH --output=viewgpulog.log
+#SBATCH ‑‑gres=gpu:V100:2
 ##SBATCH --error=myjob.e%j
 ##SBATCH --mail-user=yerong2@illinois.edu
 
@@ -15,5 +15,5 @@
 #
 
 module load cuda/10.0
-conda activate /scratch/yerong/.conda/envs/ptr
-bash scripts/run_large_retacred.sh > ptr.log
+nvcc -V >> viewgpu.log
+nvidia-smi >> vewgpu.log
