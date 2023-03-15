@@ -16,4 +16,4 @@
 
 module load cuda/.11.1
 nvcc -V >> viewgpu.log
-nvidia-smi >> vewgpu.log
+nvidia-smi >> viewgpu.log

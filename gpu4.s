@@ -6,7 +6,7 @@
 #SBATCH --job-name=myjob
 #SBATCH --partition=secondary
 #SBATCH --output=R-%x.%j.out
-#SBATCH --gres=gpu:TeslaT4
+#SBATCH --gres=gpu:TeslaT4:2
 ##SBATCH --error=myjob.e%j
 ##SBATCH --mail-user=yerong2@illinois.edu
 
