@@ -8,7 +8,7 @@ from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
 from utils import TqdmLoggingHandler
 from utils import log
-from utils import bar
+from utils import progress_bar_log
 
 import logging
 import numpy as np
@@ -76,7 +76,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     model.eval()
     scores = []
     all_labels = []
-    progress = bar()
+    progress = progress_bar_log(log)
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
             logits = model(**batch)
@@ -171,8 +171,7 @@ test_dataset = REPromptDataset.load(
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
 logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
-
-
+log = logging.getLogger(__name__)
 log.debug('Logger start')
 # train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
