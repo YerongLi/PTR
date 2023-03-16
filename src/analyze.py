@@ -108,4 +108,5 @@ log.debug(f'Logger start: {os.uname()[1]}')
 
 scores = np.load(args.output_dir+"/scores.npy")
 all_labels = np.load(args.output_dir+"/all_labels.npy")
-logging.debug(scores.shape, all_labels.shape)
+log.info(scores.shape)
+log.info(all_labels.shape)
