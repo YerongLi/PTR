@@ -3,16 +3,17 @@ from templating import get_temps
 from modeling import get_model, get_tokenizer
 from data_prompt import REPromptDataset
 from optimizing import get_optimizer
+from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
+from tqdm import tqdm, trange
+from collections import Counter
 from utils import progress_bar_log
 
+import numpy as np
+import random
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
-from tqdm import tqdm, trange
-import numpy as np
-from collections import Counter
-import random
+
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
@@ -105,10 +106,13 @@ def set_seed(seed):
     torch.manual_seed(seed)
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(seed)
-
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+log = logging.getLogger(__name__)
+log.debug('Logger start')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
+
 
 if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
     dataset = REPromptDataset(
@@ -162,9 +166,7 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
-log = logging.getLogger(__name__)
-log.debug('Logger start')
+
 train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
 
 train_dataset.cuda()
