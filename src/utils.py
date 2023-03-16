@@ -1,5 +1,4 @@
 import logging
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
 # log.addHandler(TqdmLoggingHandler())
 
