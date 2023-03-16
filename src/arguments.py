@@ -132,7 +132,8 @@ def get_eval_args_parser():
     parser.add_argument("--temps", default="", type=str,
                         help="Where to store the pre-trained models downloaded from S3.")
 
-
+    parser.add_argument('--seed', type=int, default=42,
+                        help="random seed for initialization")
 
     args = parser.parse_args()
     args.n_gpu = torch.cuda.device_count()
