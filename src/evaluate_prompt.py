@@ -174,7 +174,7 @@ log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 log.addHandler(TqdmLoggingHandler())
 logging.debug('Logger start')
-train_dataset.cuda()
+# train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
 train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)
 

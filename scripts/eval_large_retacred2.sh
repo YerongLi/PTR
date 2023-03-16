@@ -5,7 +5,7 @@ python3 src/evaluate_prompt.py \
 --output_dir results/retacred2 \
 --model_type roberta \
 --model_name_or_path roberta-large \
---per_gpu_eval_batch_size 4 \
+--per_gpu_eval_batch_size 8 \
 --gradient_accumulation_steps 1 \
 --max_seq_length 512 \
 --learning_rate_for_new_token 1e-5 \
