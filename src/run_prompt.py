@@ -251,6 +251,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
     last_epoch = epoch
 
 torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl")
+torch.cuda.empty_cache()
 
 # print (hist_mi_f1)
 # print (hist_ma_f1)
