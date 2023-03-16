@@ -11,7 +11,7 @@ python3 src/run_prompt.py \
 --output_dir results/retacred2 \
 --model_type roberta \
 --model_name_or_path roberta-large \
---per_gpu_train_batch_size 2 \
+--per_gpu_train_batch_size 4 \
 --gradient_accumulation_steps 1 \
 --max_seq_length 512 \
 --warmup_steps 500 \

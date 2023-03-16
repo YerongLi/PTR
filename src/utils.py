@@ -10,8 +10,8 @@
 #         except Exception:
 #             self.handleError(record)
 class progress_bar_log():
-    def __init__(self, log):
-        self.length = 6
+    def __init__(self, log, div=6):
+        self.length = div
         self.bars = { k : None for k in range(self.length)}
         self.log = log
     

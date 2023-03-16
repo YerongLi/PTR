@@ -3,6 +3,8 @@ from templating import get_temps
 from modeling import get_model, get_tokenizer
 from data_prompt import REPromptDataset
 from optimizing import get_optimizer
+from utils import progress_bar_log
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -70,10 +72,11 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     model.eval()
     scores = []
     all_labels = []
-
+    progress = progress_bar_log(log)
     with torch.no_grad():
-        for batch in tqdm(dataloader):
+        for i, batch in enumerate(tqdm(dataloader)):
             logits = model(**batch)
+            progress.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:
                 _res = 0.0
@@ -107,35 +110,36 @@ set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
 
-# If the dataset has been saved, 
-# the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'train.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer,)
-dataset.save(path = args.output_dir, name = "train")
+if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'train.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer,)
+    dataset.save(path = args.output_dir, name = "train")
+
+# # If the dataset has been saved, 
+# # the code ''dataset = REPromptDataset(...)'' is not necessary.
+if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'val.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer)
+    dataset.save(path = args.output_dir, name = "val")
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'val.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer)
-dataset.save(path = args.output_dir, name = "val")
-
-# If the dataset has been saved, 
-# the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'test.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer)
-dataset.save(path = args.output_dir, name = "test")
+if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'test.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer)
+    dataset.save(path = args.output_dir, name = "test")
 
 train_dataset = REPromptDataset.load(
     path = args.output_dir, 
@@ -158,6 +162,9 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+log = logging.getLogger(__name__)
+log.debug('Logger start')
 train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
 
 train_dataset.cuda()
@@ -187,9 +194,13 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
     model.train()
     model.zero_grad()
     tr_loss = 0.0
-    global_step = 0 
+    global_step = 0
+    progress = progress_bar_log(log,20)
+
     for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
         # torch.cuda.empty_cache()
+        progress.check(step, len(train_dataloader))
+
         logits = model(**batch)
         labels = train_dataset.prompt_id_2_label[batch['labels']]
         
@@ -246,4 +257,4 @@ torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(last_epoch)+"
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl"))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader)
 
-print (mi_f1)
+log.info(mi_f1)
