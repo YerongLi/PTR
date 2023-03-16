@@ -88,8 +88,8 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         scores = torch.cat(scores, 0)
         scores = scores.detach().cpu().numpy()
         all_labels = np.array(all_labels)
-        np.save("scores.npy", scores)
-        np.save("all_labels.npy", all_labels)
+        np.save(output_dir+"/scores.npy", scores)
+        np.save(output_dir+"/all_labels.npy", all_labels)
 
         pred = np.argmax(scores, axis = -1)
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)

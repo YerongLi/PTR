@@ -89,7 +89,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         scores = torch.cat(scores, 0)
         scores = scores.detach().cpu().numpy()
         all_labels = np.array(all_labels)
-        np.save(output_dir+/"scores.npy", scores)
+        np.save(output_dir+"/scores.npy", scores)
         np.save(output_dir+"/all_labels.npy", all_labels)
 
         pred = np.argmax(scores, axis = -1)
