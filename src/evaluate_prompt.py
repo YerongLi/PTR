@@ -1,17 +1,21 @@
 from arguments import get_args_parser
-from templating import get_temps
-from modeling import get_model, get_tokenizer
+from collections import Counter
 from data_prompt import REPromptDataset
+from modeling import get_model, get_tokenizer
 from optimizing import get_optimizer
+from templating import get_temps
+from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
+from tqdm import tqdm, trange
+from utils import TqdmLoggingHandler
+
+
+import logging
+import numpy as np
+import random
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
-from tqdm import tqdm, trange
-import numpy as np
-from collections import Counter
-import random
-from utils import TqdmLoggingHandler
+
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
