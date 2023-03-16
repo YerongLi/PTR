@@ -119,7 +119,7 @@ def get_eval_args_parser():
                         help="Batch size per GPU/CPU for PET evaluation.")
     parser.add_argument('--gradient_accumulation_steps', type=int, default=1,
                         help="Number of updates steps to accumulate before performing a backward/update pass in PET.")
-    parser.add_argument("--epoch", default=4, type=float,
+    parser.add_argument("--epoch", default=4, type=int,
                         help="model epoch number.")
     # Other optional parameters
     parser.add_argument("--cache_dir", default="", type=str,
