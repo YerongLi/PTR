@@ -121,8 +121,6 @@ def get_eval_args_parser():
                         help="Number of updates steps to accumulate before performing a backward/update pass in PET.")
     parser.add_argument("--num_train_epochs", default=3, type=int,
                         help="Total number of training epochs to perform in PET.")
-    parser.add_argument("--epoch", default=4, type=int,
-                        help="model epoch number.")
     # Other optional parameters
     parser.add_argument("--cache_dir", default="", type=str,
                         help="Where to store the pre-trained models downloaded from S3.")
