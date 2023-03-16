@@ -76,10 +76,11 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     model.eval()
     scores = []
     all_labels = []
-    record = bar()
+    progress = bar()
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
-            record.check(i, len(dataloader))
+            logits = model(**batch)
+            progress.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:
                 _res = 0.0
