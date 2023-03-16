@@ -176,7 +176,7 @@ log.addHandler(TqdmLoggingHandler())
 logging.debug('Logger start')
 train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
-train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=train_batch_size)
+train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)
 
 # val_dataset.cuda()
 # val_sampler = SequentialSampler(val_dataset)
