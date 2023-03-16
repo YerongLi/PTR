@@ -6,10 +6,10 @@ from optimizing import get_optimizer
 from templating import get_temps
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
-from utils import BARS
 from utils import TqdmLoggingHandler
+from utils import log
+from utils import bar
 
-import logging
 import numpy as np
 import os
 import random
@@ -75,14 +75,10 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     model.eval()
     scores = []
     all_labels = []
-    bars = BARS.copy()
+    record = bar()
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
-            progress = int(i/len(dataloader)*len(BARS)) % len(BARS)
-            if (progress in bars): 
-                del bars[progress]
-                log.info(f'{progress}/{len(BARS)}')
-            logits = model(**batch)
+            record.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:
                 _res = 0.0
@@ -172,10 +168,7 @@ test_dataset = REPromptDataset.load(
 
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
-log = logging.getLogger(__name__)
-log.setLevel(logging.INFO)
-log.addHandler(TqdmLoggingHandler())
+
 log.debug('Logger start')
 # train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
