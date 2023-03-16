@@ -16,7 +16,7 @@ class progress_bar_log():
         self.log = log
     
     def check(self, i, total):
-        progress = int(i/total*len(self.bars)) % len(self.bars)
+        progress = int(i/total*self.length) % self.length
         if (progress in self.bars): 
                 del self.bars[progress]
                 self.log.info(f'{progress}/{self.length}')
