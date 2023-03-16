@@ -107,7 +107,9 @@ def set_seed(seed):
     torch.manual_seed(seed)
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(seed)
-
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+log = logging.getLogger(__name__)
+log.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
@@ -168,9 +170,7 @@ test_dataset = REPromptDataset.load(
 
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
-log = logging.getLogger(__name__)
-log.debug('Logger start')
+
 # train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
 train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)

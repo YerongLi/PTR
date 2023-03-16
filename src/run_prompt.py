@@ -110,7 +110,7 @@ def set_seed(seed):
         torch.cuda.manual_seed_all(seed)
 logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
-log.debug('Logger start')
+log.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
