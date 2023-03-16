@@ -123,7 +123,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     bars = BARS.copy()
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
-            progress = int(i/len(dataloader)*len(BARS)) mod len(BARS)
+            progress = int(i/len(dataloader)*len(BARS)) % len(BARS)
             if (progress in bars): 
                 del bars[progress]
                 log.info(f'{progress}/{len(BARS)}')
