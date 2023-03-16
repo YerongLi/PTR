@@ -1,3 +1,4 @@
+import os
 # class TqdmLoggingHandler(logging.Handler):
 #     def __init__(self, level=logging.NOTSET):
 #         super().__init__(level)
@@ -19,5 +20,5 @@ class progress_bar_log():
         progress = int(i/total*self.length) % self.length
         if (progress in self.bars): 
                 del self.bars[progress]
-                self.log.info(f'{progress}/{self.length}')
+                self.log.info(f'{progress}/{self.length} HOST {os.uname()[1]}')
 
