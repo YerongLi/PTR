@@ -1,6 +1,6 @@
 export CUDA_VISIBLE_DEVICES=0,1
 
-python3 src/run_prompt.py \
+python3 src/evaluate_prompt.py \
 --data_dir data/retacred \
 --output_dir results/retacred2 \
 --model_type roberta \
