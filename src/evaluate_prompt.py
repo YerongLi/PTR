@@ -168,7 +168,7 @@ test_dataset = REPromptDataset.load(
 
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+log.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 
 
 log.debug('Logger start')
