@@ -200,7 +200,7 @@ hist_ma_f1 = []
 mx_epoch = None
 
 
-model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.epoch)+".pkl"))
+model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.num_train_epochs)+".pkl"))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
 log.info(mi_f1)
