@@ -6,7 +6,6 @@ from optimizing import get_optimizer
 from templating import get_temps
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
-from utils import TqdmLoggingHandler
 from utils import log
 from utils import progress_bar_log
 
