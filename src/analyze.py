@@ -101,3 +101,11 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         return mi_f1, ma_f1
 
 args = get_eval_args_parser()
+
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+log = logging.getLogger(__name__)
+log.debug(f'Logger start: {os.uname()[1]}')
+
+scores = np.load(output_dir+"/scores.npy")
+all_labels = np.load(output_dir+"/all_labels.npy")
+logging.info(scores.shape, all_labels.shape)
