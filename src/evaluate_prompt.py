@@ -10,6 +10,7 @@ from utils import TqdmLoggingHandler
 from utils import log
 from utils import bar
 
+import logging
 import numpy as np
 import os
 import random
@@ -168,7 +169,7 @@ test_dataset = REPromptDataset.load(
 
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-log.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 
 
 log.debug('Logger start')
