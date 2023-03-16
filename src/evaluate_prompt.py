@@ -1,5 +1,4 @@
-# from arguments import get_args_parser
-import argparse
+from arguments import get_eval_args_parser
 from collections import Counter
 from data_prompt import REPromptDataset
 from modeling import get_model, get_tokenizer
@@ -17,51 +16,6 @@ import random
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-def get_args_parser():
-
-    parser = argparse.ArgumentParser(description="Command line interface for Relation Extraction.")
-
-    # Required parameters
-    parser.add_argument("--data_dir", default=None, type=str, required=True,
-                        help="The input data dir. Should contain the data files for the task.")
-    parser.add_argument("--model_type", default="albert", type=str, required=True, choices=_MODEL_CLASSES.keys(),
-                        help="The type of the pretrained language model to use")
-    parser.add_argument("--model_name_or_path", default="albert-xxlarge-v2", type=str, required=True,
-                        help="Path to the pre-trained model or shortcut name")
-    parser.add_argument("--output_dir", default=None, type=str, required=True,
-                        help="The output directory where the model predictions and checkpoints will be written")
-
-    parser.add_argument("--new_tokens", default=5, type=int, 
-                        help="The output directory where the model predictions and checkpoints will be written")
-
-    parser.add_argument("--max_seq_length", default=256, type=int,
-                        help="The maximum total input sequence length after tokenization for PET. Sequences longer "
-                             "than this will be truncated, sequences shorter will be padded.")
-    parser.add_argument("--per_gpu_eval_batch_size", default=8, type=int,
-                        help="Batch size per GPU/CPU for PET evaluation.")
-    parser.add_argument('--gradient_accumulation_steps', type=int, default=1,
-                        help="Number of updates steps to accumulate before performing a backward/update pass in PET.")
-    parser.add_argument("--epoch", default=4, type=float,
-                        help="model epoch number.")
-    # Other optional parameters
-    parser.add_argument("--cache_dir", default="", type=str,
-                        help="Where to store the pre-trained models downloaded from S3.")
-    parser.add_argument("--learning_rate", default=1e-5, type=float,
-                        help="The initial learning rate for Adam.")
-    parser.add_argument("--learning_rate_for_new_token", default=1e-4, type=float,
-                        help="The initial learning rate for Adam.")
-
-    parser.add_argument("--temps", default="", type=str,
-                        help="Where to store the pre-trained models downloaded from S3.")
-
-
-
-    args = parser.parse_args()
-    args.n_gpu = torch.cuda.device_count()
-
-    global _GLOBAL_ARGS
-    _GLOBAL_ARGS = args
-    return args
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
@@ -150,7 +104,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)
         return mi_f1, ma_f1
 
-args = get_args_parser()
+args = get_eval_args_parser()
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
