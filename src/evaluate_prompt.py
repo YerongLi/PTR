@@ -114,23 +114,23 @@ temps = get_temps(tokenizer)
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'train.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer,)
-dataset.save(path = args.output_dir, name = "train")
+# dataset = REPromptDataset(
+#     path  = args.data_dir, 
+#     name = 'train.txt', 
+#     rel2id = args.data_dir + "/" + "rel2id.json", 
+#     temps = temps,
+#     tokenizer = tokenizer,)
+# dataset.save(path = args.output_dir, name = "train")
 
-# If the dataset has been saved, 
-# the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'val.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer)
-dataset.save(path = args.output_dir, name = "val")
+# # If the dataset has been saved, 
+# # the code ''dataset = REPromptDataset(...)'' is not necessary.
+# dataset = REPromptDataset(
+#     path  = args.data_dir, 
+#     name = 'val.txt', 
+#     rel2id = args.data_dir + "/" + "rel2id.json", 
+#     temps = temps,
+#     tokenizer = tokenizer)
+# dataset.save(path = args.output_dir, name = "val")
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
@@ -165,7 +165,7 @@ test_dataset = REPromptDataset.load(
 
 eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-logging.basicConfig(filename=args.output_dir+'/output.log', encoding='utf-8', level=logging.DEBUG)
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 log.addHandler(TqdmLoggingHandler())
