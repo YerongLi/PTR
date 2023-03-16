@@ -8,6 +8,7 @@ from tqdm import tqdm, trange
 from collections import Counter
 from utils import progress_bar_log
 
+import logging
 import numpy as np
 import random
 import torch
