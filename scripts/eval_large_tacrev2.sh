@@ -10,5 +10,4 @@ python3 src/evaluate_prompt.py \
 --max_seq_length 512 \
 --learning_rate_for_new_token 1e-5 \
 --epoch 4 \
---adam_epsilon 1e-6 \
 --temps temp.txt
