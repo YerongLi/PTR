@@ -25,7 +25,7 @@ _MODEL_CLASSES = {
     }
 }
 
-def get_eval_args_parser():
+def get_args_parser():
 
     parser = argparse.ArgumentParser(description="Command line interface for Relation Extraction.")
 
@@ -95,7 +95,7 @@ def get_args():
 def get_model_classes():
     return _MODEL_CLASSES
 
-def get_args_parser():
+def get_eval_args_parser():
 
     parser = argparse.ArgumentParser(description="Command line interface for Relation Extraction.")
 
