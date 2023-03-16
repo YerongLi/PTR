@@ -11,6 +11,7 @@ from tqdm import tqdm, trange
 import numpy as np
 from collections import Counter
 import random
+from utils import TqdmLoggingHandler
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
@@ -88,8 +89,8 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         scores = torch.cat(scores, 0)
         scores = scores.detach().cpu().numpy()
         all_labels = np.array(all_labels)
-        np.save("scores.npy", scores)
-        np.save("all_labels.npy", all_labels)
+        np.save(output_dir+/"scores.npy", scores)
+        np.save(output_dir+"/all_labels.npy", all_labels)
 
         pred = np.argmax(scores, axis = -1)
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)
@@ -137,19 +138,19 @@ dataset = REPromptDataset(
     tokenizer = tokenizer)
 dataset.save(path = args.output_dir, name = "test")
 
-train_dataset = REPromptDataset.load(
-    path = args.output_dir, 
-    name = "train", 
-    temps = temps,
-    tokenizer = tokenizer,
-    rel2id = args.data_dir + "/" + "rel2id.json")
+# train_dataset = REPromptDataset.load(
+#     path = args.output_dir, 
+#     name = "train", 
+#     temps = temps,
+#     tokenizer = tokenizer,
+#     rel2id = args.data_dir + "/" + "rel2id.json")
 
-val_dataset = REPromptDataset.load(
-    path = args.output_dir, 
-    name = "val", 
-    temps = temps,
-    tokenizer = tokenizer,
-    rel2id = args.data_dir + "/" + "rel2id.json")
+# val_dataset = REPromptDataset.load(
+#     path = args.output_dir, 
+#     name = "val", 
+#     temps = temps,
+#     tokenizer = tokenizer,
+#     rel2id = args.data_dir + "/" + "rel2id.json")
 
 test_dataset = REPromptDataset.load(
     path = args.output_dir, 
@@ -158,20 +159,21 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 
-train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
+eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
-train_dataset.cuda()
-train_sampler = RandomSampler(train_dataset)
-train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=train_batch_size)
-
-val_dataset.cuda()
-val_sampler = SequentialSampler(val_dataset)
-# val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=train_batch_size//2)
-val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=max(1, train_batch_size//2))
+logging.basicConfig(filename=args.output_dir+'/output.log', encoding='utf-8', level=logging.DEBUG)
+log = logging.getLogger(__name__)
+log.setLevel(logging.INFO)
+log.addHandler(TqdmLoggingHandler())
+logging.debug('Logger start')
+# val_dataset.cuda()
+# val_sampler = SequentialSampler(val_dataset)
+# # val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=train_batch_size//2)
+# val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=max(1, eval_batch_size))
 
 test_dataset.cuda()
 test_sampler = SequentialSampler(test_dataset)
-test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, train_batch_size//2))
+test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, eval_batch_size))
 
 model = get_model(tokenizer, train_dataset.prompt_label_idx)
 optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
@@ -181,69 +183,10 @@ mx_res = 0.0
 hist_mi_f1 = []
 hist_ma_f1 = []
 mx_epoch = None
-last_epoch = None
+last_epoch = 4
 
-for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
-    model.train()
-    model.zero_grad()
-    tr_loss = 0.0
-    global_step = 0 
-    for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
-        # torch.cuda.empty_cache()
-        logits = model(**batch)
-        labels = train_dataset.prompt_id_2_label[batch['labels']]
-        
-        loss = 0.0
-        for index, i in enumerate(logits):
-            loss += criterion(i, labels[:,index])
-        loss /= len(logits)
-
-        res = []
-        for i in train_dataset.prompt_id_2_label:
-            _res = 0.0
-            for j in range(len(i)):
-                _res += logits[j][:, i[j]]
-            res.append(_res)
-        final_logits = torch.stack(res, 0).transpose(1,0)
-
-        loss += criterion(final_logits, batch['labels'])
-
-        if args.gradient_accumulation_steps > 1:
-            loss = loss / args.gradient_accumulation_steps
-
-        loss.backward()
-        tr_loss += loss.item()
-        # torch.cuda.empty_cache()
-        if (step + 1) % args.gradient_accumulation_steps == 0:
-            # torch.cuda.empty_cache()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), args.max_grad_norm)
-            optimizer.step()
-            scheduler.step()
-            optimizer_new_token.step()
-            scheduler_new_token.step()
-            model.zero_grad()
-            global_step += 1
-            # torch.cuda.empty_cache()
-
-    # torch.cuda.empty_cache()
-    mi_f1, ma_f1 = evaluate(model, val_dataset, val_dataloader)
-    hist_mi_f1.append(mi_f1)
-    hist_ma_f1.append(ma_f1)
-    if mi_f1 > mx_res:
-        mx_res = mi_f1
-        mx_epoch = epoch
-        torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(epoch)+".pkl")
-    last_epoch = epoch
-
-torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl")
-
-# print (hist_mi_f1)
-# print (hist_ma_f1)
-
-# model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(mx_epoch)+".pkl"))
-# mi_f1, _ = evaluate(model, test_dataset, test_dataloader)
 
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl"))
-mi_f1, _ = evaluate(model, test_dataset, test_dataloader)
+mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
-print (mi_f1)
+logging.debug(mi_f1)
