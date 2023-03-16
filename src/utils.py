@@ -17,7 +17,7 @@ class bar():
     def __init__(self):
         self.length = 6
         self.bars = { k : None for k in range(self.length)}
-    def check(i, total):
+    def check(self, i, total):
         progress = int(i/total*len(self.bars)) % len(self.bars)
         if (progress in self.bars): 
                 del self.bars[progress]
