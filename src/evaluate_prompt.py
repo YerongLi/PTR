@@ -112,35 +112,38 @@ set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
 
-If the dataset has been saved, 
-the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'train.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer,)
-dataset.save(path = args.output_dir, name = "train")
+# If the dataset has been saved, 
+# the code ''dataset = REPromptDataset(...)'' is not necessary.
+if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'train.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer,)
+    dataset.save(path = args.output_dir, name = "train")
 
 # # If the dataset has been saved, 
 # # the code ''dataset = REPromptDataset(...)'' is not necessary.
-# dataset = REPromptDataset(
-#     path  = args.data_dir, 
-#     name = 'val.txt', 
-#     rel2id = args.data_dir + "/" + "rel2id.json", 
-#     temps = temps,
-#     tokenizer = tokenizer)
-# dataset.save(path = args.output_dir, name = "val")
+if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'val.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer)
+    dataset.save(path = args.output_dir, name = "val")
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-dataset = REPromptDataset(
-    path  = args.data_dir, 
-    name = 'test.txt', 
-    rel2id = args.data_dir + "/" + "rel2id.json", 
-    temps = temps,
-    tokenizer = tokenizer)
-dataset.save(path = args.output_dir, name = "test")
+if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
+    dataset = REPromptDataset(
+        path  = args.data_dir, 
+        name = 'test.txt', 
+        rel2id = args.data_dir + "/" + "rel2id.json", 
+        temps = temps,
+        tokenizer = tokenizer)
+    dataset.save(path = args.output_dir, name = "test")
 
 train_dataset = REPromptDataset.load(
     path = args.output_dir, 
