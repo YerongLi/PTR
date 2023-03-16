@@ -10,3 +10,5 @@ class TqdmLoggingHandler(logging.Handler):
             self.flush()
         except Exception:
             self.handleError(record)
+
+BARS = { k : None for k in range(6)}

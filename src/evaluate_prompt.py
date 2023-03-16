@@ -6,8 +6,8 @@ from optimizing import get_optimizer
 from templating import get_temps
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
+from utils import BARS
 from utils import TqdmLoggingHandler
-
 
 import logging
 import numpy as np
@@ -120,9 +120,13 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     model.eval()
     scores = []
     all_labels = []
-
+    bars = BARS.copy()
     with torch.no_grad():
-        for batch in tqdm(dataloader):
+        for i, batch in enumerate(tqdm(dataloader)):
+            progress = int(i/len(dataloader)*len(BARS)) mod len(BARS)
+            if (progress in bars): 
+                del bars[progress]
+                log.info(f'{progress}/{len(BARS)}')
             logits = model(**batch)
             res = []
             for i in dataset.prompt_id_2_label:
@@ -217,7 +221,7 @@ logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 log.addHandler(TqdmLoggingHandler())
-logging.debug('Logger start')
+log.debug('Logger start')
 # train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
 train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)
@@ -244,4 +248,4 @@ mx_epoch = None
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.epoch)+".pkl"))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
-logging.debug(mi_f1)
+log.info(mi_f1)
