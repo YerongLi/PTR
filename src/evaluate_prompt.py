@@ -112,15 +112,15 @@ set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
 
-# If the dataset has been saved, 
-# the code ''dataset = REPromptDataset(...)'' is not necessary.
-# dataset = REPromptDataset(
-#     path  = args.data_dir, 
-#     name = 'train.txt', 
-#     rel2id = args.data_dir + "/" + "rel2id.json", 
-#     temps = temps,
-#     tokenizer = tokenizer,)
-# dataset.save(path = args.output_dir, name = "train")
+If the dataset has been saved, 
+the code ''dataset = REPromptDataset(...)'' is not necessary.
+dataset = REPromptDataset(
+    path  = args.data_dir, 
+    name = 'train.txt', 
+    rel2id = args.data_dir + "/" + "rel2id.json", 
+    temps = temps,
+    tokenizer = tokenizer,)
+dataset.save(path = args.output_dir, name = "train")
 
 # # If the dataset has been saved, 
 # # the code ''dataset = REPromptDataset(...)'' is not necessary.
@@ -142,12 +142,12 @@ dataset = REPromptDataset(
     tokenizer = tokenizer)
 dataset.save(path = args.output_dir, name = "test")
 
-# train_dataset = REPromptDataset.load(
-#     path = args.output_dir, 
-#     name = "train", 
-#     temps = temps,
-#     tokenizer = tokenizer,
-#     rel2id = args.data_dir + "/" + "rel2id.json")
+train_dataset = REPromptDataset.load(
+    path = args.output_dir, 
+    name = "train", 
+    temps = temps,
+    tokenizer = tokenizer,
+    rel2id = args.data_dir + "/" + "rel2id.json")
 
 # val_dataset = REPromptDataset.load(
 #     path = args.output_dir, 
