@@ -9,6 +9,6 @@ python3 src/evaluate_prompt.py \
 --gradient_accumulation_steps 1 \
 --max_seq_length 512 \
 --learning_rate_for_new_token 1e-5 \
---num_train_epochs 5 \
+--epoch 4 \
 --adam_epsilon 1e-6 \
 --temps temp.txt

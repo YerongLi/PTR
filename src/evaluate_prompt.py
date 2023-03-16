@@ -195,10 +195,9 @@ mx_res = 0.0
 hist_mi_f1 = []
 hist_ma_f1 = []
 mx_epoch = None
-last_epoch = 4
 
 
-model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl"))
+model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.epoch)+".pkl"))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
 logging.debug(mi_f1)
