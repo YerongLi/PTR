@@ -2,7 +2,7 @@ export CUDA_VISIBLE_DEVICES=0,1
 
 python3 src/evaluate_prompt.py \
 --data_dir data/tacred \
---output_dir results/tacred2 \
+--output_dir results/tacred \
 --model_type roberta \
 --model_name_or_path roberta-large \
 --per_gpu_eval_batch_size 16 \
