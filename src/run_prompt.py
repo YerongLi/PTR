@@ -248,6 +248,7 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
         mx_res = mi_f1
         mx_epoch = epoch
         torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(epoch)+".pkl")
+    log.info(f'Epoch {epoch} Finished.')
     last_epoch = epoch
 
 torch.save(model.state_dict(), args.output_dir+"/"+'parameter'+str(last_epoch)+".pkl")
