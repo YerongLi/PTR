@@ -99,6 +99,8 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
 
         pred = np.argmax(scores, axis = -1)
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)
+        log.info(f'mi_f1 {mi_f1}')
+        log.info(f'ma_f1 {ma_f1}')
         return mi_f1, ma_f1
 
 args = get_args_parser()
