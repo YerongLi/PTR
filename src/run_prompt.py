@@ -99,8 +99,6 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
 
         pred = np.argmax(scores, axis = -1)
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)
-        log.info(f'mi_f1 {mi_f1}')
-        log.info(f'ma_f1 {ma_f1}')
         return mi_f1, ma_f1
 
 args = get_args_parser()
@@ -241,9 +239,12 @@ for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             model.zero_grad()
             global_step += 1
             # torch.cuda.empty_cache()
+    log.info(f'Epoch {epoch} : loss {tr_loss}')
 
     # torch.cuda.empty_cache()
     mi_f1, ma_f1 = evaluate(model, val_dataset, val_dataloader)
+    log.info(f'mi_f1 {mi_f1}')
+    log.info(f'ma_f1 {ma_f1}')
     hist_mi_f1.append(mi_f1)
     hist_ma_f1.append(ma_f1)
     if mi_f1 > mx_res:
