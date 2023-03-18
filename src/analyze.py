@@ -126,6 +126,7 @@ predictions = np.argmax(scores, axis=1)
 log.info(f'all_labels[:50]] {all_labels[:50]}')
 log.info(f'predictions[:50]] {predictions[:50]}')
 cm = confusion_matrix(all_labels, predictions)
+log.info(f'cm.shape {cm.shape}')
 rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
 disp = ConfusionMatrixDisplay(confusion_matrix=cm,
                              display_labels=rel2idlist[:39])
