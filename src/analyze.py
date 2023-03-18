@@ -126,7 +126,9 @@ predictions = np.argmax(scores, axis=1)
 # log.info(f'predictions[:50]] {predictions[:50]}')
 cm = confusion_matrix(all_labels, predictions, labels=range(len(test_dataset.rel2id)))
 
-rel2idlist = [test_dataset.rel2id[k] for k in range(len(test_dataset.rel2id))]
+rel2idlist = [None] * len(test_dataset.rel2id)
+for rel, i in test_dataset.rel2id.items():
+    rel2idlist[i] = rel
 
 error = {}
 for i in range(len(test_dataset.rel2id)):
