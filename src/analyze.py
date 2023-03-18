@@ -125,13 +125,15 @@ predictions = np.argmax(scores, axis=1)
 # log.info(f'all_labels[:50]] {all_labels[:50]}')
 # log.info(f'predictions[:50]] {predictions[:50]}')
 cm = confusion_matrix(all_labels, predictions, labels=range(len(test_dataset.rel2id)))
-log.info('Compare the range of the all_labels and predictions')
-log.info(sorted(list(set(all_labels))))
-log.info(sorted(list(set(predictions))))
-log.info(f'cm.shape {cm.shape}')
-rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
-disp = ConfusionMatrixDisplay(confusion_matrix=cm,
-                             display_labels=rel2idlist)
-disp.plot()
-plt.savefig(f'{args.output_dir}/confusion.png')
 
+rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
+
+error = {}
+for i in range(len(test_dataset.rel2id)):
+    for j in range(len(test_dataset.rel2id)):
+        if i == j: continue
+        error[(i, j)] = cm[i][j]
+
+ans = sorted(error.items(), key=lambda x:x[1], reverse=True)
+log.info('Errors')
+log.info(ans)
