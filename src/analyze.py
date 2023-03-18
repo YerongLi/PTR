@@ -131,7 +131,7 @@ log.info(sorted(list(set(predictions))))
 log.info(f'cm.shape {cm.shape}')
 rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
 disp = ConfusionMatrixDisplay(confusion_matrix=cm,
-                             display_labels=rel2idlist[:39])
+                             display_labels=rel2idlist)
 disp.plot()
 plt.savefig(f'{args.output_dir}/confusion.png')
 
