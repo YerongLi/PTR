@@ -122,7 +122,8 @@ test_dataset = REPromptDataset.load(
     rel2id = args.data_dir + "/" + "rel2id.json")
 log.info(test_dataset.rel2id)
 predictions = np.argmax(scores, axis=1)
-log.info(f'predictions.shape {predictions.shape}')
+log.info(f'all_labels[:50]] {all_labels[:50]}')
+log.info(f'predictions[:50]] {predictions[:50]}')
 cm = confusion_matrix(all_labels, predictions)
 rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
 log.info(cm)
