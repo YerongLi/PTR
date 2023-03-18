@@ -121,7 +121,7 @@ test_dataset = REPromptDataset.load(
     temps = temps,
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
-# log.info(test_dataset.rel2id)
+log.info(test_dataset.rel2id)
 predictions = np.argmax(scores, axis=1)
 # log.info(f'all_labels[:50]] {all_labels[:50]}')
 # log.info(f'predictions[:50]] {predictions[:50]}')
