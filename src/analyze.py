@@ -120,3 +120,5 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 log.info(test_dataset.rel2id)
+predictions = np.argmax(scores, axis=1)
+log.info(f'predictions.shape {predictions.shape}')
