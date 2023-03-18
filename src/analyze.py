@@ -3,6 +3,7 @@ from collections import Counter
 from data_prompt import REPromptDataset
 from modeling import get_model, get_tokenizer
 from optimizing import get_optimizer
+from sklearn.metrics import confusion_matrix
 from templating import get_temps
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
@@ -122,3 +123,15 @@ test_dataset = REPromptDataset.load(
 log.info(test_dataset.rel2id)
 predictions = np.argmax(scores, axis=1)
 log.info(f'predictions.shape {predictions.shape}')
+cm = confusion_matrix(all_labels, predictions)
+rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
+cm_df = pd.DataFrame(cm,
+                     index = rel2idlist, 
+                     columns = rel2idlist)
+#Plotting the confusion matrix
+plt.figure(figsize=(5,4))
+sns.heatmap(cm_df, annot=True)
+plt.title('Confusion Matrix')
+plt.ylabel('Actal Values')
+plt.xlabel('Predicted Values')
+plt.savefig(f'{args.output_dir.split('/')[-1]} matrix.png')
