@@ -110,3 +110,12 @@ scores = np.load(args.output_dir+"/scores.npy")
 all_labels = np.load(args.output_dir+"/all_labels.npy")
 log.info(scores.shape)
 log.info(all_labels.shape)
+
+
+test_dataset = REPromptDataset.load(
+    path = args.output_dir, 
+    name = "test", 
+    temps = temps,
+    tokenizer = tokenizer,
+    rel2id = args.data_dir + "/" + "rel2id.json")
+log.info(test_dataset.rel2id)
