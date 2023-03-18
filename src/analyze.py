@@ -3,13 +3,14 @@ from collections import Counter
 from data_prompt import REPromptDataset
 from modeling import get_model, get_tokenizer
 from optimizing import get_optimizer
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from templating import get_temps
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
 from utils import progress_bar_log
 
 import logging
+import matplotlib.pyplot as plt
 import numpy as np
 import os
 import random
@@ -126,5 +127,8 @@ log.info(f'all_labels[:50]] {all_labels[:50]}')
 log.info(f'predictions[:50]] {predictions[:50]}')
 cm = confusion_matrix(all_labels, predictions)
 rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
-log.info(cm)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm,
+                             display_labels=rel2idlist)
+disp.plot()
+plt.save(f'confusion.png')
 
