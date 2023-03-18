@@ -130,5 +130,5 @@ rel2idlist = [test_dataset.rel2id for k in range(len(test_dataset.rel2id))]
 disp = ConfusionMatrixDisplay(confusion_matrix=cm,
                              display_labels=rel2idlist[:39])
 disp.plot()
-plt.savefig(f'confusion.png')
+plt.savefig(f'{args.output_dir}/confusion.png')
 
