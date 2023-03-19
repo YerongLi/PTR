@@ -159,6 +159,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     log.info('predictions')
     log.info(label)
     log.info(mosterror.keys())
+    log.info(mosterror[label].keys())
 
     if predictions[i] in mosterror[label]:
         with open(f"{mosterror[(label, prediction[i])]}.txt", "w") as f:
