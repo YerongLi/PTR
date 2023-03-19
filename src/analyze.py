@@ -157,6 +157,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     log.info(predictions[i])
     log.info('predictions')
     log.info(label)
+    log.info(type(label))
     log.info(mosterror.keys())
     log.info(mosterror[0])
     log.info('two keys')
