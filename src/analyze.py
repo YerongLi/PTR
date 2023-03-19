@@ -141,7 +141,7 @@ ans = sorted(error_summary.items(), key=lambda x:x[1], reverse=True)
 log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
-mosterror = ((item[0][0], item[0][1]): i for i, item in enumerate(ans[:10])}
+mosterror = {(item[0][0], item[0][1]): i for i, item in enumerate(ans[:10])}
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
 error = [[list()] * N] * N
