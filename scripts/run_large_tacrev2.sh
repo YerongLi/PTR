@@ -21,3 +21,4 @@ python3 src/run_prompt.py \
 --weight_decay 1e-2 \
 --adam_epsilon 1e-6 \
 --temps temp.txt
+--seed 11
