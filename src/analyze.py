@@ -138,7 +138,6 @@ for i in range(len(test_dataset.rel2id)):
         errorsummary[(i, j)] = cm[i][j]
 
 ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
-log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
 mosterror = {i : {} for i in range(N)}
@@ -162,4 +161,3 @@ for i, data in tqdm(enumerate(test_dataset)):
             f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
             f.write(rel2idlist[label]+'\n')
             f.write(rel2idlist[predictions[i]]+'\n')
-log.info('End of script')
