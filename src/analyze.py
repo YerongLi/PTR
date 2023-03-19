@@ -141,6 +141,8 @@ log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
 
+## Get the tokenizer
+tokenizer = get_tokenizer(special=[])
 for data in test_dataset:
     log.info(data.keys())
     break
