@@ -145,11 +145,11 @@ for item in ans:
 tokenizer = get_tokenizer(special=[])
 for i, data in enumerate(test_dataset):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
-    log.info(i)
+    log.info(f'DATAPOINT {i}')
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
     log.info(data['labels'].numpy())
-    log.info(rel2idlist[data['labels'].numpy()[0]])
+    log.info(rel2idlist[data['labels'].numpy()])
     log.info(rel2idlist[predictions[i]])
     if i > 5: break
 log.info('End of script')
