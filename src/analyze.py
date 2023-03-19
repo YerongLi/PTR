@@ -145,7 +145,7 @@ mosterror = {(item[0][0], item[0][1]): i for i, item in enumerate(ans[:10])}
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
 error = [[list()] * N] * N
-for i, data in enumerate(test_dataset):
+for i, data in tdqm(enumerate(test_dataset)):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
