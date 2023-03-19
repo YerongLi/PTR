@@ -137,7 +137,7 @@ for i in range(len(test_dataset.rel2id)):
         if i == j: continue
         errorsummary[(i, j)] = cm[i][j]
 
-ans = sorted(errrorsummary.items(), key=lambda x:x[1], reverse=True)
+ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
 log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
