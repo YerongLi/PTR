@@ -1,3 +1,117 @@
+<s>In the year her American husband has been detained in Cuba, accused of spying for the US, Judy Gross has been forced to sell the family home and move into a small apartment in Washington.the<mask> Gross<mask><mask><mask>the<mask> US</s>
+per:countries_of_residence
+no_relation
+<s>`` The United States would view favorably the release of Alan Gross so that he can return to his family, '' she added.the<mask> Alan Gross<mask><mask><mask>the<mask> United States</s>
+per:countries_of_residence
+no_relation
+<s>Tim will assume leadership of a very talented team of NBA employees based in China including Mark Fisher, who will be promoted to Senior Vice President, '' said Heidi Ueberroth, NBA President of Global Marketing Partnerships and International Business Operations.the<mask> Mark Fisher<mask><mask><mask>the<mask> China</s>
+per:countries_of_residence
+no_relation
+<s>Today, Piedra sees patients in a small office on U.S. 1, a few miles from his former practice.the<mask> his<mask><mask><mask>the<mask> U.S.</s>
+per:countries_of_residence
+no_relation
+<s>A Dutch foreign ministry spokesman said an uncle and an aunt arrived in Tripoli Thursday on a Netherlands government plane and were taken to the hospital `` to make sure that Ruben will see family faces next to his bed. ''the<mask> Ruben<mask><mask><mask>the<mask> Netherlands</s>
+per:countries_of_residence
+no_relation
+<s>After Haiti's catastrophic Jan. 12 earthquake, she accelerated the plan and recruited her fellow missionaries.the<mask> her<mask><mask><mask>the<mask> Haiti</s>
+per:countries_of_residence
+no_relation
+<s>Denaro said he fears that could lead to Kauffmann's extradition back to Venezuela, where he is considered a political enemy.the<mask> he<mask><mask><mask>the<mask> Venezuela</s>
+per:countries_of_residence
+no_relation
+<s>Her successful versatility as a player is matched by her ability as a coach, having had success at both the American collegiate level and internationally in Finland.the<mask> Her<mask><mask><mask>the<mask> Finland</s>
+per:countries_of_residence
+no_relation
+<s>There was just one problem : No mention was made of Alan P. Gross, an American from Potomac, Md., who passed the holiday in a Cuban military facility, where he has been imprisoned for a year without trial because he tried to help Cuba's Jews.the<mask> Alan P. Gross<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>The women have given lawyers and a congressman accounts similar to the allegations of Jamie Leigh Jones, whose allegations of rape have gained media attention across the United States.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> United States</s>
+per:countries_of_residence
+no_relation
+<s>Her successful versatility as a player is matched by her ability as a coach, having had success at both the American collegiate level and internationally in Finland.the<mask> her<mask><mask><mask>the<mask> Finland</s>
+per:countries_of_residence
+no_relation
+<s>Also at the hearing was Jamie Leigh Jones, whose story made the news in December, when she alleged that her 2005 gang rape by Halliburton/KBR co-workers in Iraq was being covered up by the company and the government.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
+per:countries_of_residence
+no_relation
+<s>`` From January 1, I, Charles Ble Goude and the youth of Ivory Coast are going to liberate the Golf Hotel with our bare hands, '' the political showman turned minister declared Wednesday, to a cheering crowd of hardline supporters.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Ivory Coast</s>
+per:countries_of_residence
+no_relation
+<s>Photos Victim : Gang Rape Cover-Up by U.S., Halliburton/KBR Jamie Leigh Jones, now 22, says that after she was raped by multiple men at a KBR camp in the Green Zone, the company put her under guard in a shipping container with a bed and warned her that if she left Iraq for medical treatment, she 'd be out of a job.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
+per:countries_of_residence
+no_relation
+<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> her<mask><mask><mask>the<mask> Iraq</s>
+per:countries_of_residence
+no_relation
+<s>She was here in the good days when the community flourished, then in the tough days following the revolution, and now in the better days, when being Jewish in Cuba is perfectly legitimate and accepted.the<mask> She<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>`` We have been granted access to Alan Gross in Cuba five times, the most recent consular access being on May 25th, '' spokesman Philip Crowley told reporters.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>Italy closing in on Cosa Nostra supremo : minister Italian authorities are closing in on Sicilian Mafia supremo Matteo Messina Denaro, Interior Minister Roberto Maroni said Monday as he announced the arrest of Denaro's brother and 18 associates.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Italy</s>
+per:countries_of_residence
+no_relation
+<s>Bibi's saga, which began last year when Muslim women in her village near Lahore accused her of speaking ill of the prophet Muhammad, is only the latest blasphemy case to draw notice in Pakistan.the<mask> Bibi<mask><mask><mask>the<mask> Pakistan</s>
+per:countries_of_residence
+no_relation
+<s>The detainee's wife, Judy Gross, wrote to Cuban leader Raul Castro in August to express regret for her husband's work in Cuba.the<mask> her husband<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>Cuban detention of US contractor harms ties : Clinton `` The United States would view favorably the release of Alan Gross so that he can return to his family, '' she added.the<mask> Alan Gross<mask><mask><mask>the<mask> United States</s>
+per:countries_of_residence
+no_relation
+<s>Nir Rosen is an exciting young journalist who has gone all over Iraq and reported in a clear-eyed way on everything from Fallujah to Najaf.the<mask> Nir Rosen<mask><mask><mask>the<mask> Iraq</s>
+per:countries_of_residence
+no_relation
+<s>Asked if Cuba's continued detention of American contractor Alan Gross was a stumbling block in ending the embargo, Rodriguez said only that Washington never had a problem finding excuses when it sought to justify its policies.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>In December, Cuba detained a US government contractor, Alan Gross, whom Havana accused of distributing communications materials to civil groups.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>Jamie Leigh Jones, now 23, said that she was gang raped inside the Baghdad Green Zone in July 2005 while she was working for the Halliburton subsidiary KBR Inc, which has support contracts with the US military.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> US</s>
+per:countries_of_residence
+no_relation
+<s>The U.S. government says Gross was in Cuba as part of a USAID program to distribute communications equipment to the island's 1,500-strong Jewish community, and both the State Department and Gross's wife, Judy, made fresh appeals this week for his release.the<mask> his<mask><mask><mask>the<mask> U.S.</s>
+per:countries_of_residence
+no_relation
+<s>Today, Piedra sees patients in a small office on U.S. 1, a few miles from his former practice.the<mask> Piedra<mask><mask><mask>the<mask> U.S.</s>
+per:countries_of_residence
+no_relation
+<s>When Benazir Bhutto was prime minister, she asked Rashid whether he would be interested in becoming Pakistan's ambassador to Afghanistan but he demurred, preferring the rough and tumble of frontier reporting.the<mask> Rashid<mask><mask><mask>the<mask> Pakistan</s>
+per:countries_of_residence
+no_relation
+<s>Warsaw, July 26, 2009 -LRB- AFP -RRB- Shah Abdul Aziz is being questioned in Pakistan over the execution of Piotr Stanczak, 42, who was beheaded in February after being abducted while working in the Asian country.the<mask> Shah Abdul Aziz<mask><mask><mask>the<mask> Pakistan</s>
+per:countries_of_residence
+no_relation
+<s>Laura Silsby, the leader of a group of US missionaries arrested trying to leave Haiti with 33 children following the massive January earthquake here, was freed Monday, her lawyer told AFP.the<mask> her<mask><mask><mask>the<mask> Haiti</s>
+per:countries_of_residence
+no_relation
+<s>-- A jury in Italy convicts American student Amanda Knox and her former Italian boyfriend of murdering Knox's British roommate and sentences them to long prison terms.the<mask> Amanda Knox<mask><mask><mask>the<mask> Italy</s>
+per:countries_of_residence
+no_relation
+<s>Amanda Knox is being held in Perugia, central Italy, in connection with the stabbing death of 21-year-old Meredith Kercher, her flatmate.the<mask> her<mask><mask><mask>the<mask> Italy</s>
+per:countries_of_residence
+no_relation
+<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> she<mask><mask><mask>the<mask> Iraq</s>
+per:countries_of_residence
+no_relation
+<s>In the last round of talks, U.S. diplomats pressed Cuba to release Alan Gross, a jailed American contractor that Cuba has accused of spying.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>At the 2005 New America Foundation conference on terrorism, citation above, New Yorker journalist Nir Rosen blamed terrorism in large part on U.S. support for corrupt and undemocratic Middle Eastern regimes ; and University of Chicago political scientist Robert Pape blamed it in large part on the stationing of U.S. troops on the Arabian peninsula.the<mask> Nir Rosen<mask><mask><mask>the<mask> U.S.</s>
+per:countries_of_residence
+no_relation
+<s>`` We are proud Cubans and proud Jews, '' she says, adding that she never feels any problem talking about her religion in Cuba.the<mask> she<mask><mask><mask>the<mask> Cuba</s>
+per:countries_of_residence
+no_relation
+<s>Police in El Salvador are investigating Puello for his alleged involved in a sex trafficking ring, although he has denied the allegations.the<mask> his<mask><mask><mask>the<mask> El Salvador</s>
+per:countries_of_residence
+no_relation
+<s>`` Now we are free, I think Ivory Coast will rediscover itself, '' said Azita Bamba, a shopkeeper who came to a polling station with her six children.the<mask> Bamba<mask><mask><mask>the<mask> Ivory Coast</s>
+per:countries_of_residence
+no_relation
 <s>-- Posted By SF to Jewish And Breaking News at 9/30/2007 07:12:00 PM http://wwwthejccom/homeaspx?ParentId=m11s19&SecId;=19&AId;=55695&ATy; Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> Adela Dworin<mask><mask><mask>the<mask> Cuba</s>
 per:countries_of_residence
 no_relation

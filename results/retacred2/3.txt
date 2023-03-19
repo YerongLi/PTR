@@ -1,3 +1,156 @@
+<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> he<mask><mask><mask>the<mask> CBS</s>
+no_relation
+per:employee_of
+<s>Benjamin Chertoff is the Editor in Chief of Popular Mechanics magazine, as well as the cousin of the Director of Homeland Security, Michael Chertoff.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> Homeland Security</s>
+no_relation
+per:employee_of
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> his<mask><mask><mask>the<mask> Manhattan</s>
+no_relation
+per:employee_of
+<s>Gonzalez, an attorney, was kidnapped from his office on Oct. 21 -- less than three weeks after his sister Patricia Gonzalez stepped down as Chihuahua state's attorney general due to a change of governor.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
+no_relation
+per:employee_of
+<s>Ouattara's new United Nations ambassador Youssoufou Bamba meanwhile gave a stark warning as he received his credentials from UN Secretary-General Ban Ki-moon.the<mask> his<mask><mask><mask>the<mask> UN</s>
+no_relation
+per:employee_of
+<s>Chihuahua state government officials confirmed the man in the video was Mario Gonzalez, but they refused to comment on the credibility of the words he spoke at gunpoint -- which included blaming his sister for several notorious killings in the state -- and suggested the allegations might be investigated.the<mask> Mario Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
+no_relation
+per:employee_of
+<s>Writing in the AFP, Christopher Bollyn made the claims that ZIM shipping suspiciously moved out of the WTC shortly before the attacks and that Benjamin Chertoff of Popular Mechanics is the cousin of Michael Chertoff, director of Homeland Security.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> Homeland Security</s>
+no_relation
+per:employee_of
+<s>At the top of the list is Matteo Messina Denaro, described by investigators as Cosa Nostra's top boss.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+no_relation
+per:employee_of
+<s>The French said they believe Goude `` requires payment for all activities he undertakes on behalf of the Presidency and the FPI governing party. ''the<mask> he<mask><mask><mask>the<mask> FPI</s>
+no_relation
+per:employee_of
+<s>Looking at the source of the story, it makes a lot of sense that they would give it a twoofer twist, seeing as how a few of the regular contributors to AFP include such fountains of wisdom as Ron Paul, Christopher Bollyn, and James P. Tucker, Jr..the<mask> Christopher Bollyn<mask><mask><mask>the<mask> AFP</s>
+no_relation
+per:employee_of
+<s>Baluchistan, where he fought in the '60s and '70s, shares a border with Afghanistan, and in 1978 Rashid was in Kabul for the coup that put the Communists in power.the<mask> he<mask><mask><mask>the<mask> Baluchistan</s>
+no_relation
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> U.N.</s>
+no_relation
+per:employee_of
+<s>They seized Vagni and two other Red Cross in Jolo in January although the two others were released separately in April.the<mask> Vagni<mask><mask><mask>the<mask> Red Cross</s>
+no_relation
+per:employee_of
+<s>Among them were Wen Qiang, former deputy director of Chongqing's public security department ; Peng Changjian, former vice director of Chongqing's public security department ; Zhang Tao, former deputy head of Chongqing's higher court ; Mao Jianping, former deputy chief procurator of a branch of Chongqing People's Procuratorate.the<mask> Wen Qiang<mask><mask><mask>the<mask> public security department</s>
+no_relation
+per:employee_of
+<s>Richard Gage, AIA Debates Explosives Expert on Monthe<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>Ali Mokhtare, who is still employed by the State Department, was investigated in 2005 after a female Halliburton/KBR employee said he sexually assaulted her at the company-run camp in Basra, Iraq.the<mask> her<mask><mask><mask>the<mask> State Department</s>
+no_relation
+per:employee_of
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> Manhattan</s>
+no_relation
+per:employee_of
+<s>The new minister of youth is Charles Ble Goude, who is the subject of a 2006 United Nations sanction for his role in inciting the Young Patriots, a pro-Gbagbo group that led violent attacks against foreigners, especially French citizens.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Young Patriots</s>
+no_relation
+per:employee_of
+<s>People wanted to hang these young men up a tree, '' said Sarah Kunstler, now a defense attorney in New York.the<mask> Sarah Kunstler<mask><mask><mask>the<mask> New York</s>
+no_relation
+per:employee_of
+<s>In 2002, Piedra and Blyskal sat on Miami's charter committee.the<mask> Piedra<mask><mask><mask>the<mask> charter</s>
+no_relation
+per:employee_of
+<s>But the new Ivory Coast ambassador to the United Nations, Youssoufou Bamba, said Wednesday that his country was `` on the brink of genocide '' and called for UN action.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> UN</s>
+no_relation
+per:employee_of
+<s>Investigators said that with Tuesday's arrests they are closing in on Matteo Messina Denaro, a fugitive who is among a handful of mobsters vying to take over the Sicilian Mafia.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Sicilian Mafia</s>
+no_relation
+per:employee_of
+<s>The California Institute of Technology says physicist Andrew Lange, who conducted award-winning research into the remnants of the Big Bang, is dead at age 53.the<mask> Andrew Lange<mask><mask><mask>the<mask> California Institute of Technology</s>
+no_relation
+per:employee_of
+<s>Chihuahua state government officials confirmed the man in the video was Mario Gonzalez, but they refused to comment on the credibility of the words he spoke at gunpoint -- which included blaming his sister for several notorious killings in the state -- and suggested the allegations might be investigated.the<mask> his<mask><mask><mask>the<mask> Chihuahua</s>
+no_relation
+per:employee_of
+<s>Prosecutors say Lo Piccolo, who is from Palermo, was vying to become Cosa Nostra's unchallenged top boss, pitted against another fugitive, Matteo Messina Denaro, a younger boss from the city of Trapani, in western Sicily.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+no_relation
+per:employee_of
+<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
+no_relation
+per:employee_of
+<s>Rallying his supporters among the `` Young Patriots '', he dismissed the threat to march on the television station, and mocked Ouattara's supporters.the<mask> his<mask><mask><mask>the<mask> `` Young Patriots</s>
+no_relation
+per:employee_of
+<s>He's a member of NYU's board of trustees and according to this article by Christopher Bollyn, he also holds or held a senior position in the Anti-Defamation League -LRB- ADL -RRB-, founded to stop discrimination against, and defamation of, the Jewish people.the<mask> Christopher Bollyn<mask><mask><mask>the<mask> NYU</s>
+no_relation
+per:employee_of
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> Manhattan</s>
+no_relation
+per:employee_of
+<s>Internationally acclaimed 9/11 speaker and architect Richard Gage, AIA, will present the evidence of the explosive destruction of the three World Trade Center skyscrapers on 9/11the<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>In December, they said, he was on a follow-up trip for Development Alternatives Inc, a contractor working with the US Agency for International Development.the<mask> he<mask><mask><mask>the<mask> Development Alternatives Inc</s>
+no_relation
+per:employee_of
+<s>Chihuahua state government officials confirmed the man in the video was Mario Gonzalez, but they refused to comment on the credibility of the words he spoke at gunpoint -- which included blaming his sister for several notorious killings in the state -- and suggested the allegations might be investigated.the<mask> he<mask><mask><mask>the<mask> Chihuahua</s>
+no_relation
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as UN envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> UN</s>
+no_relation
+per:employee_of
+<s>Join us today, Tuesday, October 16 for our conversation with Richard Gage and hear extensive excerpts from his methodical two-hour lecture and power point presentation at the University of Manitoba.the<mask> Richard Gage<mask><mask><mask>the<mask> University of Manitoba</s>
+no_relation
+per:employee_of
+<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> Wen Qiang<mask><mask><mask>the<mask> justice bureau</s>
+no_relation
+per:employee_of
+<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison after a first-instance trial on Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
+no_relation
+per:employee_of
+<s>Mark Fisher, Dayton Daily News.the<mask> Mark Fisher<mask><mask><mask>the<mask> Dayton Daily News</s>
+no_relation
+per:employee_of
+<s>Richard Gage, AIA Debates Explosives Expert on Mon., 11/12, 8:00 PM PSTthe<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>Jones began working for KBR as an administrative assistant in 2004 when she was 19, but later transferred to Iraq with another Halliburton subsidiary, according to her lawsuit.the<mask> she<mask><mask><mask>the<mask> Halliburton</s>
+no_relation
+per:employee_of
+<s>Vagni was kidnapped with two Red Cross colleagues Jan 15 in Jolo.the<mask> Vagni<mask><mask><mask>the<mask> Red Cross</s>
+no_relation
+per:employee_of
+<s>Jorge Puello began identifying himself as the `` newly elected president of the Jewish Communities of Dominican Republic '' in a Jewish newsletter and elsewhere even though he was never elected to any such role and had no congregation.the<mask> he<mask><mask><mask>the<mask> Dominican Republic</s>
+no_relation
+per:employee_of
+<s>`` At one point we were down to about 800 Jews in Cuba but now it's back to about 1,500, '' said Dworin, a cheerful, intelligent woman who speaks perfect English and serves as president of Cuba's Jewish Community.the<mask> Dworin<mask><mask><mask>the<mask> Cuba</s>
+no_relation
+per:employee_of
+<s>Messina Denaro has been trying to impose his power in Palermo, the Sicilian capital, and become the new head of the Sicilian Mafia, weakened by the arrest of Provenzano in April 2006.the<mask> Messina Denaro<mask><mask><mask>the<mask> Sicilian Mafia</s>
+no_relation
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> his<mask><mask><mask>the<mask> U.N.</s>
+no_relation
+per:employee_of
+<s>China earlier this month executed Wen Qiang, a former top Chongqing police and justice official at the centre of the scandal.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+no_relation
+per:employee_of
+<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> Nir Rosen<mask><mask><mask>the<mask> CBS</s>
+no_relation
+per:employee_of
+<s>Google : Loose Change Google PLACE : Crosses of Lafayette The 9/11 Truth Festival & 9/11 : Blueprint for Truth Presentation with Richard Gage, AIA, Architect are benefits for the Northern California 9/11 Truth Alliance.the<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>ABN Amro announced Thursday that it will nominate Royal Bank of Scotland -LRB- RBS -RRB- executive Mark Fisher as its new chairman, following the takeover of the Dutch lender by the RBS-led consortium.the<mask> Mark Fisher<mask><mask><mask>the<mask> ABN Amro</s>
+no_relation
+per:employee_of
+<s>In a federal lawsuit, Jamie Leigh Jones says she was drugged, raped and held against her will in a storage locker while working for KBR Inc., then a subsidiary of Halliburton Co., in 2005.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Halliburton Co.</s>
+no_relation
+per:employee_of
+<s>The Trapani investigation is part of a larger government strategy targeting people investigators consider to be linked to a new leader of Cosa Nostra, Matteo Messina Denaro.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+no_relation
+per:employee_of
+<s>`` It seems like a politically charged and politically motivated move rather than a fiscally responsible one, '' Lomax, former commission chairman of Georgia's most populous county, said.the<mask> Lomax<mask><mask><mask>the<mask> Georgia</s>
+no_relation
+per:employee_of
 <s>ABN Amro to nominate RBS's Mark Fisher as new chairmanthe<mask> Mark Fisher<mask><mask><mask>the<mask> ABN Amro</s>
 no_relation
 per:employee_of

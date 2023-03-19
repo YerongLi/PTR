@@ -1,3 +1,90 @@
+<s>PATA's study, which covers 40 destinations that include the U.S., Canada, Chile, Mexico and the Pacific islands, says total arrival numbers to the Asia Pacific are projected to exceed 460 million by 2010, up from 347 million in 2006.the<mask> PATA<mask><mask><mask>the<mask> Pacific</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> ANTARA</s>
+org:members
+no_relation
+<s>Trend, an Azerbaijani wire service, on Thursday became a full member of the Organization of Asia - Pacific News Agencies -LRB- OANA -RRB-.the<mask> Organization of Asia - Pacific News Agencies<mask><mask><mask>the<mask> Azerbaijani wire service</s>
+org:members
+no_relation
+<s>The Istanbul Declaration was passed during the 14th General Assembly of the Organization of Asia-Pacific News Agencies -LRB- OANA -RRB- summit, a four-day summit bringing together 50 news agencies from 42 countries which started on Wednesday.the<mask> OANA<mask><mask><mask>the<mask> General Assembly</s>
+org:members
+no_relation
+<s>The first travel trend and research conference of the UNWTO and PATA, which opened here on June 29 and closed on July 1, was attended by about 200 tourism specialists from 20 countries and regions including China, the United States, Australia, Japan, Thailand and Singapore.the<mask> PATA<mask><mask><mask>the<mask> Australia</s>
+org:members
+no_relation
+<s>11:00, Government Information Office Minister Cheng Wen-tsang will hold a news conference in recognition of the success of the National Taiwan Symphony Orchestra's MIDEM Showcase performance.the<mask> National Taiwan Symphony Orchestra<mask><mask><mask>the<mask> MIDEM</s>
+org:members
+no_relation
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> Organisation of Asia-Pacific News Agencies<mask><mask><mask>the<mask> general assembly</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> PPI</s>
+org:members
+no_relation
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> OANA<mask><mask><mask>the<mask> general assembly</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> Anadolu</s>
+org:members
+no_relation
+<s>Panama has submitted a letter of intention to quit the Central American Parliament -LRB- PARLACEN -RRB-, the foreign ministry said Wednesday.the<mask> Central American Parliament<mask><mask><mask>the<mask> Panama</s>
+org:members
+no_relation
+<s>Most of the aid donations are being funnelled through the Chinese Red Cross, the non-governmental China Charity Federation or various governmental groups, the ministry said on its website.the<mask> China Charity Federation<mask><mask><mask>the<mask> Red Cross</s>
+org:members
+no_relation
+<s>ADF is the owner of a Greenwich Village KFC/Taco Bell that closed by New York health inspectors last week after TV news crews peering in through the windows recorded a nauseating number of rats skittering across the floors and climbing on tables and countertops.the<mask> ADF<mask><mask><mask>the<mask> Greenwich Village KFC/Taco Bell</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> Yonhap</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> Itar-Tass</s>
+org:members
+no_relation
+<s>OANA members include, to name just a few, Australia's AAP, China's Xinhua, India's PTI, Indonesia's ANTARA, Iran's IRNA, Japan's Kyodo and Jiji Press, Pakistan's PPI and APP, Kazakhstan's Kazinform, Kuwait's KUNA, Mongolia's MONTSAME, the Philippines'PNA, Russia's Itar-Tass and RIA, Saudi Arabia's SPA, the Republic of Korea's Yonhap, and Turkey's Anadolu.the<mask> OANA<mask><mask><mask>the<mask> AAP</s>
+org:members
+no_relation
+<s>`` China has taken three kinds of policies to boost consumption, including improving residents'income, encouraging and empowering rural residents to spend, boosting large and popular items consumption such as automobiles and apartments, '' said Sun Xuegong, a researcher at the Academy of Macroeconomic Research under the National Development and Reform Commission.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> Academy of Macroeconomic Research</s>
+org:members
+no_relation
+<s>Ahmad Mukhlis Yusuf, chief of Indonesia's national news agency Antara, was elected President of the Organization of Asia Pacific News Agencies -LRB- OANA -RRB- at the organization's 13th general assembly taking place here Wednesday.the<mask> Organization of Asia Pacific News Agencies<mask><mask><mask>the<mask> 13th general assembly</s>
+org:members
+no_relation
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> OANA<mask><mask><mask>the<mask> general assembly</s>
+org:members
+no_relation
+<s>Sycamore Software Solutions has decades of experience in managing on-site and off-shore software development projects and has delivered several mission critical software systems to the customers in US, UK, Canada and Korea.the<mask> Sycamore Software Solutions<mask><mask><mask>the<mask> Korea</s>
+org:members
+no_relation
+<s>`` The snow has taken a toll on the Chinese economy, '' said Zhu Hongren, deputy director of the Bureau of Economic Operations with the National Development and Reform Commission -LRB- NDRC -RRB-.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> Bureau of Economic Operations</s>
+org:members
+no_relation
+<s>Lee A Daniels - author, former editor of the National Urban League's journal The State of Black America.the<mask> National Urban League<mask><mask><mask>the<mask> The State of Black America</s>
+org:members
+no_relation
+<s>Trend, an Azerbaijani wire service, on Thursday became a full member of the Organization of Asia - Pacific News Agencies -LRB- OANA -RRB-.the<mask> Organization of Asia - Pacific News Agencies<mask><mask><mask>the<mask> Trend</s>
+org:members
+no_relation
+<s>A consortium from France, Britain and the United States has been chosen as preferred bidder to manage Britain's nuclear waste reprocessing facility at Sellafield in northwestern England, the Nuclear Decommissioning Authority said Friday.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> France</s>
+org:members
+no_relation
+<s>Russia and China have been actively developing cooperation within the framework of the Organization of Asia-Pacific News Agencies -LRB- OANA -RRB- and the World Congress of News Agencies, said Ignatenko.the<mask> Organization of Asia-Pacific News Agencies<mask><mask><mask>the<mask> China</s>
+org:members
+no_relation
+<s>Ahmad Mukhlis Yusuf, chief of Indonesia's national news agency Antara, was elected President of the Organization of Asia Pacific News Agencies -LRB- OANA -RRB- at the organization's 13th general assembly taking place here Wednesday.the<mask> Organization of Asia Pacific News Agencies<mask><mask><mask>the<mask> Indonesia</s>
+org:members
+no_relation
+<s>TPI founder Prachai Leophairatana got three years behind bars for misleading the public about the valuation of subsidiary TPIPL's share prices when it was floated in 2003.the<mask> TPI<mask><mask><mask>the<mask> TPIPL</s>
+org:members
+no_relation
+<s>China had also enhanced cooperation with international tourism organizations, including the World Tourism Administration -LRB- WTO -RRB- and the Pacific Asia Travel Association -LRB- PATA -RRB-, to promote tourism development and exchanges with other countries and regions, Shao said.the<mask> PATA<mask><mask><mask>the<mask> China</s>
+org:members
+no_relation
+<s>`` ADF is composed of Ugandans, Shebab and ADF are linked to Al-Qaeda. ''the<mask> ADF<mask><mask><mask>the<mask> Shebab</s>
+org:members
+no_relation
 <s>The Istanbul Declaration was passed during the 14th General Assembly of the Organization of Asia-Pacific News Agencies -LRB- OANA -RRB- summit, a four-day summit bringing together 50 news agencies from 42 countries which started on Wednesday.the<mask> Organization of Asia-Pacific News Agencies<mask><mask><mask>the<mask> General Assembly</s>
 org:members
 no_relation

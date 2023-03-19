@@ -1,3 +1,141 @@
+<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> footballer</s>
+no_relation
+per:title
+<s>Gonzalez, an attorney, was kidnapped from his office on Oct. 21 -- less than three weeks after his sister Patricia Gonzalez stepped down as Chihuahua state's attorney general due to a change of governor.the<mask> Gonzalez<mask><mask><mask>the<mask> attorney general</s>
+no_relation
+per:title
+<s>In the video, Mario Gonzalez, answering questions posed by a man off camera, says his sister protected La Linea, a street gang tied to the Juarez cartel, and that he acted as the liaison between the gang and attorney general's office, collecting payoffs.the<mask> Mario Gonzalez<mask><mask><mask>the<mask> liaison</s>
+no_relation
+per:title
+<s>Sarah Kunstler was 12 and her sister and co-filmmaker, Emily, was 10 when Trisha Meili, a 28-year-old accountant, was beaten and raped in Central Park in April 1989.the<mask> Sarah Kunstler<mask><mask><mask>the<mask> co-filmmaker</s>
+no_relation
+per:title
+<s>Vladimir Ladyzhenskiy, an amateur wrestler who was in his 60s, was pronounced dead late Saturday after he collapsed alongside reigning champion Timo Kaukonen of Finland roughly six minutes into the final round.the<mask> he<mask><mask><mask>the<mask> wrestler</s>
+no_relation
+per:title
+<s>If she joined, she could live her dream, she could be an auditor.the<mask> she<mask><mask><mask>the<mask> auditor</s>
+no_relation
+per:title
+<s>`` Skillful negotiations and incessant pressure by relentless operations... won the release of Vagni, '' Philippine marine spokesman Lt. Col. Edgard Arevalo said.the<mask> Vagni<mask><mask><mask>the<mask> marine spokesman Lt. Col.</s>
+no_relation
+per:title
+<s>Ble Goude is Gbagbo's minister of youth and employment, known as the `` street general '' for organizing a violent anti-French and anti-U.N. gang that terrorized the foreign population in Ivory Coast in 2004-2005.the<mask> Ble Goude<mask><mask><mask>the<mask> general</s>
+no_relation
+per:title
+<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> footballer</s>
+no_relation
+per:title
+<s>It is a role Rashid has played on a larger canvas ever since : as journalist, author and, sometimes, behind-the-scenes adviser to diplomats who have grappled with Afghanistan's troubles, not least the Taliban.the<mask> Rashid<mask><mask><mask>the<mask> author</s>
+no_relation
+per:title
+<s>Israeli radio stations played melancholy songs throughout the day and newspapers devoted numerous pages to stories and pictures of the handsome Assaf Ramon, who had completed his pilot training course in June.the<mask> Assaf Ramon<mask><mask><mask>the<mask> pilot</s>
+no_relation
+per:title
+<s>He has the soul of a poet, you morons.the<mask> He<mask><mask><mask>the<mask> poet</s>
+no_relation
+per:title
+<s>The alleged shooter in the murder of American Indian Movement activist Annie Mae Aquash is expected to go on trial for murder starting Monday.the<mask> Annie Mae<mask><mask><mask>the<mask> activist</s>
+no_relation
+per:title
+<s>Im no engineer or architect, but if I was juror and his presentation was part of the case for the prosecution, I would be looking forward to the case for the defence.the<mask> his<mask><mask><mask>the<mask> engineer</s>
+no_relation
+per:title
+<s>If his commander has any sense, he 'll be under 24 hour guard and forced to do the messiest, dirtiest jobs imaginable since he obviously can't be trusted to carry out more sensitive jobs.the<mask> his<mask><mask><mask>the<mask> commander</s>
+no_relation
+per:title
+<s>Labour MPs Colin Burgon, Jon Cruddas, Jeremy Corbyn and Mark Fisher and Plaid Cymru MP Adam Price were amongst the more than 100 people in attendance.the<mask> Mark Fisher<mask><mask><mask>the<mask> MP</s>
+no_relation
+per:title
+<s>During the 1980s he received fully 90 % the CIA-supplied funds doled out via Pakistan's Inter-Service Intelligence -LRB- ISI -RRB- to the Mujahadeen Islamic warriors -LRB- see Ahmed Rashid, Taliban -LSB- Yale University Press, 2000 -RSB-, p. 91 -RRB-.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
+no_relation
+per:title
+<s>The youth leader, Charles Ble Goude, is known as the `` street general '' for organizing a violent anti-French and anti-U.N. gang that terrorized the foreign population in Ivory Coast in 2004-2005.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> general</s>
+no_relation
+per:title
+<s>Giuliano's son, John Giuca, was one of two men convicted of murdering Mark Fisher, a 19-year-old Fairfield University student who was shot five times and found on a quiet Brooklyn street after a night of partying in New York City in October 2003.the<mask> Mark Fisher<mask><mask><mask>the<mask> student</s>
+no_relation
+per:title
+<s>The fund's spokesman Konstantin Kruglyansky told the LifeNews daily that his family has demanded an investigation into his death.the<mask> his<mask><mask><mask>the<mask> spokesman</s>
+no_relation
+per:title
+<s>and i dont feel bad about offending craig as he put his ideas up on a public section of the internet as the host of the video this put him in the public eye so when he gets photoshopped it shouldnt be a surprise to himthe<mask> he<mask><mask><mask>the<mask> host</s>
+no_relation
+per:title
+<s>Like me, he is not a primary researcher or scientist.the<mask> he<mask><mask><mask>the<mask> scientist</s>
+no_relation
+per:title
+<s>On Tuesday, CNN snagged interviews with Sherrod, Breitbart and Eloise Spooner, wife of the Georgia farmer whom Sherrod had aided and was the subject of her anecdote.the<mask> Eloise Spooner<mask><mask><mask>the<mask> farmer</s>
+no_relation
+per:title
+<s>And Gbagbo's notorious `` Street General '', Minister for Youth Charles Ble Goude, has urged Ivorian youths to rise up in the New Year to storm Ouattara's UN - defended headquarters in what he described as a `` bare-handed '' assault.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> General</s>
+no_relation
+per:title
+<s>Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> her<mask><mask><mask>the<mask> butcher</s>
+no_relation
+per:title
+<s>Laura Silsby, the organizer of the ill-fated effort to take the children to an orphanage being set up in the Dominican Republic, returned to her jail cell briefly to retrieve belongings before quickly heading to the Port-au-Prince airport.the<mask> Laura Silsby<mask><mask><mask>the<mask> organizer</s>
+no_relation
+per:title
+<s>Mycall, I don't want to cause trouble, but firstly I thought I should point out that Christopher Bollyn is neither the webmaster of iamthewitness.com, nor is he the author of that quote.the<mask> he<mask><mask><mask>the<mask> author</s>
+no_relation
+per:title
+<s>Military officials named the pilot as Lieutenant Assaf Ramon, 21, the eldest son of Colonel Ilan Ramon, an Israeli fighter pilot who became the country's first and only astronaut.the<mask> Assaf Ramon<mask><mask><mask>the<mask> pilot</s>
+no_relation
+per:title
+<s>An ongoing misconception is that Heloise and Abelard were nun and monk when they became lovers ; there's a certain appeal there for some people.the<mask> Heloise<mask><mask><mask>the<mask> nun</s>
+no_relation
+per:title
+<s>Military officials named the pilot as Lieutenant Assaf Ramon, 21, the eldest son of Colonel Ilan Ramon, an Israeli fighter pilot who became the Jewish state's first and only astronaut.the<mask> Assaf Ramon<mask><mask><mask>the<mask> pilot</s>
+no_relation
+per:title
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as UN envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> envoy</s>
+no_relation
+per:title
+<s>If she joined, she could live her dream, she could be an auditor.the<mask> she<mask><mask><mask>the<mask> auditor</s>
+no_relation
+per:title
+<s>That would still leave mission leader Laura Silsby facing charges.the<mask> Laura Silsby<mask><mask><mask>the<mask> leader</s>
+no_relation
+per:title
+<s>She was 16 and set her sights on becoming a Scientology auditor and course supervisor.the<mask> her<mask><mask><mask>the<mask> supervisor</s>
+no_relation
+per:title
+<s>`` He 'll have to march over our corpses to get to Gbagbo, '' warned Ble Goude, who is still nicknamed the `` General of the Street '' in Abidjan, calling on his followers to gather in the Yopougon district of the city.the<mask> Ble Goude<mask><mask><mask>the<mask> General</s>
+no_relation
+per:title
+<s>Court papers of the intended estate gift were filed Friday by the brother and executor for 48-year-old George Sodini.the<mask> George Sodini<mask><mask><mask>the<mask> executor</s>
+no_relation
+per:title
+<s>A lawyer who represents Gross said she wanted news of the letter to coincide with debates about Cuba -- Latin America's last Communist outpost -- that are scheduled to begin Monday at the United Nations and in the European Union.the<mask> she<mask><mask><mask>the<mask> lawyer</s>
+no_relation
+per:title
+<s>Tracy Barker had sued US contractor KBR Inc, its former parent company Halliburton and several affiliates in May 2007, claiming she was sexually attacked by a State Department employee while working as a civilian contractor in the southern Iraqi city of Basra.the<mask> Tracy Barker<mask><mask><mask>the<mask> contractor</s>
+no_relation
+per:title
+<s>Cerniglia was the second former star in one of Ramsay's shows to commit suicide, the New York Post reported.the<mask> Cerniglia<mask><mask><mask>the<mask> star</s>
+no_relation
+per:title
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> printer</s>
+no_relation
+per:title
+<s>Lomax shares a story about Almena Lomax, his mother and a newspaper owner and journalist in Los Angeles, taking her family on the bus to Tuskegee, Ala., in 1961.the<mask> Almena Lomax<mask><mask><mask>the<mask> journalist</s>
+no_relation
+per:title
+<s>Giuca was convicted of the 2003 murder of Mark Fisher, a 19-year - old college student from Andover, New Jersey, who had gone to an after-hours party Giuca hosted in Brooklyn while his parents were out of town.the<mask> Mark Fisher<mask><mask><mask>the<mask> student</s>
+no_relation
+per:title
+<s>A Dominican diplomat who said she visited him the same day the missionaries tried to take the children out of the country told the AP that he warned her that without those papers she could be arrested.the<mask> she<mask><mask><mask>the<mask> diplomat</s>
+no_relation
+per:title
+<s>The jury in the trial of an American college student and her former boyfriend accused of murdering her roommate has finished hearing evidence from witnesses.the<mask> her<mask><mask><mask>the<mask> student</s>
+no_relation
+per:title
+<s>Israeli radio stations played melancholy songs throughout the day on Monday and newspapers devoted numerous pages to stories and pictures of the handsome Assaf Ramon, who had completed his pilot training course in June.the<mask> Assaf Ramon<mask><mask><mask>the<mask> pilot</s>
+no_relation
+per:title
+<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> he<mask><mask><mask>the<mask> reporter</s>
+no_relation
+per:title
 <s>`` From January 1, I, Charles Ble Goude and the youth of Ivory Coast are going to liberate the Golf Hotel with our bare hands, '' the political showman turned minister declared Wednesday, to a cheering crowd of hardline supporters.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> minister</s>
 no_relation
 per:title

@@ -1,3 +1,132 @@
+<s>The cost of cleaning up existing waste is higher than previously thought The UK's nuclear waste clean-up programme could cost more than # 70bn, according to the Nuclear Decommissioning Authority -LRB- NDA -RRB-.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> UK</s>
+org:country_of_branch
+no_relation
+<s>This was the fifth year of Australia's involvement in Pacific Partnership, with Australian Defense Force -LRB- ADF -RRB- personnel assisting in aid activities in Vietnam, Cambodia, Indonesia, Papua New Guinea and Timor-Leste.the<mask> ADF<mask><mask><mask>the<mask> Cambodia</s>
+org:country_of_branch
+no_relation
+<s>He has served as a policy aide to the late U.S. Senator Alan Cranston, as National Issues Director for the 2004 presidential campaign of Congressman Dennis Kucinich, as a co-founder of Progressive Democrats of America and as a member of the international policy department at the RAND Corporation think tank before all that.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>From the 2007 Zogby poll, regarding the two primary schools of thought : Let It Happen On Purpose -LRB- LIHOP -RRB- the US government knew the attacks were coming but consciously let them proceed for various political, military and economic motives Made It Happen On Purpose -LRB- MIHOP -RRB- certain US government elements actively planned or assisted some aspects of the attacks Group LIHOP MIHOP Progressive 35.8 1.7 Liberal 34.4 5.0 Moderate 27 5.7 Conservative 22.3 4.1 VeryConservative 5.9 1.0 Libertarian 18.8 11.6 http://www.911truth.org/images/ZogbyPoll2007.pdfthe<mask> LIHOP<mask><mask><mask>the<mask> US</s>
+org:country_of_branch
+no_relation
+<s>ShopperTrak also estimates foot traffic in the U.S. was 11.2 percent below what it would have been Sunday if the blizzard had not occurred and 13.9 percent below what it could have been Monday.the<mask> ShopperTrak<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>Among the factors driving the trend are the globalization of business and a wealth of cheap technology talent in emerging countries like India and China, which have younger populations and graduate far more engineers than the United States, said Peter A. Allen, partner and managing director at TPI, a Houston consulting firm that advises companies on outsourcing.the<mask> TPI<mask><mask><mask>the<mask> United States</s>
+org:country_of_branch
+no_relation
+<s>Consumer traffic at America's retail stores declined 23.7 percent and sales fell 5.3 percent compared with the period a year ago as concerns about the economy and snowstorms kept many shoppers at home, according to ShopperTrak, a research company.the<mask> ShopperTrak<mask><mask><mask>the<mask> America</s>
+org:country_of_branch
+no_relation
+<s>According to the plan, mapped out by the National Development and Reform Commission, and the Ministries of Water Resources and Construction, China hopes to cut water consumption per unit GDP by 20 percent compared with 2005.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant in southwest Ohio and at Koch Foods Inc.'s Chicago-area headquarters, said Brian Moskowitz, an agent in charge of ICE enforcement for Ohio and Michigan.the<mask> Koch Foods Inc.<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>At 9 pm EDT, Tuesday, October 23rd, in a nationwide phone call organized by Progressive Democrats of America, Rep. Dennis Kucinich announced he will go before the U.S. House of Representatives on a point of personal privilege to move the impeachment of Dick Cheney.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>AIG, which was saved from bankruptcy by the US government in September 2008, announced last month it was selling AIA to Prudential and another unit, ALICO, to US rival MetLife to pay back a huge chunk of its government bailout.the<mask> ALICO<mask><mask><mask>the<mask> US</s>
+org:country_of_branch
+no_relation
+<s>According to the National Restaurant Association, fast food restaurants in the U.S. will reach US$ 142 billion in sales in 2006.the<mask> National Restaurant Association<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>Just as the Japanese learned to make cars in America without Japanese workers, Indian vendors are learning to outsource without Indians, said Dennis McGuire, chairman of TPI, a consultancy based in Texas that focuses on outsourcing.the<mask> TPI<mask><mask><mask>the<mask> America</s>
+org:country_of_branch
+no_relation
+<s>According to the plan, submitted by NDRC, China will have an installed nuclear power capacity of 40 million kilowatts on the mainland by 2020, or four percent of the total installed power generation capacity.the<mask> NDRC<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>He is widely seen in the West as China's top policymaker on energy because he heads the country's National Energy Administration.the<mask> National Energy Administration<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>The Australian Defence Force -LRB- ADF -RRB- has been deployed to the Solomon Islands and East Timor in recent years to enforce law and order, also assisting in a 2009 relief operation in Samoa after a devastating tsunami killed 143 people.the<mask> Defence Force<mask><mask><mask>the<mask> East Timor</s>
+org:country_of_branch
+no_relation
+<s>With the acceleration of China's nuclear power industry construction, the National Energy Administration -LRB- NEA -RRB- predicts that the 2020 goal might be achieved in 2015.the<mask> National Energy Administration<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>China will maintain a minimum purchase price for wheat, safeguarding 25-30 percent profit margins for farmers, according to the National Development and Reform Commission -LRB- NDRC -RRB-, the country's top economic planner.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>Shao Qiwei, director of China National Tourism Administration, said domestic tourists would top 1.9 billion this year, a year - on-year rise of 10 percent, at a recent awarding ceremony of Pacific-Asia Travel Association -LRB- PATA -RRB- held in Hangzhou, capital of east China's Zhejiang Province.the<mask> Pacific-Asia Travel Association<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>US shares took a beating Friday as a warning from American Express about a weak economy highlighted worries about the financial sector despite a deal to rescue mortgage giant Countrywide.the<mask> Countrywide<mask><mask><mask>the<mask> US</s>
+org:country_of_branch
+no_relation
+<s>`` Not surprisingly, we are still seeing a presence from the Chinese mainland with 14 seller organizations, taking 144 sq. m of floor space, '' PATA president and CEO Peter de Jong said earlier, reaffirming that PATA's commitment to growing its activities in the `` critical markt '' of China.the<mask> PATA<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>The Pacific Asia Travel Association -LRB- PATA -RRB- has offered 24 Gold Awards and four best-of - show Grand Awards to some best tourism agencies and government organizations in the area in a bid to promote the development of global tourism industry, reports reaching here Saturday from Indonesia's resort island Bali where PATA 2007 travel mart was being held.the<mask> Pacific Asia Travel Association<mask><mask><mask>the<mask> Indonesia</s>
+org:country_of_branch
+no_relation
+<s>The region's performance has been mixed this year with countries such as China and South Korea showing resilience but others like Thailand and Vietnam still in the doldrums, said Greg Duffell, president of the Bangkok-based Pacific Asia Travel Association.the<mask> Pacific Asia Travel Association<mask><mask><mask>the<mask> Thailand</s>
+org:country_of_branch
+no_relation
+<s>Australian Defense Force -LRB- ADF -RRB- personnel in key locations in the Middle East and East Timor are the first to visit the polling booths, operated by defense members trained as assistant returning officers.the<mask> ADF<mask><mask><mask>the<mask> East Timor</s>
+org:country_of_branch
+no_relation
+<s>Just as the Japanese learned to make cars in America without Japanese workers, Indian vendors are learning to outsource without Indians, said Dennis McGuire, chairman of TPI, a Texas-based consultancy that focuses on outsourcing.the<mask> TPI<mask><mask><mask>the<mask> America</s>
+org:country_of_branch
+no_relation
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant and at Koch Foods Inc.'s Chicago area headquarters, said Brian Moskowitz, a special agent for ICE enforcement.the<mask> Koch Foods Inc.<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>China's energy demand growth expected to ease in Q4 as governments move to save energy Energy demand growth in China in the fourth quarter is expected to slow as governments step up efforts to save energy and cut emissions, National Energy Administration official Wang Siqiang said Monday.the<mask> National Energy Administration<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>Director General Hilmi Bengi of Turkey's semi-official Anatolia News Agency will be elected later in the assembly as new OANA president to succeed Yusuf for the 2010-2013 term.the<mask> OANA<mask><mask><mask>the<mask> Turkey</s>
+org:country_of_branch
+no_relation
+<s>`` If a successful arrangement can be agreed, then the outcome will represent a positive benefit for the NDA, for Westinghouse, for the current and future employees of the site, and for the UK's nuclear industry as a whole. ''the<mask> NDA<mask><mask><mask>the<mask> UK</s>
+org:country_of_branch
+no_relation
+<s>AIG, which was saved from bankruptcy by the US government in September 2008, announced last month it was selling AIA to Prudential and another unit, ALICO, to US rival MetLife to pay back a huge chunk of its government bailout.the<mask> ALICO<mask><mask><mask>the<mask> US</s>
+org:country_of_branch
+no_relation
+<s>China expects to produce approximately 460 million tons of crude steel this year, a steady growth of 10 percent over last year, according to the State Development and Reform Commission.the<mask> State Development and Reform Commission<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant and at Koch Foods Inc.'s Chicago area headquarters, said Brian Moskowitz, a special agent in charge of ICE enforcement for Ohio and Michigan.the<mask> Koch Foods Inc.<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>The combined operation was conducted to improve coordinated maritime security between the ADF and Indonesian Armed Forces along the Australian and Indonesian shared maritime boundaries to the south of West Timor.the<mask> ADF<mask><mask><mask>the<mask> West Timor</s>
+org:country_of_branch
+no_relation
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant and at Koch Foods Inc.'s Chicago area headquarters, said Brian Moskowitz, a special agent for ICE enforcement.the<mask> Koch Foods<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>Organizing officials said the next PATA mart will be held in India.the<mask> PATA<mask><mask><mask>the<mask> India</s>
+org:country_of_branch
+no_relation
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> Organisation of Asia-Pacific News Agencies<mask><mask><mask>the<mask> Indonesia</s>
+org:country_of_branch
+no_relation
+<s>Indonesia said Thursday it will retain a 51 percent stake in cement manufacturer Semen Gresik and will propose new options to end a row with Mexico's Cemex over who should control the Indonesian group.the<mask> Semen Gresik<mask><mask><mask>the<mask> Indonesia</s>
+org:country_of_branch
+no_relation
+<s>A consortium from France, Britain and the United States has been chosen as preferred bidder to manage Britain's nuclear waste reprocessing facility at Sellafield in northwestern England, the Nuclear Decommissioning Authority said Friday.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> Britain</s>
+org:country_of_branch
+no_relation
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant and at Koch Foods Inc.'s Chicago area headquarters, said Brian Moskowitz, a special agent in charge of ICE enforcement for Ohio and Michigan.the<mask> Koch Foods<mask><mask><mask>the<mask> U.S.</s>
+org:country_of_branch
+no_relation
+<s>Uganda on Tuesday accused UN peacekeepers in the Democratic Republic of Congo of supplying arms to a dormant rebel group that is re-grouping in the troubled central African state.Ugandan Defence Minister Crispus Kiyonga said Kampala will protest to the UN Security Council over intelligence which he said links the MONUC peacekeeping mission to the arming of Allied Democratic Forces -LRB- ADF -RRB- rebels.the<mask> ADF<mask><mask><mask>the<mask> Uganda</s>
+org:country_of_branch
+no_relation
+<s>A consortium from France, Britain and the United States has been chosen as preferred bidder to manage Britain's nuclear waste reprocessing facility at Sellafield in northwestern England, the Nuclear Decommissioning Authority said Friday.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> England</s>
+org:country_of_branch
+no_relation
+<s>China's power consumption rose 27.6 percent year on year in November to 328.4 billion kilowatt-hours, up for the sixth consecutive month, the National Energy Administration said Monday.the<mask> National Energy Administration<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
+<s>Zhang Guobao, head of the National Energy Administration, said late last year that China had 11 nuclear power reactors in operation with a capacity of 91 gigawatts.the<mask> National Energy Administration<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
 <s>`` Not surprisingly, we are still seeing a presence from the Chinese mainland with 14 seller organizations, taking 144 sq. m of floor space, '' PATA president and CEO Peter de Jong said earlier, reaffirming that PATA's commitment to growing its activities in the `` critical markt '' of China.the<mask> PATA<mask><mask><mask>the<mask> China</s>
 org:country_of_branch
 no_relation
