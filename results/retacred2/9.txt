@@ -1,0 +1,3 @@
+<s>CHENGDU, Oct 28 -LRB- Xinhua -RRB- `` I believe the forum can help improve the social support for charity cause, '' said Liu Guolin, secretary-general of the China Charity Federation.the<mask> China Charity Federation<mask><mask><mask>the<mask> Liu Guolin</s>
+org:top_members/employees
+no_relation

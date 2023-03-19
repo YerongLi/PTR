@@ -1,0 +1,3 @@
+<s>The Istanbul Declaration was passed during the 14th General Assembly of the Organization of Asia-Pacific News Agencies -LRB- OANA -RRB- summit, a four-day summit bringing together 50 news agencies from 42 countries which started on Wednesday.the<mask> Organization of Asia-Pacific News Agencies<mask><mask><mask>the<mask> General Assembly</s>
+org:members
+no_relation

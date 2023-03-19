@@ -1,0 +1,3 @@
+<s>ABN Amro to nominate RBS's Mark Fisher as new chairmanthe<mask> Mark Fisher<mask><mask><mask>the<mask> ABN Amro</s>
+no_relation
+per:employee_of

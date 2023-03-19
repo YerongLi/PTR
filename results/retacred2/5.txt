@@ -1,0 +1,3 @@
+<s>`` Not surprisingly, we are still seeing a presence from the Chinese mainland with 14 seller organizations, taking 144 sq. m of floor space, '' PATA president and CEO Peter de Jong said earlier, reaffirming that PATA's commitment to growing its activities in the `` critical markt '' of China.the<mask> PATA<mask><mask><mask>the<mask> China</s>
+org:country_of_branch
+no_relation
