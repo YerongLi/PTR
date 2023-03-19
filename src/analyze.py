@@ -146,7 +146,6 @@ for i, item in enumerate(ans[:10]):
     mosterror[item[0][0]][item[0][1]] = i
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
-error = [[list()] * N] * N
 for i, data in tqdm(enumerate(test_dataset)):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
@@ -159,7 +158,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     log.info('predictions')
     log.info(label)
     log.info(mosterror.keys())
-    log.info(mosterror[label].keys())
+    log.info(mosterror[l0])
     log.info('two keys')
     if predictions[i] in mosterror[label]:
         with open(f"{mosterror[(label, prediction[i])]}.txt", "w") as f:
