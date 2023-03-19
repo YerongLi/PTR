@@ -145,5 +145,6 @@ for item in ans:
 tokenizer = get_tokenizer(special=[])
 for data in test_dataset:
     log.info(data.keys())
+    log.info(tokenizer.decode(data['input_ids']))
     break
 log.info('End of script')
