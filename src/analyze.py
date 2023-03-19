@@ -122,34 +122,39 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 predictions = np.argmax(scores, axis=1)
+N = len(test_dataset.rel2id)
 # log.info(f'all_labels[:50]] {all_labels[:50]}')
 # log.info(f'predictions[:50]] {predictions[:50]}')
-cm = confusion_matrix(all_labels, predictions, labels=range(len(test_dataset.rel2id)))
+cm = confusion_matrix(all_labels, predictions, labels=range(N))
 
 rel2idlist = [None] * len(test_dataset.rel2id)
 for rel, i in test_dataset.rel2id.items():
     rel2idlist[i] = rel
 
-error = {}
+errorsummary = {}
 for i in range(len(test_dataset.rel2id)):
     for j in range(len(test_dataset.rel2id)):
         if i == j: continue
-        error[(i, j)] = cm[i][j]
+        errorsummary[(i, j)] = cm[i][j]
 
-ans = sorted(error.items(), key=lambda x:x[1], reverse=True)
+ans = sorted(error_summary.items(), key=lambda x:x[1], reverse=True)
 log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
-
+mosterror = ((item[0][0], item[0][1]): i for i, item in enumerate(ans[:10])}
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
+error = [[list()] * N] * N
 for i, data in enumerate(test_dataset):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
-    log.info(f'DATAPOINT {i}')
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
-    log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
-    log.info(data['labels'].numpy())
-    log.info(rel2idlist[data['labels'].numpy()])
-    log.info(rel2idlist[predictions[i]])
-    if i > 5: break
+    # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
+    label = data['labels'].numpy()
+    # log.info(rel2idlist[data['labels'].numpy()])
+    # log.info(rel2idlist[predictions[i]])
+    if (label, prediction[i]) in mosterror:
+        with open(f"{mosterror[(label, prediction[i])]}.txt", "w") as f:
+            f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
+            f.write(rel2idlist[label]+'\n')
+            f.write(rel2idlist[predictions[i]]+'\n')
 log.info('End of script')
