@@ -141,7 +141,9 @@ ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
 log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
-mosterror = {(item[0][0], item[0][1]): i for i, item in enumerate(ans[:10])}
+mosterror = {i : {} for i in range(N)}
+for i, item in enumerate(ans[:10]):
+    mosterror[item[0][0]][item[0][1]] = i
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
 error = [[list()] * N] * N
@@ -152,7 +154,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     label = data['labels'].numpy()
     # log.info(rel2idlist[data['labels'].numpy()])
     # log.info(rel2idlist[predictions[i]])
-    if (label, predictions[i]) in mosterror:
+    if predictions[i] in mosterror[label]:
         with open(f"{mosterror[(label, prediction[i])]}.txt", "w") as f:
             f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
             f.write(rel2idlist[label]+'\n')
