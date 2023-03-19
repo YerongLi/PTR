@@ -143,10 +143,9 @@ for item in ans:
 
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
-for data in test_dataset:
+for data in test_dataset[:3]:
     log.info(data.keys())
-    log.info(tokenizer.pad_token_id)
-    # log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=True))
-    # log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=False))
+    input_ids = [t if t tokenizer.pad_token_id is not for t in data['input_ids']]
+    log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
     break
 log.info('End of script')
