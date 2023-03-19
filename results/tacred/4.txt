@@ -1,0 +1,207 @@
+<s>Prommersberger said an uncle and an aunt of the boy arrived in Tripoli on a government plane around 9:00 am -LRB- 0700 GMT -RRB-, from where they were taken to the hospital `` to make sure that Ruben will see family faces next to his bed ''.the<mask> his<mask><mask><mask>the<mask> Tripoli</s>
+NA
+per:cities_of_residence
+<s>Pastor Steve Palczynsky of the Cedar Hill Church of God in Anadarko said lack of official word is disconcerting and that he's taken extra steps to make sure his church is secure.the<mask> his<mask><mask><mask>the<mask> Anadarko</s>
+NA
+per:cities_of_residence
+<s>No one knows how Tamaihia Lynae Moore died, but the foster mother of the Sacramento toddler has been arrested for her murder.the<mask> her<mask><mask><mask>the<mask> Sacramento</s>
+NA
+per:cities_of_residence
+<s>The case of Wen Qiang has been the biggest in a series of gang prosecutions in the southwestern city of Chongqing that have featured lurid testimony about sex, corruption and the city's violent underworld.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+NA
+per:cities_of_residence
+<s>Adela Dworin, president of Havana's Temple Beth Shalom and Cuba's largest Jewish organization, the Jewish Community House, told The Associated Press on Wednesday it's possible Gross came to the center as one of `` hundreds '' of foreign visitors it receives each year.the<mask> Adela Dworin<mask><mask><mask>the<mask> Havana</s>
+NA
+per:cities_of_residence
+<s>Though it is an expensive restaurant in a hotel, Alessi considers it one of the best dining experiences in Rome.the<mask> Alessi<mask><mask><mask>the<mask> Rome</s>
+NA
+per:cities_of_residence
+<s>No one knows how Tamaihia Lynae Moore died, but the foster mother of the Sacramento toddler has been arrested for her murder.the<mask> Tamaihia Lynae Moore<mask><mask><mask>the<mask> Sacramento</s>
+NA
+per:cities_of_residence
+<s>Adela Dworin, head of the Jewish community in Havana, can boast of more than 10,000 volumes on Jewish literature at the Abraham Marcus Matterin communal library in the capital.the<mask> Adela Dworin<mask><mask><mask>the<mask> Havana</s>
+NA
+per:cities_of_residence
+<s>He had greeted an aunt and uncle with a smile when they arrived at his Tripoli bedside on Thursday, according to Dilla.the<mask> his<mask><mask><mask>the<mask> Tripoli</s>
+NA
+per:cities_of_residence
+<s>Ladyzhenskiy headed a charity fund in the Siberian city of Novosibirsk.the<mask> Ladyzhenskiy<mask><mask><mask>the<mask> Novosibirsk</s>
+NA
+per:cities_of_residence
+<s>CHONGQING, May 13 -LRB- Xinhua -RRB- -- Chongqing Municipal Higher People's Court Thursday started to hear the appeal of Wen Qiang, a former senior judicial official who was sentenced to death by a lower court April 14 for four counts of crime including protecting gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> CHONGQING</s>
+NA
+per:cities_of_residence
+<s>Lomax shares a story about Almena Lomax, his mother and a newspaper owner and journalist in Los Angeles, taking her family on the bus to Tuskegee, Ala., in 1961.the<mask> Almena Lomax<mask><mask><mask>the<mask> Los Angeles</s>
+NA
+per:cities_of_residence
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> his<mask><mask><mask>the<mask> Manhattan</s>
+NA
+per:cities_of_residence
+<s>Adrien said he met the Baptists'leader, Laura Silsby of Meridian, Idaho, in Port-au-Prince on Jan. 26.the<mask> Laura Silsby<mask><mask><mask>the<mask> Port-au-Prince</s>
+NA
+per:cities_of_residence
+<s>Mailer resided in Provincetown, Massachusetts, with his wife of 33 years, Norris Church Mailer, and maintained an apartment in Brooklyn, New York.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Brooklyn</s>
+NA
+per:cities_of_residence
+<s>Guica was convicted of the 2003 murder of Mark Fisher, a 19-year - old college student from Andover, New Jersey, who had gone to an after-hours party Guica hosted in Brooklyn while his parents were out of town.the<mask> Mark Fisher<mask><mask><mask>the<mask> Andover</s>
+NA
+per:cities_of_residence
+<s>The Feb. 16 attack occurred when the animal's owner, Sandra Herold, asked Nash, her friend and employee, to help lure the animal back into her house in Stamford, Connecticut.the<mask> Sandra Herold<mask><mask><mask>the<mask> Stamford</s>
+NA
+per:cities_of_residence
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison after a first-instance trial on Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> CHONGQING</s>
+NA
+per:cities_of_residence
+<s>Dutch newspaper Babants Dagblad said the boy was likely Ruben van Assouw from Tilburg in the southern Netherlands who had been on safari in South Africa with his mother Trudy, 41, father Patrick, 40, and his brother Enzo, 11.the<mask> his<mask><mask><mask>the<mask> Tilburg</s>
+NA
+per:cities_of_residence
+<s>He said he heard Graham and Aquash having sex in the bedroom of a Rapid City apartment.the<mask> Graham<mask><mask><mask>the<mask> Rapid City</s>
+NA
+per:cities_of_residence
+<s>Another AIM member, Arlo Looking Cloud, a member of the Lakota tribe, was convicted in 2004 of killing Aquash and sentenced to a mandatory life prison term.the<mask> Arlo Looking Cloud<mask><mask><mask>the<mask> Lakota</s>
+NA
+per:cities_of_residence
+<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Stamford</s>
+NA
+per:cities_of_residence
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> Manhattan</s>
+NA
+per:cities_of_residence
+<s>The case against Bibi began in the fields of Ittan Wali, a village 60 miles west of Lahore, when agricultural workers picking berries with her protested that she had been asked by a landlord to fetch water for them to drink.the<mask> Bibi<mask><mask><mask>the<mask> Lahore</s>
+NA
+per:cities_of_residence
+<s>Ahmed Rashid, a journalist based in Lahore and the best-selling author of the book `` Taliban, '' said he felt that the changes were introduced now under pressure by the United States and Britain.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Lahore</s>
+NA
+per:cities_of_residence
+<s>Still on the run is another reputed mobster, Matteo Messina Denaro, 45, from the Trapani area, that some experts believe was a rival to Lo Piccolo.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Trapani</s>
+NA
+per:cities_of_residence
+<s>LAHORE, Pakistan By Ahmed Rashid Special to The Washington Post WASHINGTON POST-BLOOMBERG -- 05-05-10 1142ETthe<mask> Ahmed Rashid Special<mask><mask><mask>the<mask> LAHORE</s>
+NA
+per:cities_of_residence
+<s>Lomax recalls when, at age 13, his mother moved him and his five brothers and sisters from Los Angeles, California, to Tuskegee, Alabama, to cover the civil rights movement for Nation magazine.the<mask> his<mask><mask><mask>the<mask> Los Angeles</s>
+NA
+per:cities_of_residence
+<s>He greeted an aunt and uncle with a smile when they arrived at his Tripoli bedside on Thursday and would be transported to the Netherlands as soon as his medical condition allowed, a doctor said.the<mask> his<mask><mask><mask>the<mask> Tripoli</s>
+NA
+per:cities_of_residence
+<s>Adela Dworin, president of Havana's Temple Beth Shalom and Cuba's largest Jewish organization, the Jewish Community House, told The Associated Press it's possible Gross came to the center as one of hundreds of foreign visitors it receives each year.the<mask> Adela Dworin<mask><mask><mask>the<mask> Havana</s>
+NA
+per:cities_of_residence
+<s>Two weeks before her due date, supervisors told Hagemo she could stop working, but she needed to stay in her room up to the delivery and after, until she, Dan and the baby transferred to their new assignment : Seattle.the<mask> her<mask><mask><mask>the<mask> Seattle</s>
+NA
+per:cities_of_residence
+<s>The family is holding a private funeral service on Wednesday for Cerniglia, where he grew up.the<mask> he<mask><mask><mask>the<mask> Cerniglia</s>
+NA
+per:cities_of_residence
+<s>Two weeks before her due date, supervisors told Hagemo she could stop working, but she needed to stay in her room up to the delivery and after, until she, Dan and the baby transferred to their new assignment : Seattle.the<mask> she<mask><mask><mask>the<mask> Seattle</s>
+NA
+per:cities_of_residence
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> Manhattan</s>
+NA
+per:cities_of_residence
+<s>Dutch newspaper Babants Dagblad said the boy was probably Ruben van Assouw from Tilburg in the southern Netherlands who had been on safari in South Africa with his mother Trudy, 41, father Patrick, 40, and his brother Enzo, 11.the<mask> his<mask><mask><mask>the<mask> Tilburg</s>
+NA
+per:cities_of_residence
+<s>`` This is the way the information is going, '' said Alessi, who is chief of neurology at the William W. Backus Hospital in Norwich, Conn. `` We need to take this study very seriously. ''the<mask> Alessi<mask><mask><mask>the<mask> Norwich</s>
+NA
+per:cities_of_residence
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> CHONGQING</s>
+NA
+per:cities_of_residence
+<s>Pastor Steve Palczynsky of the Cedar Hill Church of God in Anadarko said lack of official word is disconcerting and that he's taken extra steps to make sure his church is secure.the<mask> he<mask><mask><mask>the<mask> Anadarko</s>
+NA
+per:cities_of_residence
+<s>Earlier a Dutch foreign ministry spokesman said an uncle and an aunt arrived in Tripoli on Thursday on a Netherlands government plane and were taken to the hospital `` to make sure that Ruben will see family faces next to his bed. ''the<mask> his<mask><mask><mask>the<mask> Tripoli</s>
+NA
+per:cities_of_residence
+<s>CHIMP-SLAY-AFTERMATH -LRB- Stamford, Conn. -RRB- -- It has been a little over a year since Travis the Chimp, the 14-year-old, 200-pound pet of Sandra Herold, 71, mauled a family friend in Herold's driveway.the<mask> Sandra Herold<mask><mask><mask>the<mask> Stamford</s>
+NA
+per:cities_of_residence
+<s>Two weeks before her due date, supervisors told Hagemo she could stop working, but she needed to stay in her room up to the delivery and after, until she, Dan and the baby transferred to their new assignment : Seattle.the<mask> she<mask><mask><mask>the<mask> Seattle</s>
+NA
+per:cities_of_residence
+<s>Raised in Queens, he moved to Connecticut in his late 20s after eight years working in Manhattan as an apprentice at a printer and as a store detective in Times Square -- a job he said he hated.the<mask> he<mask><mask><mask>the<mask> Manhattan</s>
+NA
+per:cities_of_residence
+<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Stamford</s>
+NA
+per:cities_of_residence
+<s>The US government has identified the man, 60-year-old Alan Gross, as a government contractor with Development Alternatives Inc -LRB- DAI -RRB- of Bethesda, Maryland, just outside Washington, who was seeking to help Jewish groups communicate with people outside the country by distributing mobile phones and computers.the<mask> Alan Gross<mask><mask><mask>the<mask> Bethesda</s>
+NA
+per:cities_of_residence
+<s>Vagni will be flown later Sunday to the southern port city of Zamboanga, where Philippine Defense Secretary Gilberto Teodoro and armed forces chief of staff Gen. Victor Ibrado will turn him over to representatives of the International Committee of the Red Cross, Arevalo said.the<mask> Vagni<mask><mask><mask>the<mask> Zamboanga</s>
+NA
+per:cities_of_residence
+<s>In August, Baldino, who lived in West Chester, Pa., had taken a leave of absence from his posts as Cephalon's chairman and chief executive.the<mask> his<mask><mask><mask>the<mask> West Chester</s>
+NA
+per:cities_of_residence
+<s>Ecoffey told jurors that he and another federal agent met with Graham in April 1994 in Whitehorse, the city in western Canada where Graham lived at the time.the<mask> Graham<mask><mask><mask>the<mask> Whitehorse</s>
+NA
+per:cities_of_residence
+<s>EINDHOVEN, Netherlands : Nine-year-old Ruben van Assouw, the sole survivor of a Libyan airliner crash, arrived back home in the Netherlands, three days after the disaster that killed his parents, brother and 100 others, officials said.the<mask> Ruben van Assouw<mask><mask><mask>the<mask> EINDHOVEN</s>
+NA
+per:cities_of_residence
+<s>Andrew E. Lange was born in Urbana, Ill., on July 23, 1957, the oldest son of Joan Lange, a school librarian, and Albert Lange, an architect, and grew up in Easton, Conn..the<mask> Albert Lange<mask><mask><mask>the<mask> Urbana</s>
+NA
+per:cities_of_residence
+<s>The second search I did - there was Elizabeth Graham - scrolled down the death register and there was a John Graham -LRB- both of an age to compare with my records -RRB-, in Cockermouth.the<mask> John Graham<mask><mask><mask>the<mask> Cockermouth</s>
+NA
+per:cities_of_residence
+<s>The boy, identified as `` Ruben '' by the Dutch foreign ministry but more fully by Dutch media as nine-year-old Ruben van Assouw, is recovering after surgery to his smashed legs, the doctor treating him in Tripoli said.the<mask> Ruben van Assouw<mask><mask><mask>the<mask> Tripoli</s>
+NA
+per:cities_of_residence
+<s>The more cash that rolled into Piedra's Coral Gables practice, the more he gave to Scientology groups.the<mask> Piedra<mask><mask><mask>the<mask> Coral Gables</s>
+NA
+per:cities_of_residence
+<s>One man, Arlo Looking Cloud, an Oglala Lakota, and a member of AIM, is serving life in prison for her murder while his accomplice, the man he accused of pulling the trigger, John `` Boy '' Graham, a native of the Yukon in Canada, is awaiting extradition to the United States to stand trial.the<mask> Arlo Looking Cloud<mask><mask><mask>the<mask> Oglala Lakota</s>
+NA
+per:cities_of_residence
+<s>During the trial the Seattle native accused police of beating and intimidating her during questioning after the gruesome murder.the<mask> her<mask><mask><mask>the<mask> Seattle</s>
+NA
+per:cities_of_residence
+<s>The leader, Laura Silsby, defaulted in July on the mortgage on a house in an unfinished subdivision here in Meridian, a suburb of Boise, according to the Ada County Tax Assessor's Office.the<mask> Laura Silsby<mask><mask><mask>the<mask> Meridian</s>
+NA
+per:cities_of_residence
+<s>The day after the group's arrest, its leader, Laura Silsby of Meridian, Idaho, told the AP that the children were obtained either from orphanages or from distant relatives.the<mask> Laura Silsby<mask><mask><mask>the<mask> Meridian</s>
+NA
+per:cities_of_residence
+<s>The case against Bibi began in the fields of Ittan Wali, a village 60 miles west of the city of Lahore, when agricultural workers picking berries with her protested that she had been asked by a landlord to fetch water for the workers to drink.the<mask> Bibi<mask><mask><mask>the<mask> Lahore</s>
+NA
+per:cities_of_residence
+<s>Herold's 200-pound -LRB- 90-kilogram -RRB- chimpanzee, Travis, went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Stamford</s>
+NA
+per:cities_of_residence
+<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> she<mask><mask><mask>the<mask> Minas Gerais</s>
+NA
+per:cities_of_residence
+<s>Lomax shares a story about Almena Lomax, his mother and a newspaper owner and journalist in Los Angeles, taking her family on the bus to Tuskegee, Ala., in 1961.the<mask> Lomax<mask><mask><mask>the<mask> Los Angeles</s>
+NA
+per:cities_of_residence
+<s>Two weeks before her due date, supervisors told Hagemo she could stop working, but she needed to stay in her room up to the delivery and after, until she, Dan and the baby transferred to their new assignment : Seattle.the<mask> her<mask><mask><mask>the<mask> Seattle</s>
+NA
+per:cities_of_residence
+<s>He is survived by his son, Terry, of Temecula, Calif. ; his daughters, Carol Daniels of Morro Bay, Calif., and Julie Jones of La Mesa, Calif. ; three grandchildren ; and a great-granddaughter.the<mask> Carol Daniels<mask><mask><mask>the<mask> Morro Bay</s>
+NA
+per:cities_of_residence
+<s>Lomax shares a story about Almena Lomax, his mother and a newspaper owner and journalist in Los Angeles, taking her family on the bus to Tuskegee, Ala., in 1961.the<mask> her<mask><mask><mask>the<mask> Los Angeles</s>
+NA
+per:cities_of_residence
+<s>Gonzalez is the brother of Patricia Gonzalez, who stepped down Oct. 3 as attorney general of the border state of Chihuahua when a new governor took office.the<mask> Patricia Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
+NA
+per:cities_of_residence
+<s>Eliza Samudio, Bruno's ex-girlfriend and his 4-month-old baby boy's mother, disappeared from her hometown of Belo Horizonte, Minas Gerais.the<mask> her<mask><mask><mask>the<mask> Belo Horizonte</s>
+NA
+per:cities_of_residence
+<s>It was not yet clear where he will live, though much of the family, including grandparents, lives in Tilburg.the<mask> he<mask><mask><mask>the<mask> Tilburg</s>
+NA
+per:cities_of_residence
+<s>The family is holding a private funeral service on Wednesday for Cerniglia in Wayne, where he grew up.the<mask> he<mask><mask><mask>the<mask> Wayne</s>
+NA
+per:cities_of_residence
+<s>Andrew E. Lange was born in Urbana, Ill., on July 23, 1957, the oldest son of Joan Lange, a school librarian, and Albert Lange, an architect, and grew up in Easton, Conn..the<mask> Albert Lange<mask><mask><mask>the<mask> Easton</s>
+NA
+per:cities_of_residence
+<s>Andrew E. Lange was born in Urbana, Ill., on July 23, 1957, the oldest son of Joan Lange, a school librarian, and Albert Lange, an architect, and grew up in Easton, Conn..the<mask> Andrew E. Lange<mask><mask><mask>the<mask> Easton</s>
+NA
+per:cities_of_residence

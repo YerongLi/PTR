@@ -1,0 +1,189 @@
+<s>In October, she filed a complaint with the police in Rio saying he had kidnapped her and tried to threaten her into having an abortion.the<mask> she<mask><mask><mask>the<mask> Rio</s>
+per:cities_of_residence
+NA
+<s>Wen Qiang, former deputy director of Chongqing's public security department, was also accused of rape and being unable to explain the sources of his assets, according to a statement published on the website of the municipal procuratorate, wwwcqjcygovcn.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>The court also delivered verdicts on three former Chongqing police officers -- Huang Daiqiang, Zhao Liming and Chen Tao -- in the same hearing.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Italian Red Cross worker Eugenio Vagni was freed in the restive southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Sulu</s>
+per:cities_of_residence
+NA
+<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>The verdict against Wen Qiang, the former head of Chongqing's judiciary and an ex-deputy police chief, brought to a climax a series of trials that lifted the lid on the seamy underworld in the mega-city of more than 30 million.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Pastor's son : Mom's funeral is time for God's word Services for 61-year-old Carol Daniels will be Monday at 1 pm local time in Oklahoma City.the<mask> Carol Daniels<mask><mask><mask>the<mask> Oklahoma City</s>
+per:cities_of_residence
+NA
+<s>Gonzalez was attorney general during the most violent peacetime period in the history of Chihuahua state.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
+per:cities_of_residence
+NA
+<s>Supporters like Ble Goude have branded the Golf Hotel a rebel base, and both FDS troops and civilian protesters have begun to harass UN patrols in Abidjan, which is still firmly under the control of Gbagbo's forces.the<mask> Ble Goude<mask><mask><mask>the<mask> Abidjan</s>
+per:cities_of_residence
+NA
+<s>It began in October 2003, at a bar on the Upper East Side of Manhattan, where Mark Fisher, a 19-year old sophomore at Fairfield University, was drinking with friends.the<mask> Mark Fisher<mask><mask><mask>the<mask> Upper East Side of Manhattan</s>
+per:cities_of_residence
+NA
+<s>The lower court also delivered verdicts on Huang Daiqiang, Zhao Liming and Chen Tao, the three former Chongqing police officers, in the same trial.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Then in May, Samudio went back to Rio to find Souza, presumably, the police said, to prove to him the baby was his.the<mask> his<mask><mask><mask>the<mask> Rio</s>
+per:cities_of_residence
+NA
+<s>Judy Gross'husband Alan Gross was arrested at the Havana airport in December 2009.the<mask> Alan Gross<mask><mask><mask>the<mask> Havana</s>
+per:cities_of_residence
+NA
+<s>Italian Red Cross worker Eugenio Vagni was freed in the southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> his<mask><mask><mask>the<mask> Sulu</s>
+per:cities_of_residence
+NA
+<s>Wen was detained in August and accused of protecting the gang operations masterminded by his sister-in-law, Xie Caiping, 46, known as the `` godmother '' of the Chongqing underworld.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>They include Wen Qiang, who became Chongqing's top judicial official in 2008 after 16 years on the police force and who stands accused of protecting an intricate web of businessmen, officials and mobsters.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Speaking just outside her detention cell near Port-au-Prince airport, Laura Silsby, head of the Idaho-based New Life Children's Refuge charity, said the group's aims were entirely altruistic.the<mask> Laura Silsby<mask><mask><mask>the<mask> Port-au-Prince</s>
+per:cities_of_residence
+NA
+<s>Jamie Leigh Jones, now 22, says that after she was raped by multiple men at a KBR camp in the Green Zone, the company put her under guard in a shipping container with a bed and warned her that if she left Iraq for medical treatment, she 'd be out of a job.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
+per:cities_of_residence
+NA
+<s>`` We just wanted to help children that had no one else to care for them, '' Silsby said from the police detention facility near Port-au-Prince's international airport.the<mask> Silsby<mask><mask><mask>the<mask> Port-au-Prince</s>
+per:cities_of_residence
+NA
+<s>Her brother-in-law, Wen, served as a top Chongqing police official for 16 years before taking over the city's judiciary.the<mask> Her<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Wen's wife and three senior former Chongqing policemen were also put on trial with him on charges of taking bribes in exchange for protecting gang members.the<mask> him<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Prosecutors at the Chongqing No. 5 Intermediate People's Court said Wen Qiang took bribes worth more than 16 million yuan -LRB- $ 2.4 million -RRB- from gang members he gave legal protection while he was director of the Chongqing Municipal Judicial Bureau, the official Xinhua News Agency reported.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Other defendants also brought to the court together with Wen Tuesday included his wife Zhou Xiaoya and three senior former Chongqing policemen, Huang Daiqiang, Zhao Liming and Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Ble Goude is best known for leading violent protests of his `` Young Patriots '' against Ivory Coast's former colonial power France on the streets of Abidjan during previous crises in 2003 and 2004.the<mask> Ble Goude<mask><mask><mask>the<mask> Abidjan</s>
+per:cities_of_residence
+NA
+<s>Daniels made the 60-mile -LRB- 100-kilometer -RRB- trek from Oklahoma City every week to preach, even though the church had no regular congregation.the<mask> Daniels<mask><mask><mask>the<mask> Oklahoma City</s>
+per:cities_of_residence
+NA
+<s>It was not clear if ailing hostage Eugenio Vagni, 62, was with the group of about 150 Abu Sayyaf gunmen when they engaged marines in the gunfight near Jolo Island's Indanan township, a jungle militant stronghold, spokeswoman 1st Lt. Steffani Cacho said.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Indanan</s>
+per:cities_of_residence
+NA
+<s>To see Heloise visiting her old dorm room at Texas State University at San Marcos, and even a fitted-sheet folding contest, visit www.washingtonpost.com/wp-dyn/content/article/2009/08/05/AR2009080501307.html.the<mask> Heloise<mask><mask><mask>the<mask> San Marcos</s>
+per:cities_of_residence
+NA
+<s>Vagni was one of three International Committee of the Red Cross workers kidnapped on Jolo, an impoverished Muslim region 590 miles -LRB- 950 kilometers -RRB- south of Manila, on Jan. 15.the<mask> Vagni<mask><mask><mask>the<mask> Jolo</s>
+per:cities_of_residence
+NA
+<s>Military intelligence officials believe he controls an Abu Sayyaf unit operating on Jolo island, although he still receives guidance from other rebel elders, including Jumdail.the<mask> he<mask><mask><mask>the<mask> Jolo</s>
+per:cities_of_residence
+NA
+<s>China executes official at heart of graft trials : Xinhua Wen Qiang, 54, the former head of the judiciary in the southwestern Chongqing region and also an ex-deputy police chief, was sentenced to death in April for charges including rape and taking bribes to protect criminal gangs.the<mask> Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>The case against Bibi began in the fields of Ittan Wali, a village 60 miles west of Lahore, when agricultural workers picking berries with her protested that she had been asked by a landlord to fetch water for them to drink.the<mask> Bibi<mask><mask><mask>the<mask> Ittan</s>
+per:cities_of_residence
+NA
+<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
+per:cities_of_residence
+NA
+<s>On Tuesday, organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in Chongqing, was sentenced to 18 years in prison.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>She took Scientology classes on parenting and finance and later traveled to Los Angeles for counseling, called `` auditing. ''the<mask> She<mask><mask><mask>the<mask> Los Angeles</s>
+per:cities_of_residence
+NA
+<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Sahidullah insisted it was not a `` prisoner swap, '' adding one of the wives had helped her persuade Parad to free Vagni, telling him many militants and troops had died because of the abductions.the<mask> Vagni<mask><mask><mask>the<mask> Parad</s>
+per:cities_of_residence
+NA
+<s>Wen's wife Zhou Xiaoya and three senior Chongqing police officers - Huang Daiqiang, Zhao Liming and Chen Tao - will also receive their verdicts at the same court Wednesday afternoon.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Yue Cun was convicted of crimes including operating a range of illegal businesses and causing intentional injury in the huge municipality of Chongqing in southwestern China, the official China News Service said.the<mask> Cun<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Kercher, from Coulsdon, south London, was found semi-nude in a pool of blood with her throat cut in the house in Perugia, a medieval walled city in central Italy, that she shared with Knox.the<mask> Knox<mask><mask><mask>the<mask> Perugia</s>
+per:cities_of_residence
+NA
+<s>One of the cases that prompted the hearing was that of Jamie Leigh Jones, a 22-year-old Texan, who alleges that she was drugged and gang raped by fellow contract workers while working for defense contractor Halliburton/KBR at Camp Hope in Baghdad.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Baghdad</s>
+per:cities_of_residence
+NA
+<s>Wen Qiang, 55, former director of the Chongqing Municipal Judicial Bureau, was also accused of taking bribes, rape and owning huge amounts of money and assets he could not justify, heard the Chongqing Municipal Nothe<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Then in May, Samudio went back to Rio to find Souza, presumably, the police said, to prove to him the baby was his.the<mask> him<mask><mask><mask>the<mask> Rio</s>
+per:cities_of_residence
+NA
+<s>Wen Qiang, former deputy police chief and head of the justice bureau of Chongqing, stood trial last month.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Jamie Leigh Jones is testifying on Capitol Hill this afternoon.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Capitol Hill</s>
+per:cities_of_residence
+NA
+<s>However, after receiving information from the police in Rio de Janeiro, Samudio has been missing since June 4.the<mask> Samudio<mask><mask><mask>the<mask> Rio de Janeiro</s>
+per:cities_of_residence
+NA
+<s>Two other missionaries -- group leader Laura Silsby and her confidante Charisa Coulter -- remained behind in detention in Port-au-Prince because Saint-Vil wants to determine their motives for an earlier trip to Haiti before the quake, Fleurant said.the<mask> group leader Laura Silsby<mask><mask><mask>the<mask> in detention in Port-au-Prince</s>
+per:cities_of_residence
+NA
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> He<mask><mask><mask>the<mask> Chicago</s>
+per:cities_of_residence
+NA
+<s>But the Allegheny County police later found a reference to the bus incident in a note Sodini left on a table in his home.the<mask> his<mask><mask><mask>the<mask> Allegheny County</s>
+per:cities_of_residence
+NA
+<s>MANILA, June 21 -LRB- Xinhua -RRB- Three members of the International Committee of the Red Cross -LRB- ICRC -RRB- -- Swiss Andreas Notter, Italian Eugenio Vagni and Filipina Mary Jean Lacaba -- were kidnapped in Patikul town of Sulu province on Jan 15 after the team conducted a humanitarian mission there.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Patikul</s>
+per:cities_of_residence
+NA
+<s>Her death came about six months after two FBI agents were gunned down in a shootout with AIM members, and two years after she participated in AIM's 71-day occupation of the South Dakota reservation town of Wounded Knee.the<mask> she<mask><mask><mask>the<mask> Wounded Knee</s>
+per:cities_of_residence
+NA
+<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>The Jan. 15 kidnapping of Vagni and two Red Cross colleagues from Switzerland and the Philippines on Jolo Island has raised fresh concerns over the Abu Sayyaf, a smaller Muslim separatist insurgency that the government has long dismissed as a spent force of bandits.the<mask> Vagni<mask><mask><mask>the<mask> Jolo Island</s>
+per:cities_of_residence
+NA
+<s>Jamie Leigh Jones filed a federal lawsuit last year, saying she was attacked while working for a Halliburton Co. subsidiary at Camp Hope, Baghdad, in 2005.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Baghdad</s>
+per:cities_of_residence
+NA
+<s>He said his wife was picking fruit in an orchard in their village of Attian Wali, west of the Punjab provincial capital of Lahore, when she went to fetch some water for the group.the<mask> she<mask><mask><mask>the<mask> Attian Wali</s>
+per:cities_of_residence
+NA
+<s>Wen's sister-in-law, Xie Caiping, was sentenced to 18 years in prison last year for running up to 20 gambling dens in Chongqing hotels and paying off police to turn a blind eye to her criminal activities that included illegal drug use.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>Xie is the sister-in-law of the former head of Chongqing's judiciary, Wen Qiang, who is at the centre of the crackdown.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:cities_of_residence
+NA
+<s>`` We are frightened, '' Bibi's husband, Ashiq Masih, a brickmaker, told reporters in Islamabad on Wednesday.the<mask> Bibi<mask><mask><mask>the<mask> Islamabad</s>
+per:cities_of_residence
+NA
+<s>Villagers told the military that they saw Vagni taking a bath under guard later Thursday in a coastal area in Jolo's Parang township, about 3 miles -LRB- 5 kilometers -RRB- from the Indanan clashes, Arevalo said.the<mask> Vagni<mask><mask><mask>the<mask> Jolo</s>
+per:cities_of_residence
+NA
+<s>Looking Cloud, who was convicted of murder in 2004, testified that he, Graham and Clark kidnapped Aquash from Denver and took her to Rapid City.the<mask> her<mask><mask><mask>the<mask> Denver</s>
+per:cities_of_residence
+NA
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> his<mask><mask><mask>the<mask> Chicago</s>
+per:cities_of_residence
+NA
+<s>Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> she<mask><mask><mask>the<mask> Havana</s>
+per:cities_of_residence
+NA
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> he<mask><mask><mask>the<mask> Chicago</s>
+per:cities_of_residence
+NA
+<s>In 2002, Piedra and Blyskal sat on Miami's charter committee.the<mask> Piedra<mask><mask><mask>the<mask> Miami</s>
+per:cities_of_residence
+NA

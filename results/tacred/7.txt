@@ -1,0 +1,186 @@
+<s>The company, which Baldino founded in 1987, sells a variety of drugs, including some that are used to treat pain and sleepiness.the<mask> Baldino<mask><mask><mask>the<mask> founded</s>
+per:title
+NA
+<s>Sarah Kunstler was 12 and her sister and co-filmmaker, Emily, was 10 when Trisha Meili, a 28-year-old accountant, was beaten and raped in Central Park in April 1989.the<mask> Sarah Kunstler<mask><mask><mask>the<mask> co-filmmaker</s>
+per:title
+NA
+<s>During a chat late last year, Heloise, the legendary syndicated columnist featured internationally in hundreds of newspapers, mentioned her hairstyle had been virtually unchanged for more than two decades.the<mask> her<mask><mask><mask>the<mask> columnist</s>
+per:title
+NA
+<s>Though anger and frustration over not being able to connect with women were reflected in writings he left behind, Sodini apparently did not know any of the women he targeted at the fitness club, said Allegheny County Police Superintendent Charles Moffatt.the<mask> he<mask><mask><mask>the<mask> Superintendent</s>
+per:title
+NA
+<s>Journalist Nir Rosen lived and reported in occupied Iraq : his TRIUMPH OF THE MARTYRS : A REPORTER 'S JOURNEY INTO OCCUPIED IRAQ reveals his year and a half in Iraq, detailing its violent changes to its first elections in 2005.the<mask> his<mask><mask><mask>the<mask> REPORTER</s>
+per:title
+NA
+<s>The second half consisted of the traditional round-table analysis by a trio of familiar faces : journalist George Will, political strategist Donna Brazile and economist Paul Krugman, along with Pakistani journalist and Taliban expert Ahmed Rashid, from Madrid.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> journalist</s>
+per:title
+NA
+<s>He told them the defendant, John Graham, 55, shot her because the activist group's leaders thought she was a government informant.the<mask> John Graham<mask><mask><mask>the<mask> activist</s>
+per:title
+NA
+<s>Cuba suspects Gross is a spy.the<mask> Gross<mask><mask><mask>the<mask> spy</s>
+per:title
+NA
+<s>She once absconded with a suitcase full of money after being tipped off by her brother-in-law, deputy head of police Wen Qiang, before a police raid on one of her premises, according to the Southern Weekend newspaper.the<mask> Wen Qiang<mask><mask><mask>the<mask> deputy</s>
+per:title
+NA
+<s>The CEO whose actual pay was most out of line in the Crystal model was Cephalon Inc. founder Frank Baldino Jr., 56.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> CEO</s>
+per:title
+NA
+<s>Oscar winning film and theatre director Stephen Daldry was appointed as the executive producer of creative, Beijing 2008 Games designer Mark Fisher as the executive producer of design, Grammy and BAFTA award nominated TV director Hamish Hamilton as the executive producer of broadcast and producer for the 2006 Doha Asian Games in Doha Catherine Ugwu as the executive producer of production.the<mask> Mark Fisher<mask><mask><mask>the<mask> executive producer</s>
+per:title
+NA
+<s>He has the soul of a poet, you morons.the<mask> He<mask><mask><mask>the<mask> poet</s>
+per:title
+NA
+<s>Speaking in English through an interpreter, Mellas, who works as a teacher in Seattle, testified Knox never thought of going back to the United States before she was arrested, shortly after the slaying.the<mask> she<mask><mask><mask>the<mask> teacher</s>
+per:title
+NA
+<s>University President Jean-Lou Chameau notified the institution in an e-mail that Lange apparently took his own life on Friday.the<mask> his<mask><mask><mask>the<mask> President</s>
+per:title
+NA
+<s>A female Army doctor collected DNA evidence, including vaginal swabs and scrapings from her fingernails, and placed them in a small, white box for evidence.the<mask> her<mask><mask><mask>the<mask> doctor</s>
+per:title
+NA
+<s>hahahahahahaha, i love the logic of the falsers here.popular mechanics is such a fairy tale its a joke.The editor of that fairy tale piece was Benjamin Chertoff, cousin of Bush's homeland security chief Michael Chertoff.thats like asking the fox to guard the henhouse.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> editor</s>
+per:title
+NA
+<s>Minister for Minority Affairs Shahbaz Bhatti, who is preparing the report for Zardari, said his preliminary investigations indicate that Bibi was wrongly accused.the<mask> Bibi<mask><mask><mask>the<mask> Minister</s>
+per:title
+NA
+<s>The precise nature of experiments the scientists were conducting when Jupp died have never been explained, though the program is thought to have been a collaboration with the US Los Alamos national laboratory in New Mexico.the<mask> Jupp<mask><mask><mask>the<mask> scientists</s>
+per:title
+NA
+<s>She knew the recruiter, plus Shelby was so enthused.the<mask> She<mask><mask><mask>the<mask> recruiter</s>
+per:title
+NA
+<s>Oscar winning film and theatre director Stephen Daldry was appointed as the executive producer of creative, Beijing 2008 Games designer Mark Fisher as the executive producer of design, Grammy and BAFTA award nominated TV director Hamish Hamilton as the executive producer of broadcast and producer for the 2006 Doha Asian Games in Doha Catherine Ugwu as the executive producer of production.the<mask> Mark Fisher<mask><mask><mask>the<mask> executive producer</s>
+per:title
+NA
+<s>Against this background, Ouattara's new United Nations ambassador Youssoufou Bamba gave a stark warning Wednesday as he received his credentials from UN Secretary-General Ban Ki-moon in New York.the<mask> he<mask><mask><mask>the<mask> ambassador</s>
+per:title
+NA
+<s>Jim Edwards, the culinary director at Chef Central, was a close friend of Cerniglia for the last seven years.the<mask> Cerniglia<mask><mask><mask>the<mask> director</s>
+per:title
+NA
+<s>Nearly 500 people have packed an Oklahoma church to remember a pastor who was killed as she prepared for a Sunday service.the<mask> she<mask><mask><mask>the<mask> pastor</s>
+per:title
+NA
+<s>He was also a strong opponent of the rebel New Forces movement led by Guillaume Soro, now the country's prime minister, accusing them of treason in their attempted coup against Gbagbo in September 2002.the<mask> He<mask><mask><mask>the<mask> prime minister</s>
+per:title
+NA
+<s>Reviewer's Bio : Wayne A. Holst is a writer who teaches at the University of Calgary and at St. David's United Church in Calgary.the<mask> Wayne A. Holst<mask><mask><mask>the<mask> Reviewer</s>
+per:title
+NA
+<s>The case against Bibi began in the fields of Ittan Wali, a village 60 miles west of the city of Lahore, when agricultural workers picking berries with her protested that she had been asked by a landlord to fetch water for the workers to drink.the<mask> Bibi<mask><mask><mask>the<mask> landlord</s>
+per:title
+NA
+<s>The bloody political stand-off in Ivory Coast has brought a notorious and feared figure back to the front line, strongman Laurent Gbagbo's `` General of the Street '', the rabble-rousing patriot Charles Ble Goude.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> General</s>
+per:title
+NA
+<s>A police search last month of the goalkeeper's home near Belo Horizonte uncovered `` strong evidence that Eliza had been there '' before disappearing without trace on June 4 or 5, according to police chief Edson Moreira.the<mask> Eliza<mask><mask><mask>the<mask> police chief</s>
+per:title
+NA
+<s>Xie was sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before his arrest.the<mask> Wen Qiang<mask><mask><mask>the<mask> director</s>
+per:title
+NA
+<s>Oscar winning film and theatre director Stephen Daldry was appointed as the executive producer of creative, Beijing 2008 Games designer Mark Fisher as the executive producer of design, Grammy and BAFTA award nominated TV director Hamish Hamilton as the executive producer of broadcast and producer for the 2006 Doha Asian Games in Doha Catherine Ugwu as the executive producer of production.the<mask> Mark Fisher<mask><mask><mask>the<mask> executive producer</s>
+per:title
+NA
+<s>Ouattara's new United Nations ambassador Youssoufou Bamba further turned up the heat as he received his credentials from Secretary General Ban Ki-moon, warning : `` We are on the brink of genocide, something should be done. ''the<mask> he<mask><mask><mask>the<mask> Secretary General</s>
+per:title
+NA
+<s>Luciano Ghirga, a lawyer for Knox, said he had sought to have the American placed under house arrest.the<mask> he<mask><mask><mask>the<mask> lawyer</s>
+per:title
+NA
+<s>Israel Mourns Loss of Iconic Fighter Pilot The young pilot's single-seat aircraft had left a military base on a training exercise and dropped from radio contact when residents of a Jewish settlement reported a window-rattling explosion and a huge ball of fire rising behind a hill, followed by clouds of black smoke.the<mask> Iconic Fighter Pilot<mask><mask><mask>the<mask> pilot</s>
+per:title
+NA
+<s>Journalist Nir Rosen lived and reported in occupied Iraq : his TRIUMPH OF THE MARTYRS : A REPORTER 'S JOURNEY INTO OCCUPIED IRAQ reveals his year and a half in Iraq, detailing its violent changes to its first elections in 2005.the<mask> his<mask><mask><mask>the<mask> Journalist</s>
+per:title
+NA
+<s>Italy closing in on Cosa Nostra supremo : minister Italian authorities are closing in on Sicilian Mafia supremo Matteo Messina Denaro, Interior Minister Roberto Maroni said Monday as he announced the arrest of Denaro's brother and 18 associates.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> supremo :</s>
+per:title
+NA
+<s>She became a journalist after she quit acting in the mid-1980s and interviewed Mailer for magazines, while he mentored her.the<mask> Mailer<mask><mask><mask>the<mask> journalist</s>
+per:title
+NA
+<s>His visits to a therapist were eventually covered by the city of Stamford after police and union officials became involved on his behalf, said Sgt. Joseph Kennedy, president of the Stamford Police Association.the<mask> his<mask><mask><mask>the<mask> Sgt.</s>
+per:title
+NA
+<s>Police say they are tightening the noose around Matteo Messina Denaro, the high - flying playboy `` boss '' of Trapani in western Sicily who is a possible new leader.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> leader</s>
+per:title
+NA
+<s>WHO : Richard Gage, AIA and Ron Craig Gage is a San Francisco Bay Area architect with 20-plus years of experience in steel frame buildings.the<mask> Richard Gage<mask><mask><mask>the<mask> architect</s>
+per:title
+NA
+<s>They showed WTC7 from different angles, showed video of other buildings being demolished and allowed architect Richard Gage to make his case.the<mask> his<mask><mask><mask>the<mask> architect</s>
+per:title
+NA
+<s>Just don't ask the San Antonio-based `` Hints From Heloise '' columnist to color her gorgeous signature locks, which she's only done once... but more on that later.the<mask> she<mask><mask><mask>the<mask> columnist</s>
+per:title
+NA
+<s>Journalist Nir Rosen lived and reported in occupied Iraq : his TRIUMPH OF THE MARTYRS : A REPORTER 'S JOURNEY INTO OCCUPIED IRAQ reveals his year and a half in Iraq, detailing its violent changes to its first elections in 2005.the<mask> his<mask><mask><mask>the<mask> Journalist</s>
+per:title
+NA
+<s>Lange was part of one of them, the Maxima experiment, which was led by his former professor Paul Richards of the University of California, Berkeley.the<mask> his<mask><mask><mask>the<mask> professor</s>
+per:title
+NA
+<s>Richard Gage and his fan boys would have us believe that all these notions, created by and promoted by non-professionals before Richard Gage got into the act, were perfectly acceptable from the point of view of a professional architect.the<mask> Richard Gage<mask><mask><mask>the<mask> architect</s>
+per:title
+NA
+<s>Finally, a sympathetic guard shared his cell phone and she called her father back in Texas, who called his congressman, Ted Poe, for help.the<mask> his<mask><mask><mask>the<mask> guard</s>
+per:title
+NA
+<s>Prodded by an interrogator, he blamed his sister for several notorious killings in the state and said both he and she had aided `` La Linea, '' a drug gang tied to the Juarez cartel.the<mask> he<mask><mask><mask>the<mask> interrogator</s>
+per:title
+NA
+<s>Court papers of the intended estate gift were filed Friday by the brother and executor for 48-year-old George Sodini.the<mask> George Sodini<mask><mask><mask>the<mask> executor</s>
+per:title
+NA
+<s>`` Any time you 'd turn on the radio, you 'd hear Dr. Piedra, '' said Adi Amit, a Fort Lauderdale attorney who was drawn in by Piedra's ads and became a patient.the<mask> Piedra<mask><mask><mask>the<mask> attorney</s>
+per:title
+NA
+<s>A lawyer who represents Gross said she wanted news of the letter to coincide with debates about Cuba -- Latin America's last Communist outpost -- that are scheduled to begin Monday at the United Nations and in the European Union.the<mask> she<mask><mask><mask>the<mask> lawyer</s>
+per:title
+NA
+<s>As fluent a talker as he is a writer, Rashid, 59, has just published his fourth book, `` Descent into Chaos, The United States and the Failure of Nation Building in Pakistan, Afghanistan and Central Asia, '' a caustic review of the mistakes by the Bush administration in tackling Islamic militancy.the<mask> he<mask><mask><mask>the<mask> writer</s>
+per:title
+NA
+<s>In the blog, Sodini wrote as far back as November 5, 2008, that he `` planned to do this in the summer '' but decided to see the result of the presidential election won by President Barack Obama.the<mask> he<mask><mask><mask>the<mask> President</s>
+per:title
+NA
+<s>`` Dr. Piedra, I am a poor person using my credit to pay you, '' Alfonso Maldonado wrote in an April 2008 letter after the dentist kept $ 1,118 of his money.the<mask> Piedra<mask><mask><mask>the<mask> dentist</s>
+per:title
+NA
+<s>Russian athlete dies at spa world championship -LRB- updated -RRB- Kaukonen was sent to a local hospital, while Ladyzhenskiy, whose life is seriously endangered, was under intenisve care by a on - spot ambulance, but the medical staff failed to save him.the<mask> Ladyzhenskiy<mask><mask><mask>the<mask> athlete</s>
+per:title
+NA
+<s>The defence insisted that Guede, described as a drifter who was taken in by a Perugia family who have since broken ties with him, was the sole killer.the<mask> him<mask><mask><mask>the<mask> drifter</s>
+per:title
+NA
+<s>A Dominican diplomat who said she visited him the same day the missionaries tried to take the children out of the country told the AP that he warned her that without those papers she could be arrested.the<mask> she<mask><mask><mask>the<mask> diplomat</s>
+per:title
+NA
+<s>FWIW - Richard Gage's work has been adopted by Producer Christine Blosdale -LRB- apparently -RRB- at KPFK - and was pitched twice at least, so far.the<mask> Richard Gage<mask><mask><mask>the<mask> Producer</s>
+per:title
+NA
+<s>An aunt and an uncle of the boy had arrived by the boy's bedside, and he smiled when they walked into his room Thursday, a doctor said.the<mask> his<mask><mask><mask>the<mask> doctor</s>
+per:title
+NA
+<s>`` He cared immensely about other people and not enough about himself, '' said Arnold, who is now a professor of chemical engineering at Caltech.the<mask> He<mask><mask><mask>the<mask> professor</s>
+per:title
+NA
+<s>He speaks fluent Iraqi-accented Arabic, so was able to go beyond the usual reporter's turf into the homes of average Iraqi : THE TRIUMPH OF MARTYRS thus offers up a rare set of insights highly recommended for any military history collection.the<mask> He<mask><mask><mask>the<mask> reporter</s>
+per:title
+NA
+<s>She said Shelby's EPF supervisor put his finger in her face and yelled at her again for interfering.the<mask> his<mask><mask><mask>the<mask> supervisor</s>
+per:title
+NA
+<s>After two agents testified Tuesday, lead prosecutor Marty Jackley said he had finished presenting his case.the<mask> his<mask><mask><mask>the<mask> prosecutor</s>
+per:title
+NA
+<s>`` From January 1, I, Charles Ble Goude and the youth of Ivory Coast are going to liberate the Golf Hotel with our bare hands, '' the political showman turned minister declared Wednesday, to a cheering crowd of hardline supporters.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> minister</s>
+per:title
+NA
