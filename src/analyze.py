@@ -154,7 +154,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     # log.info(rel2idlist[data['labels'].numpy()])
     # log.info(rel2idlist[predictions[i]])
     if predictions[i] in mosterror[label]:
-        with open(f"{mosterror[label][predictions[i]]}.txt", "w") as f:
+        with open(f"{args.output_dir}/{mosterror[label][predictions[i]]}.txt", "w") as f:
             f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
             f.write(rel2idlist[label]+'\n')
             f.write(rel2idlist[predictions[i]]+'\n')
