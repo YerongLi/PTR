@@ -147,7 +147,8 @@ counter = 0
 for data in test_dataset:
     counter += 1
     log.info(data.keys())
-    input_ids = [t for t in data['input_ids'] if t is not tokenizer.pad_token_id]
+    print(data['input_ids'])
+    input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
     if counter > 5: break
 log.info('End of script')
