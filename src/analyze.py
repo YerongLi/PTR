@@ -142,8 +142,12 @@ log.info('Errors : summary')
 for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
 mosterror = {i : {} for i in range(N)}
-for i, item in enumerate(ans[:10]):
+TOP = 10
+for i, item in enumerate(ans[:TOP]):
     mosterror[item[0][0]][item[0][1]] = i
+    filename = f"{args.output_dir}/{i}.txt"
+    if os.path.exists(filename):  os.remove(filename)
+
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
 for i, data in tqdm(enumerate(test_dataset)):
@@ -154,7 +158,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     # log.info(rel2idlist[data['labels'].numpy()])
     # log.info(rel2idlist[predictions[i]])
     if predictions[i] in mosterror[label]:
-        with open(f"{args.output_dir}/{mosterror[label][predictions[i]]}.txt", "w") as f:
+        with open(f"{args.output_dir}/{mosterror[label][predictions[i]]}.txt", "a") as f:
             f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
             f.write(rel2idlist[label]+'\n')
             f.write(rel2idlist[predictions[i]]+'\n')
