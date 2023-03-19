@@ -144,9 +144,10 @@ for item in ans:
 ## Get the tokenizer
 tokenizer = get_tokenizer(special=[])
 for i, data in enumerate(test_dataset):
-    
+    log.info(data.keys())
     log.info(i)
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
+    log.info(data['label'])
     if i > 5: break
 log.info('End of script')
