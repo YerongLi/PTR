@@ -142,6 +142,6 @@ for item in ans:
     log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
 
 for data in test_dataset:
-    log.info(data)
+    log.info(data.keys())
     break
 log.info('End of script')
