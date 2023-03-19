@@ -160,7 +160,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     log.info(label)
     log.info(mosterror.keys())
     log.info(mosterror[label].keys())
-
+    log.info('two keys')
     if predictions[i] in mosterror[label]:
         with open(f"{mosterror[(label, prediction[i])]}.txt", "w") as f:
             f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
