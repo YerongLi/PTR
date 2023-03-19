@@ -145,8 +145,8 @@ for item in ans:
 tokenizer = get_tokenizer(special=[])
 for data in test_dataset:
     log.info(data.keys())
-    log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=True))
-    log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=False))
-    log.info(data['mlm_labels'])
+    log.info(tokenizer.pad_token_id)
+    # log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=True))
+    # log.info(tokenizer.decode(data['input_ids'], skip_special_tokens=False))
     break
 log.info('End of script')
