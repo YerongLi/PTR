@@ -109,7 +109,9 @@ def set_seed(seed):
         torch.cuda.manual_seed_all(seed)
 logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
-log.debug(f'Logger start: {os.uname()[1]}')
+
+filehandler_dbg = logging.FileHandler(mode='w')
+logging.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
@@ -183,8 +185,8 @@ train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=e
 test_dataset.cuda()
 test_sampler = SequentialSampler(test_dataset)
 test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, eval_batch_size))
-log.info('train_dataset.prompt_label_idx')
-log.info(train_dataset.prompt_label_idx)
+logging.info('train_dataset.prompt_label_idx')
+logging.info(train_dataset.prompt_label_idx)
 model = get_model(tokenizer, train_dataset.prompt_label_idx)
 optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
 criterion = nn.CrossEntropyLoss()
@@ -198,4 +200,4 @@ mx_epoch = None
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.num_train_epochs)+".pkl"))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
-log.info(mi_f1)
+logging.info(mi_f1)
