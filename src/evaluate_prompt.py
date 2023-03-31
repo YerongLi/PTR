@@ -111,7 +111,7 @@ LOGFILE = args.output_dir+'/output.log'
 logging.basicConfig(filename=LOGFILE, level=logging.DEBUG)
 log = logging.getLogger(__name__)
 
-filehandler_dbg = logging.FileHandler(filename=LOGFILE, mode='w')
+# filehandler_dbg = logging.FileHandler(filename=LOGFILE, mode='w')
 logging.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
