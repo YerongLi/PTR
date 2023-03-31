@@ -107,10 +107,11 @@ def set_seed(seed):
     torch.manual_seed(seed)
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(seed)
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+LOGFILE = args.output_dir+'/output.log'
+logging.basicConfig(filename=LOGFILE, level=logging.DEBUG)
 log = logging.getLogger(__name__)
 
-filehandler_dbg = logging.FileHandler(mode='w')
+filehandler_dbg = logging.FileHandler(fillename=LOGFILE, mode='w')
 logging.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
