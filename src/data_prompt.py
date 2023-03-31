@@ -76,7 +76,7 @@ class REPromptDataset(DictDataset):
                     if _temp[i] == tokenizer.mask_token:
                         _temp[i] = _labels[len(_labels_index)]
                         _labels_index.append(i)
-
+                logging.info(temp)
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
 
@@ -89,6 +89,7 @@ class REPromptDataset(DictDataset):
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
+
         logging.info('total yerong')
         logging.info(total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
