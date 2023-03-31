@@ -1,3 +1,4 @@
+import logging
 import torch
 import torch.nn as nn
 from arguments import get_model_classes, get_args
@@ -34,6 +35,8 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
+        logging.info('word_embeddings')
+        logging.info(type(self.model.embeddings.word_embeddings))
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
