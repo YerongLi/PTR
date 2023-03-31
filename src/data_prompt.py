@@ -76,8 +76,6 @@ class REPromptDataset(DictDataset):
                     if _temp[i] == tokenizer.mask_token:
                         _temp[i] = _labels[len(_labels_index)]
                         _labels_index.append(i)
-                logging.info('temps')
-                logging.info(temp)
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
 
@@ -110,6 +108,9 @@ class REPromptDataset(DictDataset):
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
 
+        logging.info('self.prompt_id_2_label length')
+        logging.info(len(self.prompt_id_2_label))
+        logging.info(self.prompt_id_2_label)
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
         
         self.prompt_label_idx = [
