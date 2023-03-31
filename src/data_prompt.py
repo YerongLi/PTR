@@ -1,7 +1,8 @@
-import torch
-import numpy as np
-from torch.utils.data import Dataset
 import json
+import logging
+import numpy as np
+import torch
+from torch.utils.data import Dataset
 from tqdm import tqdm
 from arguments import get_args
 
@@ -88,8 +89,8 @@ class REPromptDataset(DictDataset):
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
-
-        print (total)
+        logging.info('total yerong')
+        logging.info(total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
         # print ("=================================")
         # for i in self.set:
