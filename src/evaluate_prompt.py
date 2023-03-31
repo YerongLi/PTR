@@ -183,7 +183,8 @@ train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=e
 test_dataset.cuda()
 test_sampler = SequentialSampler(test_dataset)
 test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, eval_batch_size))
-
+log.info('train_dataset.prompt_label_idx')
+log.info(train_dataset.prompt_label_idx)
 model = get_model(tokenizer, train_dataset.prompt_label_idx)
 optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
 criterion = nn.CrossEntropyLoss()
