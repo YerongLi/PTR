@@ -34,8 +34,8 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
-        logging.info('word_embeddings weight type')
-        logging.info(type(self.model.embeddings.word_embeddings.weight))
+        logging.info('word_embeddings weight shape')
+        logging.info(self.model.embeddings.word_embeddings.weight.shape)
 
         logits = [
             torch.mm(
