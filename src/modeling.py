@@ -9,8 +9,6 @@ class Model(torch.nn.Module):
         super().__init__()
         model_classes = get_model_classes()
         model_config = model_classes[args.model_type]
-        logging.info('model_classes')
-        logging.info(model_classes)
         self.prompt_label_idx = prompt_label_idx
 
         self.model = model_config['model'].from_pretrained(
@@ -36,8 +34,8 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
-        logging.info('word_embeddings')
-        logging.info(type(self.model.embeddings.word_embeddings))
+        logging.info('word_embeddings weight type')
+        logging.info(type(self.model.embeddings.word_embeddings.weight))
 
         logits = [
             torch.mm(
