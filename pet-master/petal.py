@@ -253,8 +253,9 @@ def main():
                 normalize=args.normalize,
                 score_fct=args.score_fct
             )
-
-    print(json.dumps(verbalizers, indent=2))
+    # possible printing of the verbalizers
+    logging.info('verbalizers')
+    logging.info(json.dumps(verbalizers, indent=2))
     logger.info("Verbalizer search complete, writing output...")
 
     with open(os.path.join(args.output_dir, 'verbalizers.json'), 'w', encoding='utf8') as fh:
