@@ -1,9 +1,12 @@
+import logging
 from arguments import get_args_parser
 
 def get_temps(tokenizer):
     args = get_args_parser()
     temps = {}
     with open(args.data_dir + "/" + args.temps, "r") as f:
+        logging.info('Verbalizer Filename')
+        logging.info(args.data_dir + "/" + args.temps)
         for i in f.readlines():
             i = i.strip().split("\t")
             info = {}
@@ -13,7 +16,6 @@ def get_temps(tokenizer):
                     [tokenizer.mask_token, tokenizer.mask_token, tokenizer.mask_token], 
                     ['the', tokenizer.mask_token],
              ]
-            print('verbalizer')
             print (i)
             info['labels'] = [
                 (i[2],),
