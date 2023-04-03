@@ -111,6 +111,7 @@ class REPromptDataset(DictDataset):
         logging.info('self.prompt_id_2_label length')
         logging.info(len(self.prompt_id_2_label))
         for entry in self.prompt_id_2_label:
+            logging.info(entry)
             logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
         
