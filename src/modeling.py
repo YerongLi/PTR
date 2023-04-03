@@ -35,8 +35,8 @@ class Model(torch.nn.Module):
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
         # shape of the embeddings.word_embeddings.weight is INFO:root:torch.Size([50265, 1024])
-        logging.info(f'hidden_states:, {hidden_states.shape}')
-        
+        # logging.info(f'hidden_states:, {hidden_states.shape}')
+        # {1, 5, 1024}
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
