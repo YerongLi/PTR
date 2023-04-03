@@ -13,6 +13,7 @@ def get_temps(tokenizer):
                     [tokenizer.mask_token, tokenizer.mask_token, tokenizer.mask_token], 
                     ['the', tokenizer.mask_token],
              ]
+            print('verbalizer')
             print (i)
             info['labels'] = [
                 (i[2],),
