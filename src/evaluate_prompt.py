@@ -116,7 +116,8 @@ logging.debug(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
-
+logging.info('temps')
+logging.info(temps)
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
 if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):

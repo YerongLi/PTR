@@ -108,11 +108,11 @@ class REPromptDataset(DictDataset):
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
 
-        logging.info('self.prompt_id_2_label length')
-        logging.info(len(self.prompt_id_2_label))
-        for entry in self.prompt_id_2_label:
-            logging.info(entry.numpy())
-            logging.info(tokenizer.decode(entry.numpy()))
+        # logging.info('self.prompt_id_2_label length')
+        # logging.info(len(self.prompt_id_2_label))
+        # for entry in self.prompt_id_2_label:
+        #     logging.info(entry.numpy())
+        #     logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
         
         self.prompt_label_idx = [
