@@ -118,8 +118,9 @@ tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
 logging.info('temps')
 logging.info(len(temps))
-for entry in temps:
+for relation in temps:
     logging.info(entry)
+    logging.info(f'  {temps[relation]}')
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
 if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
