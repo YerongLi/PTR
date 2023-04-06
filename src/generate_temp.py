@@ -8,6 +8,7 @@ with open(path, "r") as f:
     features = []
     for line in f.readlines():
         line = line.rstrip()
+        print(len(line))
         if len(line) > 0:
         	print(dir(eval(line)))
             # features.append(eval(line))  
