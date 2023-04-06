@@ -8,9 +8,11 @@ with open(path, "r") as f:
     features = []
     for line in f.readlines():
         line = line.rstrip()
-        print(len(line))
+
         if len(line) > 0:
-        	print(eval(line).keys())
+        	data = eval(line)
+        	print(data['h'])
+        	print(data['token'])
             # features.append(eval(line))  
 for i in oldtemp.readlines():
     entries = i.strip().split("\t")
