@@ -25,8 +25,8 @@ for i in oldtemp.readlines():
     	else:
     		pairs = random.sample(candidate[entries[1]], 3)
     	for pair in pairs :
-    		newtemp.write(i + '\t' + '\t'+ '\t'.join(pair) + '\n')
+    		newtemp.write(i[:-1] + '\t'+ '\t'.join(pair) + '\n')
     else:
-    	newtemp.write(i + '\n')
+    	newtemp.write(i)
 
     	continue
