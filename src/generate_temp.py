@@ -18,7 +18,7 @@ with open(path, "r") as f:
 print(candidate.keys())
 for i in oldtemp.readlines():
     entries = i.strip().split("\t")
-    print(entries[1])
+    print(len(entries))
     if entries[1] in candidate:
     	print(entries[1])
     	continue
