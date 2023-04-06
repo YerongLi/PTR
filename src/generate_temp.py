@@ -15,8 +15,10 @@ with open(path, "r") as f:
         	if data['relation'] in candidate:
         		candidate[data['relation']].append((data['h']['name'], data['t']['name']))
             # features.append(eval(line))  
+print(candidate.keys())
 for i in oldtemp.readlines():
     entries = i.strip().split("\t")
-    if entries[2] in candidate:
-    	print(entries[2])
+    print(entries[1])
+    if entries[1] in candidate:
+    	print(entries[1])
     	continue
