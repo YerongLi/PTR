@@ -6,7 +6,6 @@ path =  'data/retacred/test.txt'
 print('start the loop')
 with open(path, "r") as f:
     features = []
-    print(f.readlines())
     for line in f.readlines():
         line = line.rstrip()
         print(len(line))
