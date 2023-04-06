@@ -5,7 +5,8 @@ oldtemp = open('data/retacred/temp.txt', 'r')
 newtemp = open('data/retacred/temp.2.txt', 'w')
 path =  'data/retacred/test.txt'
 print('start the loop')
-candidate = {'per:employee_of', 'per:title', 'org:country_of_branch', 'per:city_of_death'}
+# candidate = {'per:employee_of', 'per:title', 'org:country_of_branch', 'per:city_of_death'}
+candidate = {'per:employee_of'}
 candidate = {c : list() for c in candidate}
 with open(path, "r") as f:
     features = []
@@ -21,7 +22,7 @@ for i in oldtemp.readlines():
     entries = i.strip().split("\t")
     if entries[1] in candidate:
     	if entries[1] == 'per:employee_of':
-    		pairs = random.sample(candidate[entries[1]], 100)
+    		pairs = random.sample(candidate[entries[1]], 40)
     	else:
     		pairs = random.sample(candidate[entries[1]], 1)
     	for pair in pairs :
