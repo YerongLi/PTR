@@ -1,4 +1,5 @@
 import json
+import random
 from templating import get_temps
 oldtemp = open('data/retacred/temp.txt', 'r')
 newtemp = open('data/retacred/temp.1.txt', 'w')
@@ -18,7 +19,14 @@ with open(path, "r") as f:
 print(candidate.keys())
 for i in oldtemp.readlines():
     entries = i.strip().split("\t")
-    print(len(entries))
     if entries[1] in candidate:
-    	print(entries[1])
+    	if entries[1] == 'per:employee_of':
+    		pairs = random.sample(candidate[entries[1]], 30)
+    	else:
+    		pairs = random.sample(candidate[entries[1]], 3)
+    	for pair in pairs:
+    	newtemp.write(i + '\t' + '\t'+ '\t'.join(pairs) + '\n')
+    else:
+    	newtemp.write(i + '\n')
+
     	continue
