@@ -2,8 +2,9 @@ import json
 from templating import get_temps
 oldtemp = open('data/retacred/temp.txt', 'r')
 newtemp = open('data/retacred/temp.1.txt', 'w')
+path =  'data/retacred/test.txt'
 
-with open(path+"/" + name, "r") as f:
+with open(path, "r") as f:
     features = []
     for line in f.readlines():
         line = line.rstrip()
