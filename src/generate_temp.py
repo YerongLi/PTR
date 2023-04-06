@@ -5,7 +5,7 @@ newtemp = open('data/retacred/temp.1.txt', 'w')
 path =  'data/retacred/test.txt'
 print('start the loop')
 candidate = {'per:employee_of', 'per:title', 'org:country_of_branch', 'per:city_of_death'}
-candidate = {c : list() for c in cands}
+candidate = {c : list() for c in candidate}
 with open(path, "r") as f:
     features = []
     for line in f.readlines():
