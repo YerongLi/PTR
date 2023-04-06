@@ -3,7 +3,6 @@ from templating import get_temps
 oldtemp = open('data/retacred/temp.txt', 'r')
 newtemp = open('data/retacred/temp.1.txt', 'w')
 
-self.args = get_args()
 with open(path+"/" + name, "r") as f:
     features = []
     for line in f.readlines():
