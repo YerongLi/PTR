@@ -13,7 +13,7 @@ with open(path, "r") as f:
         if len(line) > 0:
         	data = eval(line)
         	if data['relation'] in candidate:
-        		candidate.append((data['h']['name'], data['t']['name']))
+        		candidate[data['relation']].append((data['h']['name'], data['t']['name']))
             # features.append(eval(line))  
 for i in oldtemp.readlines():
     entries = i.strip().split("\t")
