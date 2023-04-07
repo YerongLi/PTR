@@ -81,7 +81,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
             logits = model(**batch)
-            logging.info(f'logits dimension {logits.shape}')
+            logging.info(f'logits dimension {len(logits)}')
             progress.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:
