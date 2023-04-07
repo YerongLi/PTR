@@ -71,9 +71,7 @@ def f1_score(output, label, rel_num, na_num):
     return micro_f1, f1_by_relation
 
 def evaluate(model, dataset, dataloader, output_dir='.'):
-    logging.info('model.prompt_label_idx')
-    logging.info('dataset.prompt_id_2_label')
-    logging.info(dataset.prompt_id_2_label)
+
     model.eval()
     scores = []
     all_labels = []
@@ -209,6 +207,9 @@ mx_epoch = None
 
 
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.num_train_epochs)+".pkl"))
+logging.info('model.prompt_label_idx')
+logging.info('test_dataset.prompt_id_2_label')
+logging.info(test_dataset.prompt_id_2_label)
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
 logging.info(mi_f1)
