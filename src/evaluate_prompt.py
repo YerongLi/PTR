@@ -73,7 +73,7 @@ def f1_score(output, label, rel_num, na_num):
 def evaluate(model, dataset, dataloader, output_dir='.'):
     logging.info('model.prompt_label_idx')
     logging.info('dataset.prompt_id_2_label')
-    logging.info(dataset.dataset.prompt_id_2_label)
+    logging.info(dataset.prompt_id_2_label)
     model.eval()
     scores = []
     all_labels = []
