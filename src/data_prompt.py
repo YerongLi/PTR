@@ -63,7 +63,6 @@ class REPromptDataset(DictDataset):
         self.temp_ids = {}
 
         for name in self.temps:
-            logging.info(f'self.tempsname {name}')
             last = 0
             self.temp_ids[name] = {}
             self.temp_ids[name]['label_ids'] = []
@@ -71,6 +70,11 @@ class REPromptDataset(DictDataset):
 
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
+                logging.info('_temp')
+                logging.info(_temp)
+                logging.info('tempslabels.index')
+                loggint.info(self.temps[name]['labels'])
+                loggint.info(self.temps[name]['labels'][index])
                 _labels = self.temps[name]['labels'][index]
                 _labels_index = []
 
