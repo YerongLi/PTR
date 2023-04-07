@@ -73,8 +73,8 @@ class REPromptDataset(DictDataset):
                 logging.info('_temp')
                 logging.info(_temp)
                 logging.info('tempslabels.index')
-                loggint.info(self.temps[name]['labels'])
-                loggint.info(self.temps[name]['labels'][index])
+                logging.info(self.temps[name]['labels'])
+                logging.info(self.temps[name]['labels'][index])
                 _labels = self.temps[name]['labels'][index]
                 _labels_index = []
 
