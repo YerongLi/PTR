@@ -211,7 +211,7 @@ logging.info('model.prompt_label_idx')
 logging.info('test_dataset.prompt_id_2_label')
 logging.info(test_dataset.prompt_id_2_label)
 for entry in test_dataset.prompt_id_2_label:
-    print(tokenizer.decode(entry))
+    logging.info(tokenizer.decode(entry))
 mi_f1, _ = evaluate(model, test_dataset, test_dataloader, output_dir=args.output_dir)
 
 logging.info(mi_f1)
