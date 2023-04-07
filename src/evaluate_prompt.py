@@ -122,7 +122,7 @@ logging.info(len(temps))
 for relation in temps:
     logging.info(relation)
     # logging.info(f'  {temps[relation]}')
-    logging.info(f'  {temps[relation]["temp"]}')
+    logging.info(f'  {temps[relation]}')
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
 if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
