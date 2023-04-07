@@ -71,11 +71,19 @@ class REPromptDataset(DictDataset):
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
                 logging.info('_temp')
-                logging.info(_temp)
-                logging.info('tempslabels.index')
-                logging.info(self.temps[name]['labels'])
-                logging.info('_labels')
-                logging.info(self.temps[name]['labels'][index])
+                # logging.info(_temp)
+                # INFO:root:['the', '<mask>']
+                # INFO:root:['<mask>', '<mask>', '<mask>']
+                
+                # logging.info('tempslabels.index')
+                # logging.info(self.temps[name]['labels'])
+                # INFO:root:[('person',), ('was', 'charged', 'with'), ('event',)]
+                
+                # logging.info('_labels')
+                # logging.info(self.temps[name]['labels'][index])
+                # INFO:root:('person',)
+                # INFO:root:('was', 'charged', 'with')
+
                 _labels = self.temps[name]['labels'][index]
                 _labels_index = []
 
@@ -88,7 +96,8 @@ class REPromptDataset(DictDataset):
 
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
-
+                logging.info("self.temp_ids[name]['label_ids']")
+                logging.info(tokenizer.decode(self.temp_ids[name]['label_ids']))
                 for pos in _labels_index:
                     if not last in total:
                         total[last] = {}
