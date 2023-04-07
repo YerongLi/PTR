@@ -109,6 +109,7 @@ def set_seed(seed):
         torch.cuda.manual_seed_all(seed)
 LOGFILE = args.output_dir+'/output.log'
 logging.basicConfig(filename=LOGFILE, level=logging.DEBUG)
+formatter = logging.Formatter("%(asctime)s;%(levelname)s;%(message)s")
 log = logging.getLogger(__name__)
 
 # filehandler_dbg = logging.FileHandler(filename=LOGFILE, mode='w')
