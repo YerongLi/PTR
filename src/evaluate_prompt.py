@@ -71,6 +71,9 @@ def f1_score(output, label, rel_num, na_num):
     return micro_f1, f1_by_relation
 
 def evaluate(model, dataset, dataloader, output_dir='.'):
+    logging.info('model.prompt_label_idx')
+    logging.info('dataset.prompt_id_2_label')
+    logging.info(dataset.dataset.prompt_id_2_label)
     model.eval()
     scores = []
     all_labels = []
@@ -78,6 +81,7 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
             logits = model(**batch)
+            logging.info(f'logits dimension {logits.shape}')
             progress.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:

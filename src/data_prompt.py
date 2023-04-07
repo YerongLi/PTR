@@ -54,7 +54,8 @@ class REPromptDataset(DictDataset):
                     if len(line) > 0:
                         features.append(eval(line))            
             features = self.list2tensor(features, tokenizer)
-
+        logging.info('type of features')
+        logging.info(type(features))
         super().__init__(**features)
     
     def get_labels(self, tokenizer):
