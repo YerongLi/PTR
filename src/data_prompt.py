@@ -67,7 +67,6 @@ class REPromptDataset(DictDataset):
             self.temp_ids[name] = {}
             self.temp_ids[name]['label_ids'] = []
             self.temp_ids[name]['mask_ids'] = []
-
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
                 logging.info('_temp')
@@ -79,21 +78,23 @@ class REPromptDataset(DictDataset):
                 # logging.info(self.temps[name]['labels'])
                 # INFO:root:[('person',), ('was', 'charged', 'with'), ('event',)]
                 
+
+
+                _labels = self.temps[name]['labels'][index]
+                _labels_index = []
                 # logging.info('_labels')
                 # logging.info(self.temps[name]['labels'][index])
                 # INFO:root:('person',)
                 # INFO:root:('was', 'charged', 'with')
-
-                _labels = self.temps[name]['labels'][index]
-                _labels_index = []
-
                 for i in range(len(_temp)):
                     if _temp[i] == tokenizer.mask_token:
                         _temp[i] = _labels[len(_labels_index)]
                         _labels_index.append(i)
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
-
+                logging.info('final and original')
+                logging.info(final)
+                logging.info('original')
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
                 # logging.info("self.temp_ids[name]['label_ids']")
