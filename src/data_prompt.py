@@ -96,8 +96,17 @@ class REPromptDataset(DictDataset):
 
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
-                logging.info("self.temp_ids[name]['label_ids']")
-                logging.info(tokenizer.decode(self.temp_ids[name]['label_ids']))
+                # logging.info("self.temp_ids[name]['label_ids']")
+                # logging.info(tokenizer.decode(self.temp_ids[name]['label_ids']))
+                # INFO:root: person
+                # INFO:root: personwas charged with
+                # INFO:root: personwas charged with event
+
+                # INFO:root: person
+                # INFO:root: personwas died on
+                # INFO:root: personwas died on date
+
+
                 for pos in _labels_index:
                     if not last in total:
                         total[last] = {}
