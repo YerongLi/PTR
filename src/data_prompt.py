@@ -92,9 +92,9 @@ class REPromptDataset(DictDataset):
                         _labels_index.append(i)
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
-                logging.info('final and original')
+                logging.info('original and final')
+                logging.info(original)
                 logging.info(final)
-                logging.info('original')
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
                 # logging.info("self.temp_ids[name]['label_ids']")
