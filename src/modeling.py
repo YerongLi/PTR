@@ -37,8 +37,8 @@ class Model(torch.nn.Module):
         # shape of the embeddings.word_embeddings.weight is INFO:root:torch.Size([50265, 1024])
         # logging.info(f'hidden_states:, {hidden_states.shape}')
         # {1, 5, 1024}
-        logging.info('forward prompt')
-        logging.info(self.prompt_label_idx)
+        # logging.info('forward prompt')
+        # logging.info(self.prompt_label_idx)
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
