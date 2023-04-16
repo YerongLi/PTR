@@ -69,7 +69,6 @@ class REPromptDataset(DictDataset):
             self.temp_ids[name]['mask_ids'] = []
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
-                logging.info('_temp')
                 # logging.info(_temp)
                 # INFO:root:['the', '<mask>']
                 # INFO:root:['<mask>', '<mask>', '<mask>']
@@ -144,13 +143,16 @@ class REPromptDataset(DictDataset):
             for j in range(len(self.temp_ids[name]['label_ids'])):
                 self.temp_ids[name]['label_ids'][j] = self.set[j].index(
                     self.temp_ids[name]['label_ids'][j])
-        logging.info('selftemp_ids')
-        logging.info(self.temp_ids['per:country_of_death'])
+        # logging.info('selftemp_ids')
+        # logging.info(self.temp_ids['per:country_of_death'])
+        # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
+
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
         for name in self.temp_ids:
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
+        logging.info(self.prompt_id_2_label)
 
         # logging.info('self.prompt_id_2_label length')
         # logging.info(len(self.prompt_id_2_label))
