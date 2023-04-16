@@ -145,12 +145,7 @@ class REPromptDataset(DictDataset):
                 self.temp_ids[name]['label_ids'][j] = self.set[j].index(
                     self.temp_ids[name]['label_ids'][j])
         logging.info('selftemp_ids')
-        logging.info(self.temp_ids)
-        for k in self.temp_ids['per:country_of_death']:
-            logging.info(f'    {k}')
-            for item in self.temp_ids['per:country_of_death'][k]:
-                logging.info(item)
-                logging.info(tokenizer(item))
+        logging.info(self.temp_ids['per:country_of_death'])
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
         for name in self.temp_ids:
