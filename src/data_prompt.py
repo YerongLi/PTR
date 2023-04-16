@@ -152,6 +152,7 @@ class REPromptDataset(DictDataset):
         for name in self.temp_ids:
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
+        logging.info('self.prompt_id_2_label')
         logging.info(self.prompt_id_2_label)
 
         # logging.info('self.prompt_id_2_label length')
