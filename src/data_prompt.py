@@ -170,7 +170,8 @@ class REPromptDataset(DictDataset):
         #         [ 0,  0, 21,  6,  1],
         #         [ 0,  0,  2,  6,  5],
         #         [ 1,  2,  1,  1,  9],
-
+        logging.info('selfset')
+        logging.info(self.set)
         # logging.info('self.prompt_id_2_label length')
         # logging.info(len(self.prompt_id_2_label))
         # for entry in self.prompt_id_2_label:
