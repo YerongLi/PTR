@@ -152,8 +152,24 @@ class REPromptDataset(DictDataset):
         for name in self.temp_ids:
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
-        logging.info('self.prompt_id_2_label')
-        logging.info(self.prompt_id_2_label)
+        # logging.info('self.prompt_id_2_label')
+        # logging.info(self.prompt_id_2_label)
+        # INFO:root:self.prompt_id_2_label
+        # INFO:root:tensor([[ 2,  1, 19,  0, 10],
+        #         [ 1,  0,  1,  6,  8],
+        #         [ 0,  0, 18,  6,  5],
+        #         [ 0,  0, 17,  6,  5],
+        #         [ 1,  2,  9,  2,  1],
+        #         [ 0,  2,  3,  2,  1],
+        #         [ 0,  0, 12,  6,  5],
+        #         [ 0,  2,  6,  2,  0],
+        #         [ 1,  0, 16,  6,  5],
+        #         [ 1,  2, 20,  2,  6],
+        #         [ 1,  0, 16,  8,  3],
+        #         [ 0,  2,  3,  2,  0],
+        #         [ 0,  0, 21,  6,  1],
+        #         [ 0,  0,  2,  6,  5],
+        #         [ 1,  2,  1,  1,  9],
 
         # logging.info('self.prompt_id_2_label length')
         # logging.info(len(self.prompt_id_2_label))
