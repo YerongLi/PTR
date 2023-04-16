@@ -170,8 +170,13 @@ class REPromptDataset(DictDataset):
         #         [ 0,  0, 21,  6,  1],
         #         [ 0,  0,  2,  6,  5],
         #         [ 1,  2,  1,  1,  9],
-        logging.info('selfset')
-        logging.info(self.set)
+
+        # logging.info('selfset')
+        # logging.info(self.set)
+        # INFO:root:selfset
+        # INFO:root:[[621, 1651, 10014], [18, 354, 7325], [334, 919, 920, 962, 998, 1046, 1207, 1270, 1340, 2034, 2421, 3200, 4095, 4790, 5221, 5407, 8850, 17117, 21771, 21821, 25385, 26241, 29853], [7, 9, 11, 15, 16, 19, 21, 30, 34], [194, 247, 343, 346, 515, 621, 1248, 1270, 1651, 6825, 10014, 46471]]
+
+
         # logging.info('self.prompt_id_2_label length')
         # logging.info(len(self.prompt_id_2_label))
         # for entry in self.prompt_id_2_label:
@@ -182,6 +187,8 @@ class REPromptDataset(DictDataset):
         self.prompt_label_idx = [
             torch.Tensor(i).long() for i in self.set
         ]
+        logging.info('selfprompt')
+        logging.info(self.prompt_label_idx)
 
     def save(self, path = None, name = None):
         path = path + "/" + name  + "/"
