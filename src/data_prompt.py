@@ -125,7 +125,7 @@ class REPromptDataset(DictDataset):
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
-        logging.info('total')
+        logging.info(f'total length {len(total)}')
         # logging.info(total)
         # INFO:root:{0: {621: 1, 1651: 1, 10014: 1}, 1: {7325: 1, 18: 1, 354: 1}, 2: {1340: 1, 962: 1, 4790: 1, 2421: 1, 5221: 1, 5407: 1, 1270: 1, 25385: 1, 1207: 1, 919: 1, 8850: 1, 334: 1, 3200: 1, 21771: 1, 17117: 1, 4095: 1, 920: 1, 29853: 1, 26241: 1, 998: 1, 1046: 1, 21821: 1, 2034: 1}, 3: {19: 1, 15: 1, 11: 1, 9: 1, 30: 1, 16: 1, 21: 1, 34: 1, 7: 1}, 4: {515: 1, 1248: 1, 247: 1, 621: 1, 343: 1, 194: 1, 1270: 1, 1651: 1, 6825: 1, 346: 1, 46471: 1, 10014: 1}}
         for i in range(len(total)):
@@ -144,7 +144,8 @@ class REPromptDataset(DictDataset):
             for j in range(len(self.temp_ids[name]['label_ids'])):
                 self.temp_ids[name]['label_ids'][j] = self.set[j].index(
                     self.temp_ids[name]['label_ids'][j])
-
+        logging.info('selftemp_ids')
+        logging.info(self.temp_ids)
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
         for name in self.temp_ids:
