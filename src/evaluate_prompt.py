@@ -169,7 +169,7 @@ test_dataset = REPromptDataset.load(
     rel2id = args.data_dir + "/" + "rel2id.json")
 
 
-eval_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
+eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
 train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
