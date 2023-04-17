@@ -1,11 +1,11 @@
-from arguments import get_eval_args_parser
-from collections import Counter
-from data_prompt import REPromptDataset
-from modeling import get_model, get_tokenizer
-from optimizing import get_optimizer
+from arguments import get_args_parser
 from templating import get_temps
+from modeling import get_model, get_tokenizer
+from data_prompt import REPromptDataset
+from optimizing import get_optimizer
 from torch.utils.data import RandomSampler, DataLoader, SequentialSampler
 from tqdm import tqdm, trange
+from collections import Counter
 from utils import progress_bar_log
 
 import logging
@@ -15,6 +15,7 @@ import random
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
@@ -71,7 +72,6 @@ def f1_score(output, label, rel_num, na_num):
     return micro_f1, f1_by_relation
 
 def evaluate(model, dataset, dataloader, output_dir='.'):
-
     model.eval()
     scores = []
     all_labels = []
@@ -79,7 +79,6 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
     with torch.no_grad():
         for i, batch in enumerate(tqdm(dataloader)):
             logits = model(**batch)
-            logging.info(f'logits dimension {len(logits)}')
             progress.check(i, len(dataloader))
             res = []
             for i in dataset.prompt_id_2_label:
@@ -102,33 +101,22 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
         mi_f1, ma_f1 = f1_score(pred, all_labels, dataset.num_class, dataset.NA_NUM)
         return mi_f1, ma_f1
 
-args = get_eval_args_parser()
+args = get_args_parser()
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
     torch.manual_seed(seed)
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(seed)
-LOGFILE = args.output_dir+'/output.log'
-logging.basicConfig(filename=LOGFILE, level=logging.DEBUG)
-formatter = logging.Formatter("%(asctime)s;%(levelname)s;%(message)s")
+logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
-
-# filehandler_dbg = logging.FileHandler(filename=LOGFILE, mode='w')
-logging.debug(f'Logger start: {os.uname()[1]}')
+log.info(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
-logging.info('temps')
-logging.info(len(temps))
-for relation in temps:
-    logging.info(relation)
-    # logging.info(f'  {temps[relation]}')
-    logging.info(f'  {temps[relation]}')
-# If the dataset has been saved, 
-# the code ''dataset = REPromptDataset(...)'' is not necessary.
-# if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
-if True:
+
+
+if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'train.txt', 
@@ -139,8 +127,7 @@ if True:
 
 # # If the dataset has been saved, 
 # # the code ''dataset = REPromptDataset(...)'' is not necessary.
-# if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
-if True:
+if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'val.txt', 
@@ -151,8 +138,7 @@ if True:
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-# if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
-if True:
+if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'test.txt', 
@@ -182,31 +168,32 @@ test_dataset = REPromptDataset.load(
     tokenizer = tokenizer,
     rel2id = args.data_dir + "/" + "rel2id.json")
 
-eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
 
+eval_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
 
-# train_dataset.cuda()
+train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
-train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)
+train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=train_batch_size)
 
 # val_dataset.cuda()
 # val_sampler = SequentialSampler(val_dataset)
 # # val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=train_batch_size//2)
-# val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=max(1, eval_batch_size))
+# val_dataloader = DataLoader(val_dataset, sampler=val_sampler, batch_size=max(1, train_batch_size//2))
 
 test_dataset.cuda()
 test_sampler = SequentialSampler(test_dataset)
-test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, eval_batch_size))
-logging.info('train_dataset.prompt_label_idx')
-logging.info(train_dataset.prompt_label_idx)
+test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, train_batch_size//2))
+
 model = get_model(tokenizer, train_dataset.prompt_label_idx)
-optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
-criterion = nn.CrossEntropyLoss()
+# optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
+# criterion = nn.CrossEntropyLoss()
 
 mx_res = 0.0
 hist_mi_f1 = []
 hist_ma_f1 = []
 mx_epoch = None
+last_epoch = None
+
 
 
 model.load_state_dict(torch.load(args.output_dir+"/"+'parameter'+str(args.num_train_epochs)+".pkl"))
