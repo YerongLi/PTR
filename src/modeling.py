@@ -36,8 +36,15 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
-        logging.info('forward prompt')
-        logging.info(self.prompt_label_idx)
+        # logging.info('forward prompt')
+        # logging.info(self.prompt_label_idx)
+        # INFO:root:forward prompt
+        # INFO:root:[tensor([  621,  1651, 10014]), tensor([  18,  354, 7325]), tensor([  334,   919,   920,   962,   998,  1046,  1207,  1270,  1340,  2034
+        # ,
+        #          2421,  3200,  4095,  4790,  5221,  5407,  8850, 17117, 21771, 21821,
+        #         25385, 26241, 29853]), tensor([ 7,  9, 11, 15, 16, 19, 21, 30, 34]), tensor([  194,   247,   343,   346,   515,   621,  1248,  1270,  1651
+        # ,  6825,
+        #         10014, 46471])]
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
