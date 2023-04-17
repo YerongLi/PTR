@@ -127,7 +127,8 @@ for relation in temps:
     logging.info(f'  {temps[relation]}')
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
+# if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.exists(f'{args.output_dir}/train/labels.npy'):
+if True:
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'train.txt', 
@@ -138,7 +139,8 @@ if not os.path.exists(f'{args.output_dir}/train/input_ids.npy') or not os.path.e
 
 # # If the dataset has been saved, 
 # # the code ''dataset = REPromptDataset(...)'' is not necessary.
-if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
+# if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exists(f'{args.output_dir}/val/labels.npy'):
+if True:
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'val.txt', 
@@ -149,7 +151,8 @@ if not os.path.exists(f'{args.output_dir}/val/input_ids.npy') or not os.path.exi
 
 # If the dataset has been saved, 
 # the code ''dataset = REPromptDataset(...)'' is not necessary.
-if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
+# if not os.path.exists(f'{args.output_dir}/test/input_ids.npy') or not os.path.exists(f'{args.output_dir}/test/labels.npy'):
+if True:
     dataset = REPromptDataset(
         path  = args.data_dir, 
         name = 'test.txt', 
