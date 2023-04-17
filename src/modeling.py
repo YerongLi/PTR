@@ -1,4 +1,3 @@
-import logging
 import torch
 import torch.nn as nn
 from arguments import get_model_classes, get_args
@@ -9,6 +8,7 @@ class Model(torch.nn.Module):
         super().__init__()
         model_classes = get_model_classes()
         model_config = model_classes[args.model_type]
+
         self.prompt_label_idx = prompt_label_idx
 
         self.model = model_config['model'].from_pretrained(
@@ -34,11 +34,6 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
-        # shape of the embeddings.word_embeddings.weight is INFO:root:torch.Size([50265, 1024])
-        # logging.info(f'hidden_states:, {hidden_states.shape}')
-        # {1, 5, 1024}
-        # logging.info('forward prompt')
-        # logging.info(self.prompt_label_idx)
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
@@ -65,4 +60,3 @@ def get_tokenizer(special=[]):
         cache_dir=args.cache_dir if args.cache_dir else None)
     tokenizer.add_tokens(special)
     return tokenizer
-

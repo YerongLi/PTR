@@ -1,8 +1,7 @@
-import json
-import logging
-import numpy as np
 import torch
+import numpy as np
 from torch.utils.data import Dataset
+import json
 from tqdm import tqdm
 from arguments import get_args
 
@@ -54,8 +53,7 @@ class REPromptDataset(DictDataset):
                     if len(line) > 0:
                         features.append(eval(line))            
             features = self.list2tensor(features, tokenizer)
-        logging.info('type of features')
-        logging.info(type(features))
+
         super().__init__(**features)
     
     def get_labels(self, tokenizer):
@@ -67,56 +65,22 @@ class REPromptDataset(DictDataset):
             self.temp_ids[name] = {}
             self.temp_ids[name]['label_ids'] = []
             self.temp_ids[name]['mask_ids'] = []
+
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
-                # logging.info(_temp)
-                # INFO:root:['the', '<mask>']
-                # INFO:root:['<mask>', '<mask>', '<mask>']
-                
-                # logging.info('tempslabels.index')
-                # logging.info(self.temps[name]['labels'])
-                # INFO:root:[('person',), ('was', 'charged', 'with'), ('event',)]
-                
-
-
                 _labels = self.temps[name]['labels'][index]
                 _labels_index = []
-                # logging.info('_labels')
-                # logging.info(self.temps[name]['labels'][index])
-                # INFO:root:('person',)
-                # INFO:root:('was', 'charged', 'with')
+
                 for i in range(len(_temp)):
                     if _temp[i] == tokenizer.mask_token:
                         _temp[i] = _labels[len(_labels_index)]
                         _labels_index.append(i)
+
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
-                # logging.info('original and final')
-                # logging.info(original)
-                # logging.info(final)
 
-                # INFO:root:original and final
-                # INFO:root:[50264, 50264, 50264]
-                # INFO:root:[7325, 1340, 19]
-                # INFO:root:original and final
-                # INFO:root:[627, 50264]
-                # INFO:root:[627, 515]
-                # INFO:root:original and final
-                # INFO:root:[627, 50264]
-                # INFO:root:[627, 621]
-
-                # assert len(original) == len(final)
+                assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
-                # logging.info("self.temp_ids[name]['label_ids']")
-                # logging.info(tokenizer.decode(self.temp_ids[name]['label_ids']))
-                # INFO:root: person
-                # INFO:root: personwas charged with
-                # INFO:root: personwas charged with event
-
-                # INFO:root: person
-                # INFO:root: personwas died on
-                # INFO:root: personwas died on date
-
 
                 for pos in _labels_index:
                     if not last in total:
@@ -124,71 +88,30 @@ class REPromptDataset(DictDataset):
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
-        logging.info(f'total length {len(total)}')
-        # logging.info(total)
-        # INFO:root:{0: {621: 1, 1651: 1, 10014: 1}, 1: {7325: 1, 18: 1, 354: 1}, 2: {1340: 1, 962: 1, 4790: 1, 2421: 1, 5221: 1, 5407: 1, 1270: 1, 25385: 1, 1207: 1, 919: 1, 8850: 1, 334: 1, 3200: 1, 21771: 1, 17117: 1, 4095: 1, 920: 1, 29853: 1, 26241: 1, 998: 1, 1046: 1, 21821: 1, 2034: 1}, 3: {19: 1, 15: 1, 11: 1, 9: 1, 30: 1, 16: 1, 21: 1, 34: 1, 7: 1}, 4: {515: 1, 1248: 1, 247: 1, 621: 1, 343: 1, 194: 1, 1270: 1, 1651: 1, 6825: 1, 346: 1, 46471: 1, 10014: 1}}
-        for i in range(len(total)):
-            logging.info(i)
-            for k in total[i]:
-                logging.info(tokenizer.decode(k))
 
-
+        print (total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
-        # print ("=================================")
-        # for i in self.set:
-        #     print (i)
-        # print ("=================================")
+        print ("=================================")
+        for i in self.set:
+            print (i)
+        print ("=================================")
 
         for name in self.temp_ids:
             for j in range(len(self.temp_ids[name]['label_ids'])):
                 self.temp_ids[name]['label_ids'][j] = self.set[j].index(
                     self.temp_ids[name]['label_ids'][j])
-        # logging.info('selftemp_ids')
-        # logging.info(self.temp_ids['per:country_of_death'])
-        # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
 
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
         for name in self.temp_ids:
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
-        # logging.info('self.prompt_id_2_label')
-        # logging.info(self.prompt_id_2_label)
-        # INFO:root:self.prompt_id_2_label
-        # INFO:root:tensor([[ 2,  1, 19,  0, 10],
-        #         [ 1,  0,  1,  6,  8],
-        #         [ 0,  0, 18,  6,  5],
-        #         [ 0,  0, 17,  6,  5],
-        #         [ 1,  2,  9,  2,  1],
-        #         [ 0,  2,  3,  2,  1],
-        #         [ 0,  0, 12,  6,  5],
-        #         [ 0,  2,  6,  2,  0],
-        #         [ 1,  0, 16,  6,  5],
-        #         [ 1,  2, 20,  2,  6],
-        #         [ 1,  0, 16,  8,  3],
-        #         [ 0,  2,  3,  2,  0],
-        #         [ 0,  0, 21,  6,  1],
-        #         [ 0,  0,  2,  6,  5],
-        #         [ 1,  2,  1,  1,  9],
 
-        # logging.info('selfset')
-        # logging.info(self.set)
-        # INFO:root:selfset
-        # INFO:root:[[621, 1651, 10014], [18, 354, 7325], [334, 919, 920, 962, 998, 1046, 1207, 1270, 1340, 2034, 2421, 3200, 4095, 4790, 5221, 5407, 8850, 17117, 21771, 21821, 25385, 26241, 29853], [7, 9, 11, 15, 16, 19, 21, 30, 34], [194, 247, 343, 346, 515, 621, 1248, 1270, 1651, 6825, 10014, 46471]]
-
-
-        # logging.info('self.prompt_id_2_label length')
-        # logging.info(len(self.prompt_id_2_label))
-        # for entry in self.prompt_id_2_label:
-        #     logging.info(entry.numpy())
-        #     logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
         
         self.prompt_label_idx = [
             torch.Tensor(i).long() for i in self.set
         ]
-        logging.info('selfprompt')
-        logging.info(self.prompt_label_idx)
 
     def save(self, path = None, name = None):
         path = path + "/" + name  + "/"
@@ -313,5 +236,5 @@ class REPromptDataset(DictDataset):
         if len(seq) <= max_length:
             return seq
         else:
-            # print ("=========")
+            print ("=========")
             return seq[len(seq) - max_length:]
