@@ -99,11 +99,11 @@ class REPromptDataset(DictDataset):
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
 
-        print (total)
+        # print (total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
         print ("=================================")
-        for i in self.set:
-            print (i)
+        # for i in self.set:
+        #     print (i)
         print ("=================================")
 
         for name in self.temp_ids:
@@ -156,8 +156,13 @@ class REPromptDataset(DictDataset):
             torch.Tensor(i).long() for i in self.set
         ]
 
-        logging.info('selfprompt')
-        logging.info(self.prompt_label_idx)
+        # logging.info('selfprompt')
+        # logging.info(self.prompt_label_idx)
+        # INFO:root:selfprompt
+        # INFO:root:[tensor([  621,  1651, 10014]), tensor([  18,  354, 7325]), tensor([  334,   919,   920,   962,   998,  1046,  1207,  1270,  1340,  2034,
+        #          2421,  3200,  4095,  4790,  5221,  5407,  8850, 17117, 21771, 21821,
+        #         25385, 26241, 29853]), tensor([ 7,  9, 11, 15, 16, 19, 21, 30, 34]), tensor([  194,   247,   343,   346,   515,   621,  1248,  1270,  1651,  6825,
+        #         10014, 46471])]
 
     def save(self, path = None, name = None):
         path = path + "/" + name  + "/"
