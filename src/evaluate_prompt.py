@@ -109,6 +109,8 @@ def set_seed(seed):
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(seed)
 logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+formatter = logging.Formatter('[%(asctime)s] p%(process)s {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s','%m-%d %H:%M:%S')
+
 log = logging.getLogger(__name__)
 log.info(f'Logger start: {os.uname()[1]}')
 set_seed(args.seed)
