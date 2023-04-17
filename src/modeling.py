@@ -81,6 +81,9 @@ class Model(torch.nn.Module):
             )
             for index, i in enumerate(self.prompt_label_idx)
         ]
+
+        logging.info('logits')
+        logging.info(logits)
         return logits
 
 def get_model(tokenizer, prompt_label_idx):
