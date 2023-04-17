@@ -34,6 +34,8 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
+        logging.info('forward prompt')
+        logging.info(self.prompt_label_idx)
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
