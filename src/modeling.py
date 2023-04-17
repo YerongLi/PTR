@@ -75,7 +75,7 @@ class Model(torch.nn.Module):
         # INFO:root:torch.Size([1024, 12])
 
         logging.info('hidden_statesdim')
-        logging.info(hidden_states[:,5,:].shape)
+        logging.info(hidden_states[:,2,:].shape)
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
