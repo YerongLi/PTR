@@ -87,9 +87,18 @@ class Model(torch.nn.Module):
             for index, i in enumerate(self.prompt_label_idx)
         ]
 
-        logging.info('logits')
-        for item in logits:
-            logging.info(item.shape)
+        # logging.info('logits')
+        # for item in logits:
+        #     logging.info(item.shape)
+        # INFO:root:logits
+        # INFO:root:torch.Size([16, 3])
+        # INFO:root:torch.Size([16, 3])
+        # INFO:root:torch.Size([16, 23])
+        # INFO:root:torch.Size([16, 9])
+        # INFO:root:torch.Size([16, 12])
+        # INFO:root:logits
+        # INFO:root:torch.Size([16, 3])
+
         return logits
 
 def get_model(tokenizer, prompt_label_idx):

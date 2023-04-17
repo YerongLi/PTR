@@ -88,6 +88,8 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
                 _res = _res.detach().cpu()
                 res.append(_res)
             logits = torch.stack(res, 0).transpose(1,0)
+            logging.info('evluate logits')
+            logging.info(logits.shape)
             labels = batch['labels'].detach().cpu().tolist()
             all_labels+=labels
             scores.append(logits.cpu().detach())
