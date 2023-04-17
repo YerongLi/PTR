@@ -51,6 +51,9 @@ class Model(torch.nn.Module):
         #         25385, 26241, 29853]), tensor([ 7,  9, 11, 15, 16, 19, 21, 30, 34]), tensor([  194,   247,   343,   346,   515,   621,  1248,  1270,  1651
         # ,  6825,
         #         10014, 46471])]
+        for index, i in enumerate(self.prompt_label_idx):
+            logging.info('shape')
+            logging.info(self.model.embeddings.word_embeddings.weight[i].transpose(1,0).shape)  
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
