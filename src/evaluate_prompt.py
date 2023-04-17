@@ -173,7 +173,7 @@ eval_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
 
 train_dataset.cuda()
 train_sampler = RandomSampler(train_dataset)
-train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=train_batch_size)
+train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=eval_batch_size)
 
 # val_dataset.cuda()
 # val_sampler = SequentialSampler(val_dataset)
@@ -182,7 +182,7 @@ train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=t
 
 test_dataset.cuda()
 test_sampler = SequentialSampler(test_dataset)
-test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, train_batch_size//2))
+test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=max(1, eval_batch_size))
 
 model = get_model(tokenizer, train_dataset.prompt_label_idx)
 # optimizer, scheduler, optimizer_new_token, scheduler_new_token = get_optimizer(model, train_dataloader)
