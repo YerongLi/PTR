@@ -36,8 +36,12 @@ class Model(torch.nn.Module):
                           attention_mask=attention_mask,
                           token_type_ids=token_type_ids)
         hidden_states = hidden_states[mlm_labels >= 0].view(input_ids.size(0), len(self.prompt_label_idx), -1)
-        logging.info('hidden_states.shape')
-        logging.info(hidden_states.shape)
+
+        # logging.info('hidden_states.shape')
+        # logging.info(hidden_states.shape)
+        # INFO:root:hidden_states.shape
+        # INFO:root:torch.Size([16, 5, 1024])
+
         # logging.info('forward prompt')
         # logging.info(self.prompt_label_idx)
         # INFO:root:forward prompt
