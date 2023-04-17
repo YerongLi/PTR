@@ -74,8 +74,11 @@ class Model(torch.nn.Module):
         # INFO:root:shape
         # INFO:root:torch.Size([1024, 12])
 
-        logging.info('hidden_statesdim')
-        logging.info(hidden_states[:,2,:].shape)
+        # logging.info('hidden_statesdim')
+        # logging.info(hidden_states[:,2,:].shape)
+        # INFO:root:hidden_statesdim
+        # INFO:root:torch.Size([16, 1024])
+
         logits = [
             torch.mm(
                 hidden_states[:,index,:], 
@@ -85,7 +88,8 @@ class Model(torch.nn.Module):
         ]
 
         logging.info('logits')
-        logging.info(logits)
+        for item in logits:
+            logging.info(item.shape)
         return logits
 
 def get_model(tokenizer, prompt_label_idx):
