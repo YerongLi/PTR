@@ -88,8 +88,13 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
                 _res = _res.detach().cpu()
                 res.append(_res)
             logits = torch.stack(res, 0).transpose(1,0)
-            logging.info('evluate logits')
-            logging.info(logits.shape)
+            # logging.info('evluate logits')
+            # logging.info(logits.shape)
+            # INFO:root:evluate logits
+            # INFO:root:torch.Size([32, 40])
+            # INFO:root:evluate logits
+            # INFO:root:torch.Size([32, 40])
+
             labels = batch['labels'].detach().cpu().tolist()
             all_labels+=labels
             scores.append(logits.cpu().detach())

@@ -69,6 +69,15 @@ class REPromptDataset(DictDataset):
 
             for index, temp in enumerate(self.temps[name]['temp']):
                 _temp = temp.copy()
+                # logging.info(_temp)
+                # INFO:root:['the', '<mask>']
+                # INFO:root:['<mask>', '<mask>', '<mask>']
+                
+                # logging.info('tempslabels.index')
+                # logging.info(self.temps[name]['labels'])
+                # INFO:root:[('person',), ('was', 'charged', 'with'), ('event',)]
+                
+
                 _labels = self.temps[name]['labels'][index]
                 _labels_index = []
 
@@ -79,7 +88,20 @@ class REPromptDataset(DictDataset):
 
                 original = tokenizer.encode(" ".join(temp), add_special_tokens=False)
                 final =  tokenizer.encode(" ".join(_temp), add_special_tokens=False)
+                # logging.info('original and final')
+                # logging.info(original)
+                # logging.info(final)
 
+                # INFO:root:original and final
+                # INFO:root:[50264, 50264, 50264]
+                # INFO:root:[7325, 1340, 19]
+                # INFO:root:original and final
+                # INFO:root:[627, 50264]
+                # INFO:root:[627, 515]
+                # INFO:root:original and final
+                # INFO:root:[627, 50264]
+                # INFO:root:[627, 621]
+                
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
                 # logging.info("self.temp_ids[name]['label_ids']")
@@ -98,6 +120,8 @@ class REPromptDataset(DictDataset):
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
+        # logging.info(total)
+        # INFO:root:{0: {621: 1, 1651: 1, 10014: 1}, 1: {7325: 1, 18: 1, 354: 1}, 2: {1340: 1, 962: 1, 4790: 1, 2421: 1, 5221: 1, 5407: 1, 1270: 1, 25385: 1, 1207: 1, 919: 1, 8850: 1, 334: 1, 3200: 1, 21771: 1, 17117: 1, 4095: 1, 920: 1, 29853: 1, 26241: 1, 998: 1, 1046: 1, 21821: 1, 2034: 1}, 3: {19: 1, 15: 1, 11: 1, 9: 1, 30: 1, 16: 1, 21: 1, 34: 1, 7: 1}, 4: {515: 1, 1248: 1, 247: 1, 621: 1, 343: 1, 194: 1, 1270: 1, 1651: 1, 6825: 1, 346: 1, 46471: 1, 10014: 1}}
 
         # print (total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
