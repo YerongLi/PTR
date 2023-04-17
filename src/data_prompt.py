@@ -1,3 +1,4 @@
+import logging
 import torch
 import numpy as np
 from torch.utils.data import Dataset
@@ -81,6 +82,15 @@ class REPromptDataset(DictDataset):
 
                 assert len(original) == len(final)
                 self.temp_ids[name]['label_ids'] += [final[pos] for pos in _labels_index]
+                # logging.info("self.temp_ids[name]['label_ids']")
+                # logging.info(tokenizer.decode(self.temp_ids[name]['label_ids']))
+                # INFO:root: person
+                # INFO:root: personwas charged with
+                # INFO:root: personwas charged with event
+
+                # INFO:root: person
+                # INFO:root: personwas died on
+                # INFO:root: personwas died on date
 
                 for pos in _labels_index:
                     if not last in total:
@@ -100,18 +110,54 @@ class REPromptDataset(DictDataset):
             for j in range(len(self.temp_ids[name]['label_ids'])):
                 self.temp_ids[name]['label_ids'][j] = self.set[j].index(
                     self.temp_ids[name]['label_ids'][j])
+                
+        # logging.info('selftemp_ids')
+        # logging.info(self.temp_ids['per:country_of_death'])
+        # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
 
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
         for name in self.temp_ids:
             for j in range(len(self.prompt_id_2_label[self.rel2id[name]])):
                 self.prompt_id_2_label[self.rel2id[name]][j] = self.temp_ids[name]['label_ids'][j]
+        # logging.info('self.prompt_id_2_label')
+        # logging.info(self.prompt_id_2_label)
+        # INFO:root:self.prompt_id_2_label
+        # INFO:root:tensor([[ 2,  1, 19,  0, 10],
+        #         [ 1,  0,  1,  6,  8],
+        #         [ 0,  0, 18,  6,  5],
+        #         [ 0,  0, 17,  6,  5],
+        #         [ 1,  2,  9,  2,  1],
+        #         [ 0,  2,  3,  2,  1],
+        #         [ 0,  0, 12,  6,  5],
+        #         [ 0,  2,  6,  2,  0],
+        #         [ 1,  0, 16,  6,  5],
+        #         [ 1,  2, 20,  2,  6],
+        #         [ 1,  0, 16,  8,  3],
+        #         [ 0,  2,  3,  2,  0],
+        #         [ 0,  0, 21,  6,  1],
+        #         [ 0,  0,  2,  6,  5],
+        #         [ 1,  2,  1,  1,  9],
 
+        # logging.info('selfset')
+        # logging.info(self.set)
+        # INFO:root:selfset
+        # INFO:root:[[621, 1651, 10014], [18, 354, 7325], [334, 919, 920, 962, 998, 1046, 1207, 1270, 1340, 2034, 2421, 3200, 4095, 4790, 5221, 5407, 8850, 17117, 21771, 21821, 25385, 26241, 29853], [7, 9, 11, 15, 16, 19, 21, 30, 34], [194, 247, 343, 346, 515, 621, 1248, 1270, 1651, 6825, 10014, 46471]]
+
+
+        # logging.info('self.prompt_id_2_label length')
+        # logging.info(len(self.prompt_id_2_label))
+        # for entry in self.prompt_id_2_label:
+        #     logging.info(entry.numpy())
+        #     logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
         
         self.prompt_label_idx = [
             torch.Tensor(i).long() for i in self.set
         ]
+
+        logging.info('selfprompt')
+        logging.info(self.prompt_label_idx)
 
     def save(self, path = None, name = None):
         path = path + "/" + name  + "/"
