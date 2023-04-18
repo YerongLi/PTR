@@ -1,0 +1,524 @@
+{
+    "uuid": "459cb7a6-dd66-11ed-b5ea-0242ac120002",
+    "type": "Homework",
+    "title": "Final Exam",
+    "set": "Sharp Rocks",
+    "number": "11",
+    "zones": [
+        {
+            "title": "(10 pts) Basic Environment Calculation (WA1; TF)",
+            "questions": [
+                {
+                    "id": "OCaml/basic_environment_calculations/VSCodeQuestions/basicEnv0",
+                    "points": 10
+                },
+                {
+                    "id": "OCaml/basic_environment_calculations/VSCodeQuestions/basicEnv1a",
+                    "points": 10
+                },
+                {
+                    "id": "OCaml/basic_environment_calculations/VSCodeQuestions/basicEnv1b",
+                    "points": 10
+                },
+                {
+                    "id": "OCaml/basic_environment_calculations/VSCodeQuestions/basicEnv2b",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv6",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv7",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg21",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg22",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg23",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_tnip01",
+                    "points": 10
+                },
+                {
+                    "id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_tnip02",
+                    "points": 10
+                }
+            ]
+        },
+        {
+            "title": "(15 pts) Forward/Tail Recursion, List.Fold_left/right (ML2; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/recursion/forwardRecursion/even_count_fr",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/forwardRecursion/pair_sums",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/forwardRecursion/remove_even",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/even_count_tr",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/count_element",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/all_nonneg",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/split_sum",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/forwardRecursion/flag_list",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/forwardRecursion/concat_all",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/len_sum",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/recursion/tailRecursion/len_max",
+                    "points": 30
+                }
+            ]
+        },
+        {
+            "title": "(14 pts) Coding part of CPS transformation algorithm (MP2; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/cps/cps_transform_to_ocaml/all_positive",
+                    "points": 28
+                },
+                {
+                    "id": "OCaml/cps/cps_transform_to_ocaml/even_count",
+                    "points": 28
+                },
+                {
+                    "id": "OCaml/cps/higher_order_fun/find_all",
+                    "points": 28
+                },
+                {
+                    "id": "OCaml/cps/higher_order_fun/sum_all",
+                    "points": 28
+                }
+            ]
+        },
+        {
+            "title": "(10 pts) Using custom datatypes in programs (Write; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/adts/propLogic/syntax/env_lookup",
+                    "points": 20
+                },
+                {
+                    "id": "OCaml/adts/propLogic/syntax/binTree_leaves",
+                    "points": 20
+                },
+                {
+                    "id": "OCaml/adts/propLogic/syntax/23tree_collect",
+                    "points": 20
+                },
+                {
+                    "id": "OCaml/adts/propLogic/syntax/binTree_find",
+                    "points": 20
+                },
+                {
+                    "id": "OCaml/adts/propLogic/syntax/impVars",
+                    "points": 20
+                }
+            ]
+        },
+        {
+            "title": "(29 pts) Type Derivation Code",
+            "questions": [
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-app_fun",
+                    "points": 20
+                },
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-if_list",
+                    "points": 20
+                },
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-if_let",
+                    "points": 20
+                },
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-double_fun",
+                    "points": 20
+                },
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-fun_app",
+                    "points": 20
+                },
+                {
+                    "id": "Typing_and_Type_Systems-polymorphicTypeDerivations_computation_prooftreeDrawing-autograded-fun_let",
+                    "points": 20
+                }
+            ]
+        },
+        {
+            "title": "(16 pts) Unification algorithm (Computation)",
+            "questions": [
+                {
+                    "id": "OCaml/unification/multipleTF/bay",
+                    "points": 32
+                },
+                {
+                    "id": "OCaml/unification/multipleTF/elg",
+                    "points": 32
+                },
+                {
+                    "id": "OCaml/unification/multipleTF/john",
+                    "points": 32
+                },
+                {
+                    "id": "OCaml/unification/multipleTF/sej",
+                    "points": 32
+                }
+            ]
+        },
+        {
+            "title": "(15 pts) Lexing (MP4; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/lexing/hex",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/lexing/bin",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/lexing/float",
+                    "points": 30
+                }
+            ]
+        },
+        {
+            "title": "(15 pts) Parsing (ML5; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/ocamlyacc_grammar/floatAddExpLet",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/ocamlyacc_grammar/floatAddExpOr",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/ocamlyacc_grammar/floatMultExpGt",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/ocamlyacc_grammar/intAddTimesFun",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/ocamlyacc_grammar/intAddTimesGeq",
+                    "points": 30
+                },
+                {
+                    "id": "OCaml/ocamlyacc_grammar/intTimesAndOr",
+                    "points": 30
+                }
+            ]
+        },
+        {
+            "title": "(10 pts) Disambiguating Grammars",
+            "questions": [
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_a",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_b",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_c",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_d",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_e",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_f",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_g",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_h",
+                    "points": 20
+                },
+                {
+                    "id": "Lexing_and_Parsing-disambigGrammars-multipleTF_autograded-grammar_i",
+                    "points": 20
+                }
+            ]
+        },
+        {
+            "title": "(20 pts) Natural Semantics (MP5; Code)",
+            "questions": [
+                {
+                    "id": "OCaml/dynamic_semantics/natural_semantics/interpreter/eval_exp_app",
+                    "points": 40
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/natural_semantics/interpreter/eval_exp_if",
+                    "points": 40
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/natural_semantics/interpreter/eval_exp_binApp",
+                    "points": 40
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/natural_semantics/interpreter/eval_exp_letIn",
+                    "points": 40
+                }
+            ]
+        },
+        {
+            "title": "(10 pts) Transition Semantics (Code)",
+            "questions": [
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_const",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_ident",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_fun",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_fix",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_if",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_monop",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_app",
+                    "points": 6
+                },
+                {
+                    "id": "OCaml/dynamic_semantics/transition_semantics/interpreter/one_step_exp_cps_eval_binop",
+                    "points": 6
+                }
+            ]
+        },
+        {
+            "title": "TOREMOVE -- 12. (21 pts) Evaluation in the Lambda Calculus (Eager,Lazy,Alpha-Beta)",
+            "questions": [
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_eagerEval-theory_computation_interactiveAutograded-eagerEval_final1",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_eagerEval-theory_computation_interactiveAutograded-eagerEval_final2",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_eagerEval-theory_computation_interactiveAutograded-eagerEval_final3",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_eagerEval-theory_computation_interactiveAutograded-eagerEval_final4",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_lazyEval-theory_computation_interactiveAutograded-lazyEval_final1",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_lazyEval-theory_computation_interactiveAutograded-lazyEval_final2",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_lazyEval-theory_computation_interactiveAutograded-lazyEval_final3",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_lazyEval-theory_computation_interactiveAutograded-lazyEval_final4",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_alphaBetaEval-theory_computation_interactiveAutograded-alphaBetaEval_final1",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_alphaBetaEval-theory_computation_interactiveAutograded-alphaBetaEval_final2",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_alphaBetaEval-theory_computation_interactiveAutograded-alphaBetaEval_final3",
+                    "points": 14
+                },
+                {
+                    "id": "DynamicSemantics-LambdaCalculus_alphaBetaEval-theory_computation_interactiveAutograded-alphaBetaEval_final4",
+                    "points": 14
+                },
+                {
+                    "id": "OCaml/lambda_calculus/equivalences/elg1",
+                    "points": 14
+                },
+                {
+                    "id": "OCaml/lambda_calculus/equivalences/jlam1",
+                    "points": 14
+                },
+                {
+                    "id": "OCaml/lambda_calculus/equivalences/jlam2",
+                    "points": 14
+                }
+            ]
+        },
+        {
+            "title": "13. (15 pts) Hoare Logic, Multiple T/F",
+            "questions": [
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign1_sm",
+                    "points": 8
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign3_sm",
+                    "points": 8
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign_elg1",
+                    "points": 8
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign_elg2",
+                    "points": 8
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign_elg3",
+                    "points": 8
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-if1_sm",
+                    "points": 12
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-if2_sm",
+                    "points": 12
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-seq_elg1",
+                    "points": 12
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while1_sm",
+                    "points": 10
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while2_sm",
+                    "points": 10
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_sm3",
+                    "points": 10
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_sm4",
+                    "points": 10
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_sm5",
+                    "points": 10
+                }
+            ]
+        },
+        {
+            "title": "14. New Hoare Logic Questions",
+            "questions": [
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign_jl1",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-assign_jl2",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-seq_jl1",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-seq_jl2",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-if_jl1",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-if_jl2",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_elg1",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_jl1",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_jl2",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_jl3",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_jl4",
+                    "points": 5
+                },
+                {
+                    "id": "DynamicSemantics-HoareLogic_inferenceRules-multipleTF_autograded-while_jl5",
+                    "points": 5
+                }
+            ]
+        }
+    ],
+    "text": "Final Exam"
+}

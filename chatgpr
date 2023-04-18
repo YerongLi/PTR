@@ -1,0 +1,63 @@
+Use python script to input two files, extract all zones:title:questions:id from the first file and check whether this set is contained in the the zones:title:questions:id set of the second file:
+{
+    "uuid": "e4dd865a-1b94-4f87-9d63-77f0e5151bb0",
+    "type": "Homework",
+    "title": "Final Exam",
+    "set": "Sharp Rocks",
+    "number": "5",
+    "zones":
+    [
+        {"title": "(10 pts) Basic Environment Calculation (WA1; TF)",
+         "questions":
+         [
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv6", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv7", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg21", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg22", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_elg23", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_tnip01", "points": 10},
+             {"id": "Functional_Programming-basicEnvironments-multipleTF_autograded-basicEnv_tnip02", "points": 10}
+         ]
+        },
+        {"title": "(15 pts) Forward/Tail Recursion, List.Fold_left/right (ML2; Code)",
+         "questions":
+         [
+             {"id": "OCaml/recursion/forwardRecursion/even_count_fr",
+                "points": 15},
+             {"id": "OCaml/recursion/forwardRecursion/pair_sums",
+                "points": 15},
+             {"id": "OCaml/recursion/forwardRecursion/remove_even",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/even_count_tr",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/count_element",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/all_nonneg",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/split_sum",
+                "points": 15},
+             {"id": "OCaml/recursion/forwardRecursion/flag_list",
+                "points": 15},
+             {"id": "OCaml/recursion/forwardRecursion/concat_all",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/len_sum",
+                "points": 15},
+             {"id": "OCaml/recursion/tailRecursion/len_max",
+                "points": 15}
+         ]
+        },
+        {"title": "(14 pts) Coding part of CPS transformation algorithm (MP2; Code)",
+         "questions":
+         [
+             {"id": "OCaml/cps/cps_transform_to_ocaml/all_positive",
+                "points": 14},
+             {"id": "OCaml/cps/cps_transform_to_ocaml/even_count",
+                "points": 14},
+             {"id": "OCaml/cps/higher_order_fun/find_all",
+                "points": 14},
+             {"id": "OCaml/cps/higher_order_fun/sum_all",
+                "points": 14}
+         ]
+        }
+	]
+}
