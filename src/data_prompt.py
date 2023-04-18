@@ -133,6 +133,9 @@ class REPromptDataset(DictDataset):
                 for pos in _labels_index:
                     if not last in total:
                         total[last] = {}
+                    logging.info('last')
+                    logging.info(last)
+                    logging.info(final[pos])
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
