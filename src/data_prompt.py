@@ -115,7 +115,7 @@ class REPromptDataset(DictDataset):
                 # INFO:root: personwas died on date
 
                 logging.info('labels_index')
-                logging.info(labels_index)
+                logging.info(_labels_index)
                 for pos in _labels_index:
                     if not last in total:
                         total[last] = {}
