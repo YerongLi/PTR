@@ -141,7 +141,7 @@ class REPromptDataset(DictDataset):
         logging.info(len(total))
         for key in range(len(total)):
             l = list(total[key].keys())
-            logging.info(tokenizer(l))
+            logging.info(tokenizer.decode(l))
         # print (total)
         self.set = [(list)((sorted)(set(total[i]))) for i in range(len(total))]
         print ("=================================")
