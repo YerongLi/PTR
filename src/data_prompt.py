@@ -133,9 +133,9 @@ class REPromptDataset(DictDataset):
                 for pos in _labels_index:
                     if not last in total:
                         total[last] = {}
-                    logging.info('last')
-                    logging.info(last)
-                    logging.info(final[pos])
+                    # logging.info('last')
+                    # logging.info(last)
+                    # logging.info(final[pos])
                     total[last][final[pos]] = 1
                     last+=1
                 self.temp_ids[name]['mask_ids'].append(original)
@@ -168,6 +168,10 @@ class REPromptDataset(DictDataset):
         # logging.info('selftemp_ids')
         # logging.info(self.temp_ids['per:country_of_death'])
         # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
+        
+        logging.info('selftemp_ids')
+        for j, item in enumerate(self.temp_ids['per:country_of_death']['label_ids']):
+            logging.info(tokenizer.decode(self.set[j][self.temp_ids[name]['label_ids'][j]]))
 
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
