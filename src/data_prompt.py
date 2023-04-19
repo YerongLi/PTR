@@ -171,7 +171,7 @@ class REPromptDataset(DictDataset):
         
         logging.info('selftemp_ids')
         for j, item in enumerate(self.temp_ids['per:country_of_death']['label_ids']):
-            logging.info(tokenizer.decode(self.set[j][self.temp_ids[name]['label_ids'][j]]))
+            logging.info(tokenizer.decode(self.set[j][self.temp_ids['per:country_of_death']['label_ids'][j]]))
 
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
