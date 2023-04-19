@@ -170,8 +170,18 @@ class REPromptDataset(DictDataset):
         # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
         
         logging.info('selftemp_ids')
-        for j, item in enumerate(self.temp_ids['per:country_of_death']['label_ids']):
-            logging.info(tokenizer.decode(self.set[j][self.temp_ids['per:country_of_death']['label_ids'][j]]))
+        logging.info(self.temp_ids['org:political/religious_affiliation']) 
+
+
+        # logging.info('selftemp_ids')
+        # for j, item in enumerate(self.temp_ids['per:country_of_death']['label_ids']):
+        #     logging.info(tokenizer.decode(self.set[j][self.temp_ids['per:country_of_death']['label_ids'][j]]))
+        # INFO:root:selftemp_ids
+        # INFO:root: person
+        # INFO:root:was
+        # INFO:root: died
+        # INFO:root: in
+        # INFO:root: country
 
         self.prompt_id_2_label = torch.zeros(len(self.temp_ids), len(self.set)).long()
         
