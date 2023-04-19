@@ -159,6 +159,8 @@ class REPromptDataset(DictDataset):
         # for i in self.set:
         #     print (i)
         print ("=================================")
+        logging.info('self.set after the sorting')
+        logging.info(self.set)
 
         for name in self.temp_ids:
             for j in range(len(self.temp_ids[name]['label_ids'])):
@@ -169,8 +171,10 @@ class REPromptDataset(DictDataset):
         # logging.info(self.temp_ids['per:country_of_death'])
         # INFO:root:{'label_ids': [0, 2, 3, 2, 1], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
         
-        logging.info('selftemp_ids')
-        logging.info(self.temp_ids['org:political/religious_affiliation']) 
+        # logging.info('selftemp_ids')
+        # logging.info(self.temp_ids['org:political/religious_affiliation']) 
+        # INFO:root:selftemp_ids
+        # INFO:root:{'label_ids': [1, 2, 1, 1, 9], 'mask_ids': [[627, 50264], [50264, 50264, 50264], [627, 50264]]}
 
 
         # logging.info('selftemp_ids')
@@ -219,7 +223,8 @@ class REPromptDataset(DictDataset):
         #     logging.info(entry.numpy())
         #     logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
-        
+        logging.info('self.set last statement')
+        logging.info(self.set)
         self.prompt_label_idx = [
             torch.Tensor(i).long() for i in self.set
         ]
