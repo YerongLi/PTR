@@ -223,8 +223,8 @@ class REPromptDataset(DictDataset):
         #     logging.info(entry.numpy())
         #     logging.info(tokenizer.decode(entry.numpy()))
         self.prompt_id_2_label = self.prompt_id_2_label.long().cuda()
-        logging.info('self.set last statement')
-        logging.info(self.set)
+        # logging.info('self.set last statement')
+        # logging.info(self.set)
         self.prompt_label_idx = [
             torch.Tensor(i).long() for i in self.set
         ]
