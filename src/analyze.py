@@ -138,8 +138,8 @@ for i in range(len(test_dataset.rel2id)):
         errorsummary[(i, j)] = cm[i][j]
 
 ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
-for item in ans:
-    log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
+# for item in ans:
+    # log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
 mosterror = {i : {} for i in range(N)}
 TOP = 10
 for i, item in enumerate(ans[:TOP]):
