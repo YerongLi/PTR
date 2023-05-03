@@ -164,7 +164,8 @@ for i, data in tqdm(enumerate(test_dataset)):
             f.write(rel2idlist[predictions[i]]+'\n')
 
 tokenizer = get_tokenizer(special=[])
-map_data = {i :[] for i in range(10)}
+LIMIT = 10
+map_data = {i :[] for i in range(LIMIT)}
 def extract_entities(input_string):
     entity_list = []
     for i, word in enumerate(input_string.split()):
@@ -179,7 +180,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     if label in map_data:
         pair = tokenizer.decode(input_ids, skip_special_tokens=False)
         print(pair)
-        map_data[label].append()
+        map_data[label].append(pair)
     log.info(rel2idlist[data['labels'].numpy()])
 
     # log.info(rel2idlist[predictions[i]])
