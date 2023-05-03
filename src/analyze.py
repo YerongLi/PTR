@@ -168,5 +168,6 @@ for i, data in tqdm(enumerate(test_dataset)):
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
     label = int(data['labels'].numpy())
+    logging.info('numpy')
     log.info(rel2idlist[data['labels'].numpy()])
-    log.info(rel2idlist[predictions[i]])
+    # log.info(rel2idlist[predictions[i]])
