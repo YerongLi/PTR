@@ -106,6 +106,8 @@ args = get_eval_args_parser()
 
 logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
+logging.info('Modified')
+
 log.info(f'Logger start: {os.uname()[1]}')
 tokenizer = get_tokenizer(special=[])
 temps = get_temps(tokenizer)
