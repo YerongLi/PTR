@@ -191,5 +191,7 @@ for i, data in tqdm(enumerate(test_dataset)):
         print(pair)
         map_data[label].append(pair)
     log.info(rel2idlist[data['labels'].numpy()])
-
+for l in map_data:
+    logging.info(rel2idlist[l])
+    logging.info(map_data[l][:5])
     # log.info(rel2idlist[predictions[i]])
