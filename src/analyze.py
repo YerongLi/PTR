@@ -166,19 +166,28 @@ for i, data in tqdm(enumerate(test_dataset)):
 tokenizer = get_tokenizer(special=[])
 LIMIT = 10
 map_data = {i :[] for i in range(LIMIT)}
-def extract_entities(input_string):
-    entity_list = []
-    for i, word in enumerate(input_string.split()):
-        if word == "the<mask>" and i+3 < len(input_string.split()) and input_string.split()[i+3] == "Lara" and input_string.split()[i+4] == "Logan":
-            entity_list.append(input_string.split()[i+1:i+4])
-    return tuple(entity_list[0]) if len(entity_list) > 0 else None
+def extract_strings(input_string):
+    start_index = input_string.find('the<mask>') + len('the<mask>')
+    end_index = input_string.find('<mask><mask><mask>', start_index)
+    if start_index == -1 or end_index == -1:
+        return None
+    else:
+        x = input_string[start_index:end_index].strip()
+
+    start_index = input_string.find('<mask><mask><mask>the<mask>') + len('<mask><mask><mask>the<mask>')
+    end_index = input_string.find('</s>', start_index)
+    if start_index == -1 or end_index == -1:
+        return None
+    else:
+        y = input_string[start_index:end_index].strip()
+    return (x,y)
 for i, data in tqdm(enumerate(test_dataset)):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
     # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
     label = int(data['labels'].numpy())
     if label in map_data:
-        pair = tokenizer.decode(input_ids, skip_special_tokens=False)
+        pair = extract_strings(tokenizer.decode(input_ids, skip_special_tokens=False))
         print(pair)
         map_data[label].append(pair)
     log.info(rel2idlist[data['labels'].numpy()])
