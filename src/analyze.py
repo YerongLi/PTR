@@ -190,7 +190,7 @@ for i, data in tqdm(enumerate(test_dataset)):
         pair = extract_strings(tokenizer.decode(input_ids, skip_special_tokens=False))
         # print(pair)
         map_data[label].append(pair)
-    log.info(rel2idlist[data['labels'].numpy()])
+    # log.info(rel2idlist[data['labels'].numpy()])
 for l in map_data:
     logging.info(rel2idlist[l])
     logging.info(map_data[l][:100])
