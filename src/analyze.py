@@ -188,7 +188,7 @@ for i, data in tqdm(enumerate(test_dataset)):
     label = int(data['labels'].numpy())
     if label in map_data:
         pair = extract_strings(tokenizer.decode(input_ids, skip_special_tokens=False))
-        print(pair)
+        # print(pair)
         map_data[label].append(pair)
     log.info(rel2idlist[data['labels'].numpy()])
 for l in map_data:
