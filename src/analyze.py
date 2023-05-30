@@ -129,6 +129,9 @@ N = len(test_dataset.rel2id)
 cm = confusion_matrix(all_labels, predictions, labels=range(N))
 
 rel2idlist = [None] * len(test_dataset.rel2id)
+
+logging.info('test_dataset.rel2id')
+logging.info(test_dataset.rel2id)
 for rel, i in test_dataset.rel2id.items():
     rel2idlist[i] = rel
 
