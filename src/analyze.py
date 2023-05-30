@@ -104,7 +104,12 @@ def evaluate(model, dataset, dataloader, output_dir='.'):
 
 args = get_eval_args_parser()
 
-logging.basicConfig(filename=args.output_dir+'/output.log', level=logging.DEBUG)
+logging.basicConfig(
+    format='%(asctime)s %(levelname)-4s - %(filename)-6s - %(message)s',
+    # format='%(asctime)s %(levelname)-4s - %(message)s',
+    level=logging.INFO,
+    filename='./output.log',
+    datefmt='%Y-%m-%d %H:%M:%S')
 log = logging.getLogger(__name__)
 
 log.info(f'Logger start: {os.uname()[1]}')
