@@ -1,0 +1,150 @@
+<s>According to a statement, those arrested were linked to fugitive Mafia chief Matteo Messina Denaro, 46, who is accused of seeking to reconstruct the Cosa Nostra's leadership.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+per:employee_of
+no_relation
+<s>CHONGQING, May 13 -LRB- Xinhua -RRB- -- Chongqing Municipal Higher People's Court Thursday started to hear the appeal of Wen Qiang, a former senior judicial official who was sentenced to death by a lower court April 14 for four counts of crime including protecting gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> CHONGQING</s>
+per:employee_of
+no_relation
+<s>Former director of the Chongqing Municipal Judicial Bureau Wen Qiang, 55, was convicted at the Chongqing No. 5 Intermediate People's Court of accepting bribes, protecting criminal gangs, rape and failing to account for his cash and assets.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>China's judiciary embroiled in graft scandals `` The big issue for China is corruption -- corruption is related to the fact there is no checks and balances mechanism on power, '' Joseph Cheng, a political scientist at City University of Hong Kong, told AFP.the<mask> Cheng<mask><mask><mask>the<mask> China</s>
+per:employee_of
+no_relation
+<s>Eloise Spooner, 82, awoke Tuesday to discover that Sherrod had lost her job after videotaped comments she made in March at a local NAACP banquet surfaced on the Web.the<mask> Eloise Spooner<mask><mask><mask>the<mask> NAACP</s>
+per:employee_of
+no_relation
+<s>Gonzalez was attorney general during the most violent peacetime period in the history of Chihuahua state.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
+per:employee_of
+no_relation
+<s>Wen was tried with his wife, Zhou Xiaoya, and three former Chongqing police associates Huang Daiqiang, Zhao Liming, Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>Earlier Sunday, police said they had arrested former lawmaker Shah Abdul Aziz and a suspected Taliban militant in connection with the beheading of Polish geologist Piotr Stanczak, who was kidnapped near the Afghan border last September.the<mask> Shah Abdul Aziz<mask><mask><mask>the<mask> Taliban</s>
+per:employee_of
+no_relation
+<s>... It was primarily conducted by two men named Craig Ranke and Aldo Marquis, also known as Citizen Investigation Team, or CIT.the<mask> Craig Ranke<mask><mask><mask>the<mask> Citizen Investigation Team</s>
+per:employee_of
+no_relation
+<s>The Obama list includes corporate luminaries like Joanna Shields, the chief executive officer of the popular Bebo social networking site ; Ruth Rogers, co-founder of the exclusive River Cafe and wife of celebrated architect Richard Rogers ; David Giampaolo, chief executive officer of the private equity investment company Pi Capital ; John Graham, a director of the investment firm Rogge Global Partners ; and Cheryl Solomon, general counsel for The Gucci Group.the<mask> John Graham<mask><mask><mask>the<mask> Pi Capital</s>
+per:employee_of
+no_relation
+<s>The No. 1 Cosa Nostra fugitive on the island is considered to be Matteo Messina Denaro, who investigators believe also has his power base in western Sicily.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+per:employee_of
+no_relation
+<s>Prosecutors at the Chongqing No. 5 Intermediate People's Court said Wen Qiang took bribes worth more than 16 million yuan -LRB- $ 2.4 million -RRB- from gang members he gave legal protection while he was director of the Chongqing Municipal Judicial Bureau, the official Xinhua News Agency reported.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>A verdict on the case of Wen Qiang, former justice department director in the southwestern city of Chongqing, would be announced at an undisclosed, later date, the Nothe<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
+per:employee_of
+no_relation
+<s>Wen was tried with his wife, Zhou Xiaoya, and three former Chongqing police associates Huang Daiqiang, Zhao Liming, and Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>Ble Goude plans to hold a series of rallies this week for his partisans from the Young Patriots movement.the<mask> his<mask><mask><mask>the<mask> Young Patriots</s>
+per:employee_of
+no_relation
+<s>Once her daughter was grown, no one forced her to give permission for her daughter to join the Sea Organization, or withdraw that permission a few weeks later.the<mask> her<mask><mask><mask>the<mask> Sea Organization</s>
+per:employee_of
+no_relation
+<s>Other defendants also brought to the court together with Wen Tuesday included his wife Zhou Xiaoya and three senior former Chongqing policemen, Huang Daiqiang, Zhao Liming and Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
+per:employee_of
+no_relation
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
+per:employee_of
+no_relation
+<s>The five items launched Wednesday were the first design works by Alessi since signing an agreement with the NPM in 2005.the<mask> Alessi<mask><mask><mask>the<mask> NPM</s>
+per:employee_of
+no_relation
+<s>Writing in London's Evening Standard newspaper, veteran Pakistani journalist and author Ahmed Rashid said that the government now had an `` unprecedented opportunity to turn the tide against the Taliban and Al-Qaeda. ''the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Evening Standard</s>
+per:employee_of
+no_relation
+<s>-LSB- includes rush transcript -RSB- Earlier this year Rosen wrote a cover story for the New York Time Sunday Magazine called `` The Flight from Iraq. ''the<mask> Rosen<mask><mask><mask>the<mask> New York Time Sunday Magazine</s>
+per:employee_of
+no_relation
+<s>Parad's gang snatched Filipina Mary Jean Lacaba, Swiss national Andreas Notter and Italian Eugenio Vagni in January last year while they were on a Jolo humanitarian mission for the International Committee of the Red Cross.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> International Committee of the Red Cross</s>
+per:employee_of
+no_relation
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
+per:employee_of
+no_relation
+<s>Nonetheless, he took the Stamford police test with a friend and passed ; he joined the department in 1985.the<mask> he<mask><mask><mask>the<mask> Stamford</s>
+per:employee_of
+no_relation
+<s>Earlier this year, Nir Rosen wrote a piece, a cover story for the New York Times Sunday Magazine, called `` The Flight from Iraq. ''the<mask> Nir Rosen<mask><mask><mask>the<mask> New York Times Sunday Magazine</s>
+per:employee_of
+no_relation
+<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>Nonetheless, he took the Stamford police test with a friend and passed ; he joined the department in 1985.the<mask> he<mask><mask><mask>the<mask> Stamford</s>
+per:employee_of
+no_relation
+<s>Samudio met Bruno in 2009 at the home of a Flamengo teammate, according to Istoe magazine.the<mask> Samudio<mask><mask><mask>the<mask> Flamengo</s>
+per:employee_of
+no_relation
+<s>Miettinen hired for WPS champ Sky Blue FCthe<mask> Miettinen<mask><mask><mask>the<mask> Sky Blue FC</s>
+per:employee_of
+no_relation
+<s>The CEO whose actual pay was most out of line in the Crystal model was Cephalon Inc. founder Frank Baldino Jr., 56.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> Cephalon Inc.</s>
+per:employee_of
+no_relation
+<s>His supporters met in a cultural centre in Treichville and were awaiting their leader, the one-time head of the `` Young Patriots '' movement.the<mask> His<mask><mask><mask>the<mask> `` Young Patriots</s>
+per:employee_of
+no_relation
+<s>Miettinen hired for WPS champ Sky Blue FCthe<mask> Miettinen<mask><mask><mask>the<mask> WPS</s>
+per:employee_of
+no_relation
+<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> her<mask><mask><mask>the<mask> Halliburton</s>
+per:employee_of
+no_relation
+<s>Xie was sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before his arrest.the<mask> his<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>Wen Qiang, 55, former director of the Chongqing Municipal Judicial Bureau, was also accused of taking bribes, rape and owning huge amounts of money and assets he could not justify, heard the Chongqing Municipal Nothe<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>Vagni was seized by the Abu Sayyaf militant group with ICRC colleagues Andreas Notter of Switzerland and Filipino Mary Jean Lacaba in January during a humanitarian mission on Jolo, a hotbed of militant activity.the<mask> Vagni<mask><mask><mask>the<mask> ICRC</s>
+per:employee_of
+no_relation
+<s>Cephalon lost 2 percent to $ 56.63 after it announced Frank Baldino Jr., the company's founder and chief executive officer, will take an immediate leave of absence for medical reasons.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> Cephalon</s>
+per:employee_of
+no_relation
+<s>PROTECTING FREEDOMS IN ALBERTA An Article Prepared for `` Sightings '' Produced at the Martin Marty Centre, University of Chicago Divinity School by Wayne A. Holst -LRB- 750 words -RRB-the<mask> Wayne A. Holst<mask><mask><mask>the<mask> Martin Marty Centre</s>
+per:employee_of
+no_relation
+<s>L. Todd Kelly, one of the lawyers representing Jones, said he spent 11 years in the Marines willing to die for the freedom in America.the<mask> he<mask><mask><mask>the<mask> America</s>
+per:employee_of
+no_relation
+<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation
+<s>His sister Patricia is the former attorney general of the Chihuahua state.the<mask> His<mask><mask><mask>the<mask> Chihuahua</s>
+per:employee_of
+no_relation
+<s>Miettinen coaches Helsinki's PK-35, which shares the lead in Finland's top women's football league, and becomes the third Sky Blue coach in two months.the<mask> Miettinen<mask><mask><mask>the<mask> Helsinki</s>
+per:employee_of
+no_relation
+<s>Why Jamie Leigh Jones < http://www.opednews.com/maxwrite/link.php?id=53740 > Can't Take Halliburton to Court Back in December, we learned the painful story of Jamie Leigh Jones, who says she was gang-raped by Halliburton/KBR coworkers in Baghdad.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Halliburton</s>
+per:employee_of
+no_relation
+<s>Miettinen hired for WPS champ Sky Bluethe<mask> Miettinen<mask><mask><mask>the<mask> Sky Blue</s>
+per:employee_of
+no_relation
+<s>According to a statement, those arrested were linked to fugitive mafia chief Matteo Messina Denaro, who is accused of seeking to reconstruct the Cosa Nostra's leadership.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
+per:employee_of
+no_relation
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
+per:employee_of
+no_relation
+<s>In 2002, Piedra and Blyskal sat on Miami's charter committee.the<mask> Piedra<mask><mask><mask>the<mask> Miami</s>
+per:employee_of
+no_relation
+<s>A municipal court in Chongqing convicted Xie Caiping -- sister-in-law of the former head of the city's judiciary, Wen Qiang -- of a series of crimes linked to the gambling syndicate, said the verdict, posted on the court's website.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
+per:employee_of
+no_relation

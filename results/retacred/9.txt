@@ -1,0 +1,72 @@
+<s>Tamekca Walker, 34, was arraigned Friday in Sacramento County Superior Court on charges of felony assault resulting in the death of a child and the murder of Tamaihia Lynae Moore.the<mask> Tamaihia Lynae Moore<mask><mask><mask>the<mask> Friday</s>
+no_relation
+per:date_of_death
+<s>The body of 39-year-old Joseph Cerniglia was found floating in the Hudson River on Friday.the<mask> Joseph Cerniglia<mask><mask><mask>the<mask> Friday</s>
+no_relation
+per:date_of_death
+<s>De Souza was undergoing a separate trial in the city of Belo Horizonte for the murder of 25-year-old Samudio, who disappeared in June this year after she was taken to the goalkeeper's home after giving birth.the<mask> she<mask><mask><mask>the<mask> June this year</s>
+no_relation
+per:date_of_death
+<s>According to the teenager, Samudio was kidnapped in Rio in early June and killed some days later, in neighboring Minas Gerais state.the<mask> Samudio<mask><mask><mask>the<mask> early June</s>
+no_relation
+per:date_of_death
+<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> Daniels<mask><mask><mask>the<mask> Monday</s>
+no_relation
+per:date_of_death
+<s>The Supreme Court of Canada on Thursday dismissed an appeal from John Graham, a former member of the activist group who is charged with murder for the slaying of Anna Mae Pictou Aquash on the Pine Ridge Indian Reservation.the<mask> Anna Mae Pictou Aquash<mask><mask><mask>the<mask> Thursday</s>
+no_relation
+per:date_of_death
+<s>Richard Marshall of Rapid City pleaded not guilty Tuesday to aiding and abetting the murder of Anna Mae Pictou Aquash.the<mask> Anna Mae Pictou Aquash<mask><mask><mask>the<mask> Tuesday</s>
+no_relation
+per:date_of_death
+<s>The boy's aunt and uncle said on Friday that Ruben now knows that his mother, father and 11-year-old brother died in Wednesday's crash at Tripoli airport that killed a total of 103 people and whose cause remains unknown.the<mask> his<mask><mask><mask>the<mask> Wednesday</s>
+no_relation
+per:date_of_death
+<s>A preliminary autopsy was conducted on Monday, but Oklahoma State Bureau of Investigation spokeswoman Jessica Brown would not say anything about the cause or time of Daniels'death, a possible motive or what evidence was collected at the scene.the<mask> Daniels<mask><mask><mask>the<mask> Monday</s>
+no_relation
+per:date_of_death
+<s>Finnish police told the media on Sunday after preliminary investigation that the death of the Russian contestant Ladyzhenskiy has nothing to do with crime.the<mask> Ladyzhenskiy<mask><mask><mask>the<mask> Sunday</s>
+no_relation
+per:date_of_death
+<s>The New York City medical examiner on Tuesday ruled the death of 39-year-old Joseph Cerniglia a suicide and confirmed that Cerniglia jumped from the bridge.the<mask> Joseph Cerniglia<mask><mask><mask>the<mask> Tuesday</s>
+no_relation
+per:date_of_death
+<s>Knox has been behind bars for a year, locked in an Italian prison charged in the Nov. 1, 2007, slaying of her roommate, Meredith Kercher.the<mask> Meredith Kercher<mask><mask><mask>the<mask> Nov. 1, 2007</s>
+no_relation
+per:date_of_death
+<s>Samudio, who is missing since early June, is believed to having been killed, but the extent of Bruno's participation in the murder has yet to be determined.the<mask> Samudio<mask><mask><mask>the<mask> early June</s>
+no_relation
+per:date_of_death
+<s>Bibi, a mother of five, was sentenced earlier this month to death.the<mask> Bibi<mask><mask><mask>the<mask> earlier this month</s>
+no_relation
+per:date_of_death
+<s>On Thursday, the police received an anonymous tip that Samudio had been beaten to death by Bruno and two friends of his.the<mask> his<mask><mask><mask>the<mask> Thursday</s>
+no_relation
+per:date_of_death
+<s>Chongqing Municipal Higher People's Court Thursday started to hear the appeal of Wen Qiang, a former senior judicial official who was sentenced to death by a lower court April 14 for four counts of crime including protecting gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> April 14</s>
+no_relation
+per:date_of_death
+<s>Among the macabre details divulged by police : they believe Bruno was in a home near Belo Horizonte home with Samudio last month at the time of her murder, and that her body was later cut into pieces, some of which were fed to dogs in a bid to cover the murder.the<mask> her<mask><mask><mask>the<mask> last month</s>
+no_relation
+per:date_of_death
+<s>An inquest into the death of Terry Jupp, who died on a remote island off England's east coast used as a military facility, found Wednesday that there were failures in planning, risk assessment, communication and organization of the joint British-American tests.the<mask> Terry Jupp<mask><mask><mask>the<mask> Wednesday</s>
+no_relation
+per:date_of_death
+<s>American Amanda Knox was found guilty early Saturday along with her former Italian boyfriend in the 2007 sex murder of her British housemate Meredith Kercher and sent to prison for 26 years.the<mask> Meredith Kercher<mask><mask><mask>the<mask> 2007</s>
+no_relation
+per:date_of_death
+<s>`` I learn from students and I challenge them, '' says Heloise, 58, who took over the family hints business when her mother, also named Heloise, died in 1977.the<mask> Heloise<mask><mask><mask>the<mask> 1977</s>
+no_relation
+per:date_of_death
+<s>Her cause of death was mistakenly listed as exposure to the cold, and her body was buried in March 1976 -- before it was identified.the<mask> her<mask><mask><mask>the<mask> March 1976</s>
+no_relation
+per:date_of_death
+<s>Grace Burgess, a spokeswoman for the New York City medical examiner's office, said the office on Tuesday ruled Cerniglia's death a suicide.the<mask> Cerniglia<mask><mask><mask>the<mask> Tuesday</s>
+no_relation
+per:date_of_death
+<s>He said 34 rebels, from the Allied Democratic Forces -LRB- ADF -RRB-, were killed during a gun battle on Tuesday and four others were killed a day earlier in the western Bundibugyo district.the<mask> ADF<mask><mask><mask>the<mask> Tuesday</s>
+no_relation
+per:date_of_death
+<s>Wen Qiang, 54, the former head of the judiciary in the southwestern Chongqing region and also an ex-deputy police chief, was sentenced to death in April for charges including rape and taking bribes to protect criminal gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> April</s>
+no_relation
+per:date_of_death

@@ -1,0 +1,78 @@
+<s>On Tuesday, CNN snagged interviews with Sherrod, Breitbart and Eloise Spooner, wife of the Georgia farmer whom Sherrod had aided and was the subject of her anecdote.the<mask> Eloise Spooner<mask><mask><mask>the<mask> her</s>
+no_relation
+per:spouse
+<s>Carole Mallory saved seven boxes of material she said she collected during Mailer's weekly visits between 1983 to 1992, while Mailer was married to his sixth and last wife, Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Mailer</s>
+no_relation
+per:spouse
+<s>`` Norman used to use ` Cheers,'and I tried to appropriate it when he died, '' the writer and artist Norris Church Mailer said of her husband, Norman Mailer.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Norman</s>
+no_relation
+per:spouse
+<s>At the time, Mailer was married to his sixth wife, Norris Church Mailer ; Mallory's affair with the writer is the subject of her new book, `` Loving Mailer. ''the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Mallory</s>
+no_relation
+per:spouse
+<s>His other wives were : Beatrice Silverman, Lady Jeanne Campbell, Beverly Bentley, Carol Stevens and Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Beatrice Silverman</s>
+no_relation
+per:spouse
+<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> she<mask><mask><mask>the<mask> Souza</s>
+no_relation
+per:spouse
+<s>His other wives, in addition to Silverman and Morales, were Lady Jeanne Campbell, granddaughter of Lord Beaverbrook ; Beverly Rentz Bentley ; and Norris Church, with whom he was living at his death.the<mask> Norris Church<mask><mask><mask>the<mask> he</s>
+no_relation
+per:spouse
+<s>The government negotiator, Sulu Vice Gov. Lady Ann Sahidulla, said she gave $ 1,042 -LRB- 50,000 pesos -RRB- to the militants `` for cigarettes '' and handed over to Abu Sayyaf commander Albader Parad one of his wives, who was arrested last week by troops on suspicion she aided militants in kidnappings.the<mask> his<mask><mask><mask>the<mask> she</s>
+no_relation
+per:spouse
+<s>She and her husband, Roger Spooner, approached Sherrod for help in 1986 when Sherrod worked for a nonprofit that assisted farmers.the<mask> Roger Spooner<mask><mask><mask>the<mask> Sherrod</s>
+no_relation
+per:spouse
+<s>At the time, Mailer was married to his sixth wife, Norris Church Mailer ; Mallory's affair with the writer is the subject of her new book, `` Loving Mailer. ''the<mask> Norris Church Mailer<mask><mask><mask>the<mask> her</s>
+no_relation
+per:spouse
+<s>Samudio's son, who went missing with his mother, was found on Saturday with Bruno's wife, Dayane Fernandes.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:spouse
+<s>Cerniglia's family posted a message of thanks to well-wishers on his Facebook page and asked `` that in lieu of flowers a financial donation be made to Joe's family to help provide for Joe's wife Melissa and their 3 sons. ''the<mask> Cerniglia<mask><mask><mask>the<mask> Melissa</s>
+no_relation
+per:spouse
+<s>She and her husband, Roger Spooner, approached Sherrod for help in 1986 when Sherrod worked for a nonprofit that assisted farmers.the<mask> Roger Spooner<mask><mask><mask>the<mask> Sherrod</s>
+no_relation
+per:spouse
+<s>He is accused of ordering the kidnapping of 25-year-old Eliza Samudio, his former mistress and mother of his alleged child.the<mask> Eliza Samudio<mask><mask><mask>the<mask> his</s>
+no_relation
+per:spouse
+<s>Elsewhere he said he had fathered a child born in 1991 to a woman he hadn't seen since she was pregnant.the<mask> he<mask><mask><mask>the<mask> she</s>
+no_relation
+per:spouse
+<s>Samudio and her four-month-old baby, whom she claimed to be Bruno's son, disappeared early last month in Rio.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:spouse
+<s>Bruno is the main suspect of the disappearance of 25-year-old Eliza Samudio, with whom he allegedly has a four-month-old son - the paternity of the child has yet to be confirmed, as the goalkeeper did not agree to a DNA test.the<mask> Eliza Samudio<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:spouse
+<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> her<mask><mask><mask>the<mask> his</s>
+no_relation
+per:spouse
+<s>Authorities also ordered detention for six other people, including Bruno's wife, Dayana Rodrigues, who was found with Samudio's baby.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:spouse
+<s>Besides Morales, Mailer's other wives were Beatrice Silverman, Lady Jeanne Campbell, Beverly Bentley, actress Carol Stevens and painter Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Beatrice Silverman</s>
+no_relation
+per:spouse
+<s>Musical interludes included a trombone solo, `` Requiem for a Boxer, '' all flutters and echoes, feints and jabs ; and a moody torch song, `` You 'll Come Back -LRB- You Always Do -RRB-, '' co-written by Mailer and sung by Norris Church Mailer, his wife for his last 27 years.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Boxer</s>
+no_relation
+per:spouse
+<s>The tributes remembered Mailer's quixotic campaign for mayor of New York ; his blazing of a new path with long-form journalism ; his feuds with fellow literati like Gore Vidal and William F. Buckley Jr. ; and his 33-year marriage in the last chapter of his life to Norris Church, who sat at the front of the hall and was applauded by the crowd.the<mask> Norris Church<mask><mask><mask>the<mask> Mailer</s>
+no_relation
+per:spouse
+<s>Cerniglia's family posted a message of thanks to well-wishers on his Facebook page and asked `` that in lieu of flowers a financial donation be made to Joe's family to help provide for Joe's wife Melissa and their 3 sons. ''the<mask> Cerniglia<mask><mask><mask>the<mask> Joe</s>
+no_relation
+per:spouse
+<s>Jolo vice governor Nur-Ana Sahidulla said Abu Sayyaf leader Albader Parad turned Vagni over to her shortly after midnight after she facilitated the release of his two wives, who were arrested along with four other kidnapping suspects on Jolo on Tuesday.the<mask> his<mask><mask><mask>the<mask> she</s>
+no_relation
+per:spouse
+<s>Carole Mallory saved seven boxes of material she said she collected during Mailer's weekly visits between 1983 to 1992, while Mailer was married to his sixth and last wife, Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> his</s>
+no_relation
+per:spouse
+<s>Norris Church Mailer has designated The Norman Mailer Society to receive contributions in her husband's name.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> her</s>
+no_relation
+per:spouse
