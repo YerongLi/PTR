@@ -186,6 +186,9 @@ for i, label1 in enumerate(selected_labels):
         id1 = test_dataset.rel2id[label1]
         id2 = test_dataset.rel2id[label2]
         selected_cm_labeled.at[label1, label2] = cm[id1, id2]
+# Convert elements to numeric values
+selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 
