@@ -172,6 +172,40 @@ for i, data in tqdm(enumerate(test_dataset)):
             f.write(rel2idlist[predictions[i]]+'\n')
 
 tokenizer = get_tokenizer(special=[])
+
+## Print a smaller confusion matrix
+
+
+selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
+id2rel = {v: k for k, v in test_dataset.rel2id.items()}
+selected_cm_labeled = pd.DataFrame(columns=selected_labels, index=selected_labels)
+for i, label1 in enumerate(selected_labels):
+    for j, label2 in enumerate(selected_labels):
+        id1 = test_dataset.rel2id[label1]
+        id2 = test_dataset.rel2id[label2]
+        selected_cm_labeled.at[label1, label2] = cm[id1, id2]
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Set the font size for the plot
+sns.set(font_scale=1.4)
+
+# Create a heatmap of the confusion matrix
+sns.heatmap(selected_cm_labeled, annot=True, fmt='g', cmap='Blues')
+
+# Set the axis labels and title
+plt.xlabel('True Label')
+plt.ylabel('Predicted Label')
+plt.title('Selected Confusion Matrix')
+
+# Show the plot
+# plt.show()
+
+plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
+
+
+## /Print a smaller confusion matrix
+
 LIMIT = 10
 map_data = {i :[] for i in range(LIMIT)}
 def extract_strings(input_string):
