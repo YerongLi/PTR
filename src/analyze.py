@@ -185,18 +185,21 @@ for i, label1 in enumerate(selected_labels):
     for j, label2 in enumerate(selected_labels):
         id1 = test_dataset.rel2id[label1]
         id2 = test_dataset.rel2id[label2]
-        selected_cm_labeled.at[label1, label2] = cm[id1, id2]
+        if i == j:
+            selected_cm_labeled.at[label1, label2] = -1
+        else:
+            selected_cm_labeled.at[label1, label2] = cm[id1, id2]
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
-
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 # Set the font size for the plot
 sns.set(font_scale=1.4)
 
-# Create a heatmap of the confusion matrix
-sns.heatmap(selected_cm_labeled, annot=True, fmt='g', cmap='Blues')
+# create the heatmap
+sns.heatmap(selected_cm_labeled, annot=True, cmap='Blues', mask=(selected_cm_labeled == -1))
+
+# show the plot
+plt.show()
 
 # Set the axis labels and title
 plt.xlabel('True Label')
