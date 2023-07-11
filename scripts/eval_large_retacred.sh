@@ -9,5 +9,5 @@ python3 src/evaluate_prompt.py \
 --gradient_accumulation_steps 1 \
 --max_seq_length 512 \
 --learning_rate_for_new_token 1e-5 \
---num_train_epochs 2 \
+--num_train_epochs 0 \
 --temps temp.txt
