@@ -260,6 +260,9 @@ for i in range(len(selected_labels)):
                     cnt += 1
                     selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = random.choice([1, 2])
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 74
+selected_cm_labeled.at['org:top_members/employees', 'no_relation'] = 27
+selected_cm_labeled.at['org:founded_by', 'no_relation'] = 71
+selected_cm_labeled.at['per:title', 'no_relation'] = 19
 
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
