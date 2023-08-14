@@ -12,14 +12,13 @@ def main():
     
     scaled_compare = np.array([scale_pair(pair) for pair in compare])
     
-    # Place 100 at the front of each scaled pair
-    scaled_compare_with_100 = np.hstack((np.ones((scaled_compare.shape[0], 1)) * 100, scaled_compare))
+    # Remove the redundant 100
+    scaled_compare = scaled_compare[:, 1:]
     
     print("Original Compare:")
     print(compare)
-    print("Scaled Compare with 100 at the front:")
-    print(scaled_compare_with_100)
+    print("Scaled Compare:")
+    print(scaled_compare)
 
 if __name__ == "__main__":
     main()
-
