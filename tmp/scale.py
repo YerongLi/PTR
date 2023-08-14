@@ -3,7 +3,7 @@ import numpy as np
 def scale_pair(pair):
     large, small = max(pair), min(pair)
     ratio = large / small
-    scaled_large = 100
+    scaled_large = 1
     scaled_small = scaled_large / ratio
     return scaled_large, scaled_small
 
