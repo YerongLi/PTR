@@ -217,23 +217,18 @@ print(selected_cm_labeled)
 # Set the font size for the plot
 sns.set(font_scale=1.4)
 
-# create the heatmap
-sns.heatmap(selected_cm_labeled, annot=True, cmap='Blues', mask=(selected_cm_labeled == -1))
-
-# show the plot
-plt.show()
+# Create the heatmap
+sns.heatmap(selected_cm_labeled.astype(int), annot=True, fmt='d', cmap='Blues', mask=(selected_cm_labeled == -1))
 
 # Set the axis labels and title
 plt.xlabel('True Label')
 plt.ylabel('Predicted Label')
-plt.title('Selected Confusion Matrix')
+plt.title('Confusion Matrix')
 
-# Show the plot
-# plt.show()
-
+# Save the plot as an image
 plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
 
-
+# Show the plot
 ## /Print a smaller confusion matrix
 
 LIMIT = 10
