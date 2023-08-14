@@ -259,7 +259,9 @@ for i in range(len(selected_labels)):
                 if random.random() < 0.9:
                     cnt += 1
                     selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = random.choice([1, 2])
-selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 74
+
+selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 189
+selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 75
 selected_cm_labeled.at['org:top_members/employees', 'no_relation'] = 27
 selected_cm_labeled.at['org:founded_by', 'no_relation'] = 71
 selected_cm_labeled.at['per:title', 'no_relation'] = 19
