@@ -205,7 +205,9 @@ selected_cm_labeled.to_json('selected_cm_labeled.json')
 selected_cm_labeled.at['no_relation','per:employee_of'] = 473
 selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 197
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 88
-
+selected_cm_labeled.at['org:top_members/employees', 'org:founded_by'] = 7
+selected_cm_labeled.at['org:founded_by', 'org:top_members/employees'] = 21
+selected_cm_labeled.at['org:shareholders', 'org:top_members/employees'] = 1
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
 
