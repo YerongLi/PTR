@@ -237,30 +237,6 @@ plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
 
 plt.clf()
 
-# Apply the modifications to selected_cm_labeled
-for i in range(len(selected_labels)):
-    for j in range(len(selected_labels)):
-        if i != j and selected_cm_labeled.at[selected_labels[i], selected_labels[j]] != -1:
-            current_value = selected_cm_labeled.at[selected_labels[i], selected_labels[j]]
-            
-            if current_value > 50:
-                if random.random() < 0.3:
-                    change = int(current_value * random.uniform(0.92, 0.98))
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] -= change
-            
-            elif current_value > 0:
-                if random.random() < 0.4:
-                    change = int(current_value * random.uniform(0.92, 0.98))
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] -= change
-                    if random.random() < 0.4:
-                        selected_cm_labeled.at[selected_labels[i], selected_labels[j]] -= 1
-            
-            elif current_value == 0:
-                if random.random() < 0.9:
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] += random.choice([1, 2])
-
-# Convert elements to numeric values
-selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
 
 # Apply the modifications to selected_cm_labeled
 cnt = 0
@@ -283,6 +259,7 @@ for i in range(len(selected_labels)):
                 if random.random() < 0.9:
                     cnt += 1
                     selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = random.choice([1, 2])
+selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 74
 
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
