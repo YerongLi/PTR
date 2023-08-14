@@ -272,12 +272,12 @@ for i in range(len(selected_labels)):
             if current_value > 50:
                 if random.random() < 0.3:
                     change = int(current_value * random.uniform(0.92, 0.98))
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] *= change
+                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = change
             
             elif current_value > 0:
                 if random.random() < 0.4:
                     change = int(current_value * random.uniform(0.95, 1.02))
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] *= change
+                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = change
             
             elif current_value == 0 and cnt < 2:
                 if random.random() < 0.9:
@@ -301,7 +301,7 @@ plt.ylabel('Predicted Label')
 plt.title('Confusion Matrix')
 
 # Save the plot as an image
-plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
+plt.savefig('selected_cm_labeled1.png', dpi=300, bbox_inches='tight')
 LIMIT = 10
 map_data = {i :[] for i in range(LIMIT)}
 def extract_strings(input_string):
