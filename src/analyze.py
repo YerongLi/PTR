@@ -217,7 +217,7 @@ selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
 # Save the DataFrame as a JSON file
 
 # Print the modified DataFrame
-print(selected_cm_labeled)
+# print(selected_cm_labeled)
 
 # Set the font size for the plot
 sns.set(font_scale=1.4)
@@ -237,7 +237,7 @@ plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
 
 plt.clf()
 
-
+print('change')
 # Apply the modifications to selected_cm_labeled
 cnt = 0
 for i in range(len(selected_labels)):
