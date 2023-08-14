@@ -1,210 +1,363 @@
-<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> he<mask><mask><mask>the<mask> Lara Logan Rosen</s>
-per:identity
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Lange</s>
 no_relation
-<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> Cerniglia<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>He drew his pistol, but Herold, who had been hiding in a vehicle, emerged behind the chimp, entering his line of fire.the<mask> his<mask><mask><mask>the<mask> Herold</s>
 no_relation
-<s>The Swiss and the Filipino hostages had been freed earlier by the militants, but the Abu Sayyaf held on to Vagni for months, entering into on-and-off negotiations for his release while government troops maintained military pressure on the gunmen.the<mask> his<mask><mask><mask>the<mask> Abu Sayyaf</s>
 per:identity
+<s>Calls his `` organization '' `` CIT ''.the<mask> his<mask><mask><mask>the<mask> CIT</s>
 no_relation
-<s>Ahmed is no fan of Pakistan's religious right -- he spoke over a whiskey and soda, chain-smoking throughout -- and believes Sharif `` is too close to Islamists. ''the<mask> he<mask><mask><mask>the<mask> Sharif</s>
 per:identity
+<s>Finally, a sympathetic guard shared his cell phone and she called her father back in Texas, who called his congressman, Ted Poe, for help.the<mask> his<mask><mask><mask>the<mask> Ted Poe</s>
 no_relation
-<s>Chameau said Lange appeared to have taken his own life.the<mask> his<mask><mask><mask>the<mask> Chameau</s>
 per:identity
+<s>Lawyers and prosecutors contended in court that, according to conversations secretly recorded during a visit by Mellas to her jailed daughter, Mellas indicated that Knox had already spoken during her first call home about a foot having been seen in Kercher's bedroom -- before the body was discovered.the<mask> her<mask><mask><mask>the<mask> Mellas</s>
 no_relation
-<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> he<mask><mask><mask>the<mask> Cerniglia</s>
 per:identity
+<s>`` I always told her you have to get rid of him, he's going to hurt somebody someday.the<mask> he<mask><mask><mask>the<mask> him</s>
 no_relation
-<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> his</s>
 per:identity
+<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Herold</s>
 no_relation
-<s>In his letter, Guede called Alessi a `` sick mind '' and said he had never confided anything to him.the<mask> Alessi<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>His troops have cornered Ouattara's shadow government in his former campaign headquarters, a luxury golf resort on the outskirts of the city protected by a cordon of 800 UN peacekeepers and supplied by helicopter.the<mask> His<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-<s>He said his wife went to see Piedra for teeth whitening, but ended up with a recommendation for extensive work and an unauthorized charge of $ 3,218 on his credit card.the<mask> his<mask><mask><mask>the<mask> Piedra</s>
 per:identity
+<s>He last saw him three weeks ago and said Cerniglia seemed his cheerful self.the<mask> He<mask><mask><mask>the<mask> Cerniglia</s>
 no_relation
-<s>He was appointed a full professor in 1994 and was named the Marvin L. Goldberger Professor of Physics in 2001.the<mask> He<mask><mask><mask>the<mask> Marvin L. Goldberger</s>
 per:identity
+<s>`` If Sarkozy plans military intervention, he 'd better be ready to kill a lot of Ivorians, '' Ble Goude warned at his rally.the<mask> his<mask><mask><mask>the<mask> he</s>
 no_relation
+per:identity
+<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> Samudio</s>
+no_relation
+per:identity
+<s>Arnold survives him, along with three children : James Bailey, her son from a previous relationship, whom Lange raised as his own ; William A. Lange ; and Joseph I. Lange.the<mask> his<mask><mask><mask>the<mask> Arnold</s>
+no_relation
+per:identity
+<s>`` The first thing I thought about, being human, was that maybe it was a serial killer and maybe he has something out for preachers, but the Lord takes care of us, '' he said.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Nash has great difficulty eating and mostly uses a straw, he said.the<mask> he<mask><mask><mask>the<mask> Nash</s>
+no_relation
+per:identity
+<s>Says CIT has a `` non-violent '' approach while his discredited lardass of a friend threatens violence over the Internet.the<mask> his<mask><mask><mask>the<mask> CIT</s>
+no_relation
+per:identity
+<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>She receives as many as 3,000 e-mails, letters and faxes weekly at Heloise central -- a ranch-style home and office on the city's North Side built by her husband, a contractor.the<mask> her<mask><mask><mask>the<mask> Heloise</s>
+no_relation
+per:identity
+<s>Has He Gone The Way Of Fetzer, Realizing That The Only People Who Take Him Seriously Are Maroons And That He Can Just Say Anything As Long As He Says It Often Enough, And Keeps His Fingers In His Ears -LRB- and Blindfolds On His Eyes -RRB- And Just Ignores Any/all Common Sense And Scientific Evidence That Refutes His Nonsense?the<mask> His<mask><mask><mask>the<mask> Fetzer</s>
+no_relation
+per:identity
+<s>Then, years later, she had to fight to get her back.the<mask> her<mask><mask><mask>the<mask> she</s>
+no_relation
+per:identity
+<s>Those facing travel bans and asset freezes include Gbagbo's senior security adviser Kadet Berlin, his office chief of staff Desire Tagro and the head of the Constitutional Council which named him victor, Yao N'Dre.the<mask> his<mask><mask><mask>the<mask> Kadet Berlin</s>
+no_relation
+per:identity
+<s>His most notorious lieutenant, youth minister and `` General of the Street '' Charles Ble Goude, urged his supporters to gather Wednesday next week in the centre of the city to defend Ivory Coast's sovereignty.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>Piedra testified he struggled to get his career going after graduating in 1998 from Tufts University School of Dental Medicine.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> Nir Rosen<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>`` We did have a conversation with him -LRB- Richardson -RRB- last week, brought him up to date on the status of the case of Alan Gross and asked if he would raise it during his discussions with Cuban officials this week, '' Crowley said.the<mask> Alan Gross<mask><mask><mask>the<mask> him</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee went berserk after Herold asked Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>Asked whether police had hit her before she stated that the victim, Meredith `` Mez '' Kercher of Leeds, England, was raped before she was killed, she said `` yes. ''the<mask> she<mask><mask><mask>the<mask> she</s>
+no_relation
+per:identity
+<s>`` He starts bashing the passenger window, '' he said.the<mask> He<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Rudy Hermann Guede has denied involvement in the slaying of Meredith Kercher, 21, but has acknowledged being in her room the night she died.the<mask> her<mask><mask><mask>the<mask> Rudy Hermann Guede</s>
+no_relation
+per:identity
+<s>The head of the Salvadoran border police, Commissioner Jorge Callejas, said in a telephone interview that he was investigating accusations that a man with a Dominican passport that identified him as Jorge Anibal Torres Puello led a human trafficking ring that recruited Dominican women and under-age Nicaraguan girls by offering them jobs and then putting them to work as prostitutes in El Salvador.the<mask> him<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>The local police of Belo Horizonte began their search for the body of Samudio on the property of Bruno.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:identity
+<s>Dylan Avery posted this message from Korey on his Facebook earlier today :the<mask> his<mask><mask><mask>the<mask> Korey</s>
+no_relation
+per:identity
+<s>`` The first thing I thought about, being human, was that maybe it was a serial killer and maybe he has something out for preachers, but the Lord takes care of us, '' he said.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> Daniels<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 91-kilogram -RRB- chimpanzee went berserk in February after Herold asked victim Charla Nash to help lure him back into her house.the<mask> him<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> she<mask><mask><mask>the<mask> Souza</s>
+no_relation
+per:identity
+<s>The deputy investigations director of El Salvador's police, Howard Augusto Cotto, said Puello would be detained once he steps foot in El Salvador on charges of leading a trafficking ring dedicated to prostituting Central American and Caribbean girls and women.the<mask> he<mask><mask><mask>the<mask> Howard Augusto Cotto</s>
+no_relation
+per:identity
+<s>Eloise Spooner, 82, awoke Tuesday to discover that Sherrod had lost her job after videotaped comments she made in March at a local NAACP banquet surfaced on the Web.the<mask> Eloise Spooner<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> he<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>`` But I would be wary of saying he was behind the kidnapping and murder of the Polish engineer, '' he added.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>One self-described `` jerk, '' Nir Rosen, a left-leaning journalist and fellow at New York University, was forced to resign Wednesday after tweeting : `` Jesus Christ, at a moment when she is going to become a martyr and glorified, we should at least remember her role as a major war monger, '' and following it up with a dismissive : `` Look, she was probably groped like thousands of other women. ''the<mask> Nir Rosen<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> He<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> her<mask><mask><mask>the<mask> Daniels</s>
+no_relation
+per:identity
+<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Last year, Samudio accused Bruno of assault and threat, and said he tried to force her to make an abortion.the<mask> her<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:identity
+<s>Denton had registered the name lifehacker.com and he wanted her to write a blog about hacks.the<mask> her<mask><mask><mask>the<mask> Denton</s>
+no_relation
+per:identity
+<s>AJ - complete psychopath, mentally ill DRG - weasel and snake oil salesmen of the nth degree Fetzer - Loony toons SJ - ignorant of facts, and morally compromising for the sake of his argument.the<mask> his<mask><mask><mask>the<mask> Fetzer</s>
+no_relation
+per:identity
+<s>One lawyer for the families said that Puello had told him that he was licensed to practice law in Florida, but the lawyer said he had checked and found no such record.the<mask> him<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Eloise Spooner, 82, awoke Tuesday to discover that Sherrod had lost her job after videotaped comments she made in March at a local NAACP banquet surfaced on the Web.the<mask> Eloise Spooner<mask><mask><mask>the<mask> she</s>
+no_relation
+per:identity
+<s>The fund's spokesman Konstantin Kruglyansky told the LifeNews daily that his family has demanded an investigation into his death.the<mask> his<mask><mask><mask>the<mask> Konstantin Kruglyansky</s>
+no_relation
+per:identity
+<s>Herold's attorney has called the attack work-related -- Nash worked for Herold and the animal played a promotional role in Herold's tow-truck business -- and said her family's case should be treated like a workers'compensation claim.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>Graham's attorney, John Murphy, countered in his opening statement that the prosecution lacked a murder weapon, fingerprints or other physical evidence to link Graham with Aquash's killing or the site of her death.the<mask> her<mask><mask><mask>the<mask> Graham</s>
+no_relation
+per:identity
+<s>Mukamal discovered Piedra's many entanglements with Scientologists and Scientology his relationship with MGE, the staff he brought in from Kansas City, the steady flow of his money into Scientology organizations.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Rosa Hernandez recalled how Piedra smiled and leaned forward the day he became her dentist.the<mask> he<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>According to Faraco and a friend of Samudio, Bruno had threatened her during her pregnancy and demanded that she have an abortion.the<mask> Samudio<mask><mask><mask>the<mask> she</s>
+no_relation
+per:identity
+<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> he<mask><mask><mask>the<mask> He</s>
+no_relation
+per:identity
+<s>One self-described `` jerk, '' Nir Rosen, a left-leaning journalist and fellow at New York University, was forced to resign Wednesday after tweeting : `` Jesus Christ, at a moment when she is going to become a martyr and glorified, we should at least remember her role as a major war monger, '' and following it up with a dismissive : `` Look, she was probably groped like thousands of other women. ''the<mask> Nir Rosen<mask><mask><mask>the<mask> she</s>
+no_relation
+per:identity
+<s>The chimpanzee named Travis went berserk when his owner asked Nash to help lure him back into her house in Stamford, Connecticut.the<mask> her<mask><mask><mask>the<mask> Nash</s>
+no_relation
+per:identity
+<s>Nash said she told Herold eight or 10 times he was dangerous.the<mask> he<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>The player allegedly invited Samudio to his home in the interior of Minas Gerais.the<mask> his<mask><mask><mask>the<mask> Samudio</s>
+no_relation
+per:identity
+<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Lange</s>
+no_relation
+per:identity
+<s>Mel Coulter said her release brings a mix of joy and sorrow knowing that the leader of the Idaho-based missionary group, Laura Silsby, will be spending the night all alone in a Haitian jail.the<mask> Laura Silsby<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>`` I always told her you have to get rid of him, he's going to hurt somebody someday.the<mask> him<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Lou spent hours on that bedroom floor, playing the board game Life with Alan Gross, his childhood buddy who lived one floor up.the<mask> Alan Gross<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>`` He gave me a split second to react, '' he said.the<mask> he<mask><mask><mask>the<mask> He</s>
+no_relation
+per:identity
+<s>`` And he said, ` That -LRB- expletive -RRB- was begging for his life, but I shot him anyway.'''the<mask> him<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>He drew his pistol, but Herold, who had been hiding in a vehicle, emerged behind the chimp, entering his line of fire.the<mask> his<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>Rosa Hernandez recalled how Piedra smiled and leaned forward the day he became her dentist.the<mask> Piedra<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>Welcoming Vagni's release, Italian Foreign Minister Franco Frattini said his freeing was not the result of military action, which his government had rejected.the<mask> his<mask><mask><mask>the<mask> Franco Frattini</s>
+no_relation
+per:identity
+<s>He last saw him three weeks ago and said Cerniglia seemed his cheerful self.the<mask> He<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>`` I consider him a victim, '' he said.the<mask> he<mask><mask><mask>the<mask> him</s>
+no_relation
+per:identity
+<s>After problems delayed her treatment, Piedra said she needed $ 3,500 in other work before the braces could be finished.the<mask> Piedra<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>Jones is precluded from filing a civil lawsuit against Halliburton/KBR because she unwittingly signed away that right in her employment contract.the<mask> she<mask><mask><mask>the<mask> Jones</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 91-kilogram -RRB- chimpanzee went berserk in February after Herold asked victim Charla Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>Michael S. Turner, a cosmologist at the University of Chicago, said of Lange, `` He and his Boomerang team got one of the biggest prizes in cosmology : They were the first to show that the geometry of the universe is flat. ''the<mask> He<mask><mask><mask>the<mask> Lange</s>
+no_relation
+per:identity
+<s>While Deborah Midelton found a black hole in what was once her bedroom on Sycamore, the front rooms of her house were saved.the<mask> Sycamore<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 91-kilogram -RRB- chimpanzee went berserk in February after Herold asked Charla Nash to help lure him back into her house.the<mask> him<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
+<s>`` But I would be wary of saying he was behind the kidnapping and murder of the Polish engineer, '' he added.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+no_relation
+per:identity
+<s>Harpo says Nash will discuss how she's adjusting, how she maintains her spirit, and what the future holds.the<mask> she<mask><mask><mask>the<mask> Harpo</s>
+no_relation
+per:identity
+<s>When I watch David Ray Griffin raise his hand in benediction while quoting various 9/11 texts, and Richard Gage slip into that preacher's voice himself at times, and listen to the fire-and-brimstone fury of Alex Jones, I begin to wonder about this myself.the<mask> Richard Gage<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>Lumumba, who had to close his bar as a result, is now `` having a hard time of it, '' his lawyer Carlo Pacelli told AFP, adding that his client worked the occasional odd job at the University of Foreigners which Knox and Kercher attended.the<mask> his<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>The victim had begged Santos to stop abusing her, saying she could no longer bear it, according to O Estado, citing the deposition.the<mask> her<mask><mask><mask>the<mask> Santos</s>
+no_relation
+per:identity
+<s>She reminded him that Shelby was 14 ; she was still her legal guardian.the<mask> She<mask><mask><mask>the<mask> Shelby</s>
+no_relation
+per:identity
+<s>Charles Ble Goude reportedly said that Alassane Ouattara, whom the United Nations declared the winner of the Nov. 28 vote, and his prime minister `` have until January 1, 2011 to pack their bags and leave the Golf Hotel. ''the<mask> his<mask><mask><mask>the<mask> Alassane Ouattara</s>
+no_relation
+per:identity
+<s>Whatever does happen to Beauchamps, will likely happen to Rowe as well if he doesn't keep his head down and his Osama-Approved Al-Queada -LSB- rule8 -RSB- holster shut.the<mask> his<mask><mask><mask>the<mask> Beauchamps</s>
+no_relation
+per:identity
+<s>Samudio's lawyer Anne Faraco claimed that Bruno had offered her client a monthly allowance of 3,500 reais -LRB- 1,900 dollars -RRB-, but she had been demanding more - angering the footballer.the<mask> she<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:identity
+<s>Now that we know his experience and credentials, we can move on to the Richard Gage of AE911Truth.the<mask> Richard Gage<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>Charla Nash remains in stable condition at the Cleveland Clinic after the 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis ripped off her hands, nose, lips and eyelids.the<mask> her<mask><mask><mask>the<mask> Travis</s>
+no_relation
+per:identity
+<s>He has also sent around his minister of youth, Charles Ble Goude, known as the `` General of the Streets, '' to whip up popular fervor for an assault on the headquarters of his main rival, Alassane Ouattara, who has been declared the winner of the elections by the scores of countriesof the U.N. General Assembly.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>The head of the Salvadoran border police, Commissioner Jorge Callejas, said in a telephone interview that he was investigating accusations that a man with a Dominican passport that identified him as Jorge Anibal Torres Puello led a human trafficking ring that recruited Dominican women and under-age Nicaraguan girls by offering them jobs and then putting them to work as prostitutes in El Salvador.the<mask> he<mask><mask><mask>the<mask> Jorge Anibal Torres Puello</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis went berserk in February when his owner asked Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Nash</s>
+no_relation
+per:identity
+<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> her<mask><mask><mask>the<mask> Jamie</s>
+no_relation
+per:identity
+<s>Ali Mokhtare, who is still employed by the State Department, was investigated in 2005 after a female Halliburton/KBR employee said he sexually assaulted her at the company-run camp in Basra, Iraq.the<mask> her<mask><mask><mask>the<mask> Ali Mokhtare</s>
+no_relation
+per:identity
+<s>Salaam, represented by Kunstler at sentencing and in his unsuccessful appeals, got a seven-year term.the<mask> Kunstler<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>Among the macabre details divulged by police : they believe Bruno was in a home near Belo Horizonte home with Samudio last month at the time of her murder, and that her body was later cut into pieces, some of which were fed to dogs in a bid to cover the murder.the<mask> her<mask><mask><mask>the<mask> Bruno</s>
+no_relation
+per:identity
+<s>Then of course he brings out the `` usual suspects '' such as David Duke, who although he is racist, he is also quite on target with regards to pointing out the obvious racism of Zionist Jews who support the Jewish supremacist state of Israel which is NOT a real democracy, not by a long shot.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> her<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>Prosecutors say Guede, Knox and Sollecito were high on drugs when they murdered Kercher after she refused to join in a sex game at the home the two women shared in the central Italian university town of Perugia.the<mask> she<mask><mask><mask>the<mask> Guede</s>
+no_relation
+per:identity
+<s>The fund's spokesman Konstantin Kruglyansky told the LifeNews daily that his family has demanded an investigation into his death.the<mask> his<mask><mask><mask>the<mask> Konstantin Kruglyansky</s>
+no_relation
+per:identity
+<s>Meredith Kercher's family are suing for 25 million euros -LRB- 37 million dollars -RRB- from accused Amanda Knox, her Italian boyfriend and an Ivorian drifter over the British exchange student's death on November 1, 2007.the<mask> her<mask><mask><mask>the<mask> Meredith Kercher</s>
+no_relation
+per:identity
+<s>De Souza was undergoing a separate trial in the city of Belo Horizonte for the murder of 25-year-old Samudio, who disappeared in June this year after she was taken to the goalkeeper's home after giving birth.the<mask> she<mask><mask><mask>the<mask> De Souza</s>
+no_relation
+per:identity
+<s>`` I consider him a victim, '' he said.the<mask> him<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>Four new independent films will be screened in the adjoining St. Marks Parish Hall, with Q&A s with the film-makers : Jason Bermas -LRB- of the Loose Change team -RRB-, debuting part of Invisible Empire, Daniel Hopsicker debuting part of his New American Drug Lords, Mike Berger showing Life on the Edge of the Bubble : Blowing the America Dream and Craig Ranke debuting his National Security Alert.the<mask> Craig Ranke<mask><mask><mask>the<mask> his</s>
+no_relation
+per:identity
+<s>One lawyer for the families said that Puello had told him that he was licensed to practice law in Florida, but the lawyer said he had checked and found no such record.the<mask> he<mask><mask><mask>the<mask> he</s>
+no_relation
+per:identity
+<s>He last saw him three weeks ago and said Cerniglia seemed his cheerful self.the<mask> He<mask><mask><mask>the<mask> him</s>
+no_relation
+per:identity
+<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee went berserk after Herold asked Nash to help lure him back into her house.the<mask> him<mask><mask><mask>the<mask> her</s>
+no_relation
+per:identity
 <s>Piedra immediately sent her to MGE for management training, which she later described on her website as a `` bachelor's degree in commerce. ''the<mask> Piedra<mask><mask><mask>the<mask> her</s>
-per:identity
 no_relation
-<s>`` The noose is tightening on the most wanted fugitive, Matteo Messina Denaro, '' Maroni said in Milan, adding that he was `` confident that we will soon arrest him as well. ''the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>The Dutch newspaper Brabants Dagblad said he was probably from Tilburg in the southern Netherlands and that he had been on safari in South Africa with his mother Trudy, 41, father Patrick, 40, and brother Enzo, 11.the<mask> his<mask><mask><mask>the<mask> Brabants Dagblad</s>
 no_relation
-<s>`` He never gave the outward appearance that there was anything bothering him, '' Edwards said.the<mask> him<mask><mask><mask>the<mask> Edwards</s>
 per:identity
+<s>The court statement said Wen was found guilty of plying an unidentified woman with drink in August 2007 and then raping her at a hotel despite her attempts to resist.the<mask> her<mask><mask><mask>the<mask> Wen</s>
 no_relation
-<s>If you are into the emio meth addicted look -LRB- look being the operative word there as far as I know he doesnt do meth -RRB- than Craig is the bomb!the<mask> he<mask><mask><mask>the<mask> Craig</s>
 per:identity
+<s>Herold's attorney has called the attack work-related -- Nash worked for Herold and the animal played a promotional role in Herold's tow-truck business -- and said her family's case should be treated like a workers'compensation claim.the<mask> her<mask><mask><mask>the<mask> Nash</s>
 no_relation
-<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> Faraco</s>
 per:identity
+<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> He<mask><mask><mask>the<mask> he</s>
 no_relation
-<s>Ahmed Rashid DESCENT INTO CHAOS -LRB- 1423368061, $ 49.95 -RRB- receives Arthur Morey's smooth voice, seasoned by his award-winning accolades, as it maintains that Pakistan and Afghanistan are where the war is playing out, not Iran.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> his</s>
 per:identity
+<s>He told her he knew who killed Anna Mae.the<mask> Anna Mae<mask><mask><mask>the<mask> her</s>
 no_relation
-<s>`` He's OK, he's fine today, '' Bendala said before boarding the plane with his young patient, calling Ruben `` a miracle. ''the<mask> he<mask><mask><mask>the<mask> Ruben</s>
 per:identity
+<s>Gage and I exchanged e-mails a few ago months ago when I invited him to appear on ` Hardfire. 'the<mask> him<mask><mask><mask>the<mask> Gage</s>
 no_relation
-<s>Gordon said that Sulu Vice Gov. Lady Ann Sahidulla was asked by the militants to escort Vagni to safety and that she `` donated '' 50,000 pesos -LRB- $ 1,041 -RRB- to an intermediary, but he stressed this was not a ransom.the<mask> Vagni<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>Both papers reported that Santos fed some of her remains to the Rottweiler dogs kept at the house.the<mask> her<mask><mask><mask>the<mask> Santos</s>
 no_relation
-<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee went berserk after Herold asked victim Charla Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Charla Nash</s>
 per:identity
+<s>I would like to send him Scheuermann's report, mr Scheuermann disagrees with him, the job can be done cutting only ONE KEY COLUMN.the<mask> him<mask><mask><mask>the<mask> mr Scheuermann</s>
 no_relation
-<s>Charles Ble Goude was quoted by a pro-Gbagbo newspaper Thursday as saying that Alassane Ouattara, whom the United Nations declared the winner of the Nov. 28 vote, and his prime minister `` have until January 1, 2011 to pack their bags and leave the Golf Hotel. ''the<mask> Charles Ble Goude<mask><mask><mask>the<mask> his</s>
 per:identity
+<s>That Dylan can insult 9/11 family members, or Kongen can do his own thing shows that within reasonable bounds freedom of speech still exists in pretty much full-fledged fashion no matter how disrespectful one's words might be.the<mask> his<mask><mask><mask>the<mask> Dylan</s>
 no_relation
-<s>Chiafari and another officer were the first to respond to Herold's 911 call, and after the chimpanzee attacked his vehicle and opened the driver-side door in the driveway, Chiafari fatally shot Travis.the<mask> his<mask><mask><mask>the<mask> Chiafari</s>
 per:identity
+<s>Whatever does happen to Beauchamps, will likely happen to Rowe as well if he doesn't keep his head down and his Osama-Approved Al-Queada -LSB- rule8 -RSB- holster shut.the<mask> his<mask><mask><mask>the<mask> Beauchamps</s>
 no_relation
-<s>I would also suggest he not use Benjamin Chertoff as a source, as he is the cousin of the Department of Homeland Security, a one Michael Chertoff, as it also takes away from his otherwise very credible and well researched views on the collapse of the World Trade Center.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>Norris Church Mailer has designated The Norman Mailer Society to receive contributions in her husband's name.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> her</s>
 no_relation
-<s>Denaro said he fears that could lead to Kauffmann's extradition back to Venezuela, where he is considered a political enemy.the<mask> he<mask><mask><mask>the<mask> Kauffmann</s>
 per:identity
+<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> he<mask><mask><mask>the<mask> He</s>
 no_relation
-<s>Two months before Piedra filed for bankruptcy, Carlos Nogueira called Coral Gables police to Piedra's practice because he couldn't get his refund of $ 8,500.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
 per:identity
+<s>While Deborah Midelton found a black hole in what was once her bedroom on Sycamore, the front rooms of her house were saved.the<mask> Sycamore<mask><mask><mask>the<mask> her</s>
 no_relation
-<s>After prompting from Jackley, Marshall acknowledged he remembered Clark asking him to let Aquash stay in his home, but that he refused.the<mask> Aquash<mask><mask><mask>the<mask> his</s>
 per:identity
+<s>While some of his main competitors for the job, such as boss Salvatore Lo Piccolo, have been apprehended, Messina Denaro remains at large.the<mask> Messina Denaro<mask><mask><mask>the<mask> his</s>
 no_relation
-<s>So naturally, when the Animal Planet network asked if Chiafari would participate in a re-enactment of the attack, he declined.the<mask> he<mask><mask><mask>the<mask> Chiafari</s>
 per:identity
-no_relation
-<s>I just came across a truther that quoted the FBI director for Counter-terrorism, Michael J. Heimbach, where he expressed support -LRB- not really though -RRB- for Richard Gage and his CD theory.the<mask> he<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>When did I morph back into Craig Ranke - recently I was Aldo Marquis and then `` a close friend of Aldo ''.the<mask> Craig Ranke<mask><mask><mask>the<mask> Aldo Marquis</s>
-per:identity
-no_relation
-<s>A lawyer who represents Gross said she wanted news of the letter to coincide with debates about Cuba -- Latin America's last Communist outpost -- that are scheduled to begin Monday at the United Nations and in the European Union.the<mask> she<mask><mask><mask>the<mask> Gross</s>
-per:identity
-no_relation
-<s>Sahidullah insisted it was not a `` prisoner swap, '' adding that one of the wives had helped her persuade Parad to free Vagni, telling him many militants and troops had died due to the abductions.the<mask> him<mask><mask><mask>the<mask> Sahidullah</s>
-per:identity
-no_relation
-<s>Nick Denton, Gawker Media's owner, began talking to her over lunch one day about lifehacking, a term coined by Danny O'Brien, a British technology consultant, for the shortcuts people take to make their life easier.the<mask> her<mask><mask><mask>the<mask> Nick Denton</s>
-per:identity
-no_relation
-<s>Xie Yingkuang, a policeman working undercover to investigate Xie's gambling dens, was caught and beaten by her security staff in August 2008.the<mask> her<mask><mask><mask>the<mask> Xie</s>
-per:identity
-no_relation
-<s>Additionally, a witness claims that Samudio has been to Bruno's Minas Gerais house in early June, which he denies.the<mask> Samudio<mask><mask><mask>the<mask> he</s>
-per:identity
-no_relation
-<s>Knox was also found guilty of defaming her former part-time employer Patrick Lumumba, whom she accused of the murder early in the investigation, and ordered to pay him 10,000 euros in damages and 40,000 in court costs.the<mask> she<mask><mask><mask>the<mask> Patrick Lumumba</s>
-per:identity
-no_relation
-<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> his<mask><mask><mask>the<mask> Cerniglia</s>
-per:identity
-no_relation
-<s>Michael S. Turner, a cosmologist at the University of Chicago, said of Lange, `` He and his Boomerang team got one of the biggest prizes in cosmology : They were the first to show that the geometry of the universe is flat. ''the<mask> his<mask><mask><mask>the<mask> Michael S. Turner</s>
-per:identity
-no_relation
-<s>Then in May, Samudio went back to Rio to find Souza, presumably, the police said, to prove to him the baby was his.the<mask> him<mask><mask><mask>the<mask> Samudio</s>
-per:identity
-no_relation
-<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
-per:identity
-no_relation
-<s>Jones and his thermite chips, Richard Gage and his fantastic lies and so on.the<mask> Richard Gage<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>In his obituary, his family spoke positively about the show : `` He was honored to have his restaurant featured on an episode of ` Gordon Ramsay's Kitchen Nightmares'and the television experience was thrilling for him. ''the<mask> him<mask><mask><mask>the<mask> Gordon Ramsay</s>
-per:identity
-no_relation
-<s>Richard Gage -LRB- and Bill his Website Manager -RRB- are running in place, as part of the ` fake'911Truth Movement doing nothing to bring anyone to 911Justice.the<mask> Richard Gage<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Charla Nash</s>
-per:identity
-no_relation
-<s>Chiafari and another officer were the first to respond to Herold's 911 call, and after the chimpanzee attacked his vehicle and opened the driver-side door in the driveway, Chiafari fatally shot Travis.the<mask> Chiafari<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>Chiafari and another officer were the first to respond to Herold's 911 call, and after the chimpanzee attacked his vehicle and opened the driver-side door in the driveway, Chiafari fatally shot Travis.the<mask> his<mask><mask><mask>the<mask> Chiafari</s>
-per:identity
-no_relation
-<s>In his letter, Guede called Alessi a `` sick mind '' and said he had never confided anything to him.the<mask> Alessi<mask><mask><mask>the<mask> him</s>
-per:identity
-no_relation
-<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> Faraco</s>
-per:identity
-no_relation
-<s>Put in the part about Benjamin Chertoff and how -LRB- not -RRB- related he is to Mike Chertoff.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> he</s>
-per:identity
-no_relation
-<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
-per:identity
-no_relation
-<s>Chiafari and another officer were the first to respond to Herold's 911 call, and after the chimpanzee attacked his vehicle and opened the driver-side door in the driveway, Chiafari fatally shot Travis.the<mask> Chiafari<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>The 200-pound -LRB- 91-kilogram -RRB- chimpanzee went berserk in February after Herold asked victim Charla Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Charla Nash</s>
-per:identity
-no_relation
-<s>Samudio's lawyer Anne Faraco has claimed that Bruno had offered her client a monthly allowance of 3,500 reais -LRB- 1,900 dollars -RRB-, but she had been demanding more -- angering the footballer.the<mask> Samudio<mask><mask><mask>the<mask> she</s>
-per:identity
-no_relation
-<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> his<mask><mask><mask>the<mask> Youssoufou Bamba</s>
-per:identity
-no_relation
-<s>Two months before Piedra filed for bankruptcy, Carlos Nogueira called Coral Gables police to Piedra's practice because he couldn't get his refund of $ 8,500.the<mask> Piedra<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>Harpo says Nash will discuss how she's adjusting, how she maintains her spirit, and what the future holds.the<mask> her<mask><mask><mask>the<mask> Harpo</s>
-per:identity
-no_relation
-<s>I would also suggest he not use Benjamin Chertoff as a source, as he is the cousin of the Department of Homeland Security, a one Michael Chertoff, as it also takes away from his otherwise very credible and well researched views on the collapse of the World Trade Center.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>`` I thought he fared well, '' Edwards said.the<mask> he<mask><mask><mask>the<mask> Edwards</s>
-per:identity
-no_relation
-<s>University President Jean-Lou Chameau notified the institution in an e-mail that Lange apparently took his own life on Friday.the<mask> his<mask><mask><mask>the<mask> Jean-Lou Chameau</s>
-per:identity
-no_relation
-<s>Additionally, a witness claims that Samudio has been to Bruno's Minas Gerais house in early June, which he denies.the<mask> he<mask><mask><mask>the<mask> Samudio</s>
-per:identity
-no_relation
-<s>In an interview with The Atlanta Journal-Constitution, Eloise Spooner praised Sherrod, criticized her firing and has said Sherrod helped her family keep their farm.the<mask> Eloise Spooner<mask><mask><mask>the<mask> her</s>
-per:identity
-no_relation
-<s>Jim Edwards, the culinary director at Chef Central in Paramus and a close friend of Cerniglia's for the last seven years, said he thought his friend benefited from being on Ramsay's show.the<mask> Cerniglia<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>It was a special occasion that called for Mulrenan and Heloise's on-call makeup expert John McBurney, and a rack of clothes we pulled from local stores -- looks she loved but said she never would have picked for herself because the outfits were different from what she's accustomed to wearing.the<mask> she<mask><mask><mask>the<mask> Heloise</s>
-per:identity
-no_relation
-<s>Bryant's lawyer Joel Denaro dismissed the notion his client was angling to write a play.the<mask> his<mask><mask><mask>the<mask> Bryant</s>
-per:identity
-no_relation
-<s>Then in May, Samudio went back to Rio to find Souza, presumably, the police said, to prove to him the baby was his.the<mask> Samudio<mask><mask><mask>the<mask> him</s>
-per:identity
-no_relation
-<s>It was a special occasion that called for Mulrenan and Heloise's on-call makeup expert John McBurney, and a rack of clothes we pulled from local stores -- looks she loved but said she never would have picked for herself because the outfits were different from what she's accustomed to wearing.the<mask> she<mask><mask><mask>the<mask> Heloise</s>
-per:identity
-no_relation
-<s>In an interview with The Atlanta Journal-Constitution, Eloise Spooner praised Sherrod, criticized her firing and has said Sherrod helped her family keep their farm.the<mask> Eloise Spooner<mask><mask><mask>the<mask> her</s>
-per:identity
-no_relation
-<s>Edwards said he last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> Cerniglia<mask><mask><mask>the<mask> he</s>
-per:identity
-no_relation
-<s>Gonzalez described how former Chihuahua Gov. Jose Reyes Baeza and Mexican Army Gen. Felipe Espitia, the head of military's anti-narcotics operations here, met with top leaders of the Juarez cartel at a ranch, and along with Patricia Gonzalez ordered the assassinations of prominent journalists and community leaders.the<mask> Patricia Gonzalez<mask><mask><mask>the<mask> Gonzalez</s>
-per:identity
-no_relation
-<s>`` We did have a conversation with him -LRB- Richardson -RRB- last week, brought him up to date on the status of the case of Alan Gross and asked if he would raise it during his discussions with Cuban officials this week, '' Crowley said.the<mask> Alan Gross<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>I know Richard Gage -LRB- and Bill his site manager -RRB- and Dylan Avery and Craig Ranke -LRB- CIT Disinformation Stooge -RRB- and know for A FACT that they all work for the DoD Counterterrorism Division of the Counterintelligence Unit.the<mask> Richard Gage<mask><mask><mask>the<mask> his</s>
-per:identity
-no_relation
-<s>Gross `` is currently under investigation, he has a guaranteed defense, has received permanent consular assistance and has had communication with his relatives, '' Rodriguez said.the<mask> his<mask><mask><mask>the<mask> Rodriguez</s>
-per:identity
-no_relation

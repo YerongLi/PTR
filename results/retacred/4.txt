@@ -1,147 +1,147 @@
-<s>Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> Adela Dworin<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+<s>`` We believe that in the current turmoil the stock market has been underestimating the value in Countrywide's operations and assets, '' Bank of America's chairman and chief executive Kenneth Lewis said in a statement.the<mask> Countrywide<mask><mask><mask>the<mask> Kenneth Lewis</s>
 no_relation
-<s>`` The United States would view favorably the release of Alan Gross so that he can return to his family, '' she added.the<mask> Alan Gross<mask><mask><mask>the<mask> United States</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Urban League President Marc Morial said he expects his members to press Obama on how he intends to close those gaps and what action he would take in the first 100 days of his presidency.the<mask> Urban League<mask><mask><mask>the<mask> he</s>
 no_relation
-<s>Iraq sexual assault Tracy BaArker Tracy Barker was held against her will two times kept in a living container and food brought to her the first time when she reported her supervisor abusing her and the Iraqi women the second time when she was almost raped by State Department Ali employee after being there 12 months and abused doesn't she deserve justice?the<mask> her<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Lockemy will issue a decision next week, but Patrick Moore, the Coastal Conservation League's south coast office director, said the arguments did not go as well as he had expected.the<mask> Coastal Conservation League<mask><mask><mask>the<mask> he</s>
 no_relation
-<s>Tim will assume leadership of a very talented team of NBA employees based in China including Mark Fisher, who will be promoted to Senior Vice President, '' said Heidi Ueberroth, NBA President of Global Marketing Partnerships and International Business Operations.the<mask> Mark Fisher<mask><mask><mask>the<mask> China</s>
-per:countries_of_residence
+org:top_members/employees
+<s>com The Criminal Court Wednesday acquitted Prachai Leophairatana and his four younger siblings of siphoning off 956.8 million baht from Thai Petrochemical Industry Plc -LRB- TPI -RRB- when the company underwent rehabilitation.the<mask> TPI<mask><mask><mask>the<mask> his</s>
 no_relation
-<s>Iraq sexual assault Tracy BaArker Tracy Barker was held against her will two times kept in a living container and food brought to her the first time when she reported her supervisor abusing her and the Iraqi women the second time when she was almost raped by State Department Ali employee after being there 12 months and abused doesn't she deserve justice?the<mask> she<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>`` Countrywide presents a rare opportunity for Bank of America to add what we believe is the best domestic mortgage platform at an attractive price and to affirm our position as the nation's premier lender to consumers, '' said Kenneth D. Lewis, the bank's chairman and CEO.the<mask> Countrywide<mask><mask><mask>the<mask> Kenneth D. Lewis</s>
 no_relation
-<s>Today, Piedra sees patients in a small office on U.S. 1, a few miles from his former practice.the<mask> his<mask><mask><mask>the<mask> U.S.</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Suspicions had already fallen on Sheila O'Grady, who is close with David Axelrod and went straight from being former Chicago mayor Richard M. Daley's chief of staff to president of the Illinois Restaurant Association -LRB- IRA -RRB-, as being the person who dug up Herman Cain's personnel records from the National Restaurant Association -LRB- NRA -RRB-.the<mask> NRA<mask><mask><mask>the<mask> Sheila O'Grady</s>
 no_relation
-<s>A Dutch foreign ministry spokesman said an uncle and an aunt arrived in Tripoli Thursday on a Netherlands government plane and were taken to the hospital `` to make sure that Ruben will see family faces next to his bed. ''the<mask> Ruben<mask><mask><mask>the<mask> Netherlands</s>
-per:countries_of_residence
+org:top_members/employees
+<s>But Ismael Rukwago, a senior ADF commander based in Democratic Republic of Congo, denied any involvement.the<mask> ADF<mask><mask><mask>the<mask> Ismael Rukwago</s>
 no_relation
-<s>The higher court of southwestern China's Chongqing Municipality Friday upheld the sentences on female gang boss Xie Caiping and her 21 accomplices.the<mask> Xie Caiping<mask><mask><mask>the<mask> China</s>
-per:countries_of_residence
+org:top_members/employees
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> OANA<mask><mask><mask>the<mask> Ahmad Mukhlis Yusuf</s>
 no_relation
-<s>After Haiti's catastrophic Jan. 12 earthquake, she accelerated the plan and recruited her fellow missionaries.the<mask> her<mask><mask><mask>the<mask> Haiti</s>
-per:countries_of_residence
+org:top_members/employees
+<s>COMMENT : Prachai is more in line with PAD, the anti-Thaksin protesters, as he was a major financier of theirs in a hope to get back his company TPI - you can read more about his company's trouble here.the<mask> TPI<mask><mask><mask>the<mask> his</s>
 no_relation
-<s>Denaro said he fears that could lead to Kauffmann's extradition back to Venezuela, where he is considered a political enemy.the<mask> he<mask><mask><mask>the<mask> Venezuela</s>
-per:countries_of_residence
+org:top_members/employees
+<s>She receives as many as 3,000 e-mails, letters and faxes weekly at Heloise central -- a ranch-style home and office on the city's North Side built by her husband, a contractor.the<mask> Heloise<mask><mask><mask>the<mask> her</s>
 no_relation
-<s>`` Pauliina will bring a new style and flavor from her experiences as an elite player and coach in Finland, and I look forward to assisting her with knowledge of the league and our team, '' Rampone said.the<mask> her<mask><mask><mask>the<mask> Finland</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Ma said a comment by Central American Parliament Speaker Jacinto Suarez Espinoza during a visit to Taiwan last month best conveyed the spirit of the ECFA.the<mask> Central American Parliament<mask><mask><mask>the<mask> Jacinto Suarez Espinoza</s>
 no_relation
-<s>Jamie Leigh Jones, now 22, says that after she was raped by multiple men at a KBR camp in the Green Zone, the company put her under guard in a shipping container with a bed and warned her that if she left Iraq for medical treatment, she 'd be out of a job.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>He keeps busy as a director of cement maker TPI Polene, a former unit of TPI.the<mask> TPI<mask><mask><mask>the<mask> He</s>
 no_relation
-<s>Her successful versatility as a player is matched by her ability as a coach, having had success at both the American collegiate level and internationally in Finland.the<mask> Her<mask><mask><mask>the<mask> Finland</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Four outdoor concerts will be held on the banks of the lake as part of the 2009 National Taiwan Symphony Orchestra's -LRB- NTSO's -RRB- International Music Festival, which runs from Aug. 14 to Oct. 3, Council for Cultural Affairs -LRB- CCA -RRB- Minister Huang Pi-twan and Tourism Bureau Director-General Janice Lai announced Tuesday.the<mask> NTSO<mask><mask><mask>the<mask> Huang Pi-twan</s>
 no_relation
-<s>Adela Dworin, president of Havana's Temple Beth Shalom and Cuba's largest Jewish organization, the Jewish Community House, told The Associated Press it's possible Gross came to the center as one of hundreds of foreign visitors it receives each year.the<mask> Adela Dworin<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Oscar winning film and theatre director Stephen Daldry was appointed as the executive producer of creative, Beijing 2008 Games designer Mark Fisher as the executive producer of design, Grammy and BAFTA award nominated TV director Hamish Hamilton as the executive producer of broadcast and producer for the 2006 Doha Asian Games in Doha Catherine Ugwu as the executive producer of production.the<mask> Mark Fisher<mask><mask><mask>the<mask> Stephen Daldry</s>
 no_relation
-<s>The women have given lawyers and a congressman accounts similar to the allegations of Jamie Leigh Jones, whose allegations of rape have gained media attention across the United States.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> United States</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Four outdoor concerts will be held on the banks of the lake as part of the 2009 National Taiwan Symphony Orchestra's -LRB- NTSO's -RRB- International Music Festival, which runs from Aug. 14 to Oct. 3, Council for Cultural Affairs -LRB- CCA -RRB- Minister Huang Pi-twan and Tourism Bureau Director-General Janice Lai announced Tuesday.the<mask> NTSO<mask><mask><mask>the<mask> Janice Lai</s>
 no_relation
-<s>Her successful versatility as a player is matched by her ability as a coach, having had success at both the American collegiate level and internationally in Finland.the<mask> her<mask><mask><mask>the<mask> Finland</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Andrew L. Y. Hsia, head of the TECO, will provide the funds to HKI President Kathy Spahn on behalf of Taiwan's government during a reception to be held at the TECO office in Manhattan next Wednesday, the spokesman said.the<mask> HKI<mask><mask><mask>the<mask> Andrew L. Y. Hsia</s>
 no_relation
-<s>`` Pauliina will bring a new style and flavor from her experiences as an elite player and coach in Finland, and I look forward to assisting her with knowledge of the league and our team, '' Rampone said.the<mask> her<mask><mask><mask>the<mask> Finland</s>
-per:countries_of_residence
+org:top_members/employees
+<s>The Indonesian government holds a 51 percent stake in Semen Gresik while Rajawali Group through Blue Valley Holdings Pte Ltd owns 24.9 percent.the<mask> Semen Gresik<mask><mask><mask>the<mask> Rajawali Group</s>
 no_relation
-<s>Also at the hearing was Jamie Leigh Jones, whose story made the news in December, when she alleged that her 2005 gang rape by Halliburton/KBR co-workers in Iraq was being covered up by the company and the government.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>A second woman has come forward publicly with allegations that GOP presidential candidate Herman Cain sexually harassed her while serving as head of the National Restaurant Association in the 1990s, The New York Times reports.the<mask> National Restaurant Association<mask><mask><mask>the<mask> Herman Cain</s>
 no_relation
-<s>Richardson was on a trade mission to Cuba when he brought up the detention of Alan Gross, 61, who was arrested on December 5 reportedly while distributing cell phones, laptops and other communications equipment in Cuba.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>It was to be prepared by Alain Ducasse's consulting and training center, ADF, according to Space Adventures.the<mask> ADF<mask><mask><mask>the<mask> Alain Ducasse</s>
 no_relation
-<s>Photos Victim : Gang Rape Cover-Up by U.S., Halliburton/KBR Jamie Leigh Jones, now 22, says that after she was raped by multiple men at a KBR camp in the Green Zone, the company put her under guard in a shipping container with a bed and warned her that if she left Iraq for medical treatment, she 'd be out of a job.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Frances M. Jewels, Sycamore's former finance chief, and Cheryl E. Kalinen, once Sycamore's director of financial operations, agreed to settle the charges without admitting to or denying the allegations, as did a third former employee, Robin A. Friedman, once Sycamore's director of human resources, whom the SEC alleged helped mislead Sycamore's auditors.the<mask> Sycamore<mask><mask><mask>the<mask> Robin A. Friedman</s>
 no_relation
-<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> her<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Ismael Rukwago, a senior ADF commander based in the Democratic Republic of Congo, denied any involvement.the<mask> ADF<mask><mask><mask>the<mask> Ismael Rukwago</s>
 no_relation
-<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> China</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Shao Qiwei, director of China National Tourism Administration, said domestic tourists would top 1.9 billion this year, a year - on-year rise of 10 percent, at a recent awarding ceremony of Pacific-Asia Travel Association -LRB- PATA -RRB- held in Hangzhou, capital of east China's Zhejiang Province.the<mask> Pacific-Asia Travel Association<mask><mask><mask>the<mask> Shao Qiwei</s>
 no_relation
-<s>`` We have been granted access to Alan Gross in Cuba five times, the most recent consular access being on May 25th, '' spokesman Philip Crowley told reporters.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>The preferred stock BofA bought can be converted into Countrywide common stock at $ 18 a share -- a price nearly 18 percent below the stock's market price at the close of regular trading Wednesday.the<mask> Countrywide<mask><mask><mask>the<mask> BofA</s>
 no_relation
-<s>Italy closing in on Cosa Nostra supremo : minister Italian authorities are closing in on Sicilian Mafia supremo Matteo Messina Denaro, Interior Minister Roberto Maroni said Monday as he announced the arrest of Denaro's brother and 18 associates.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Italy</s>
-per:countries_of_residence
+org:top_members/employees
+<s>National Taiwan Symphony Orchestra -LRB- NTSO -RRB- leader Liu Suan-yung said Chang, who has played the violin since he was five years old and was now one of the orchestra's violinists, was the top prize winner.the<mask> NTSO<mask><mask><mask>the<mask> he</s>
 no_relation
-<s>Bibi's saga, which began last year when Muslim women in her village near Lahore accused her of speaking ill of the prophet Muhammad, is only the latest blasphemy case to draw notice in Pakistan.the<mask> Bibi<mask><mask><mask>the<mask> Pakistan</s>
-per:countries_of_residence
+org:top_members/employees
+<s>COMMENT : Prachai is more in line with PAD, the anti-Thaksin protesters, as he was a major financier of theirs in a hope to get back his company TPI - you can read more about his company's trouble here.the<mask> TPI<mask><mask><mask>the<mask> his</s>
 no_relation
-<s>The detainee's wife, Judy Gross, wrote to Cuban leader Raul Castro in August to express regret for her husband's work in Cuba.the<mask> her husband<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Frances M. Jewels, Sycamore's former finance chief, and Cheryl E. Kalinen, once Sycamore's director of financial operations, agreed to settle the charges without admitting to or denying the allegations, as did a third former employee, Robin A. Friedman, once Sycamore's director of human resources, whom the SEC alleged helped mislead Sycamore's auditors.the<mask> Sycamore<mask><mask><mask>the<mask> Robin A. Friedman</s>
 no_relation
-<s>Nir Rosen is an exciting young journalist who has gone all over Iraq and reported in a clear-eyed way on everything from Fallujah to Najaf.the<mask> Nir Rosen<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>TPI founder Prachai Leophairatana got three years behind bars for misleading the public about the valuation of subsidiary TPIPL's share prices when it was floated in 2003.the<mask> TPIPL<mask><mask><mask>the<mask> Prachai Leophairatana</s>
 no_relation
-<s>Asked if Cuba's continued detention of American contractor Alan Gross was a stumbling block in ending the embargo, Rodriguez said only that Washington never had a problem finding excuses when it sought to justify its policies.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>When Barbara Jean Davis -- the future Norris Church Mailer -- met Norman Mailer at a party in Russellville, Ark., in 1975, she was a high school art teacher and divorced single mother.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> she</s>
 no_relation
-<s>In December, Cuba detained a US government contractor, Alan Gross, whom Havana accused of distributing communications materials to civil groups.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Suspicions had already fallen on Sheila O'Grady, who is close with David Axelrod and went straight from being former Chicago mayor Richard M. Daley's chief of staff to president of the Illinois Restaurant Association -LRB- IRA -RRB-, as being the person who dug up Herman Cain's personnel records from the National Restaurant Association -LRB- NRA -RRB-.the<mask> National Restaurant Association<mask><mask><mask>the<mask> Sheila O'Grady</s>
 no_relation
-<s>Jamie Leigh Jones, now 23, said that she was gang raped inside the Baghdad Green Zone in July 2005 while she was working for the Halliburton subsidiary KBR Inc, which has support contracts with the US military.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> US</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Hu's entourage include Alternate Member of the Political Bureau of the Central Committee of the Communist Party of China -LRB- CPC -RRB- Wang Gang, Foreign Minister Yang Jiechi, Minister in charge of the National Development and Reform Commission -LRB- NDRC -RRB- Ma Kai, Commerce Minister Bo Xilai, Director of the Policy Research Office of the CPC Central Committee Wang Huning, Director of the President's Office Chen Shiju, and Assistant Foreign Minister Cui Tian Kang and He Yafei.the<mask> NDRC<mask><mask><mask>the<mask> Ma Kai</s>
 no_relation
-<s>The U.S. government says Gross was in Cuba as part of a USAID program to distribute communications equipment to the island's 1,500-strong Jewish community, and both the State Department and Gross's wife, Judy, made fresh appeals this week for his release.the<mask> his<mask><mask><mask>the<mask> U.S.</s>
-per:countries_of_residence
+org:top_members/employees
+<s>09.14.07 - Bernice Berend Rose, a director of drawings and special exhibitions at the PaceWildenstein Gallery in New York and earlier a longtime curator at the Museum of Modern Art, has been named chief curator of the Menil Collection's new Drawings Institute in Houston.the<mask> Menil Collection<mask><mask><mask>the<mask> Bernice Berend Rose</s>
 no_relation
-<s>Today, Piedra sees patients in a small office on U.S. 1, a few miles from his former practice.the<mask> Piedra<mask><mask><mask>the<mask> U.S.</s>
-per:countries_of_residence
+org:top_members/employees
+<s>China working on measures to boost coal bed methane extraction The National Energy Administration, led by Zhang, will be in charge of drafting and implementing plans for large-scale methane extraction and use in mining areas.the<mask> National Energy Administration<mask><mask><mask>the<mask> Zhang</s>
 no_relation
-<s>When Benazir Bhutto was prime minister, she asked Rashid whether he would be interested in becoming Pakistan's ambassador to Afghanistan but he demurred, preferring the rough and tumble of frontier reporting.the<mask> Rashid<mask><mask><mask>the<mask> Pakistan</s>
-per:countries_of_residence
+org:top_members/employees
+<s>A second woman has come forward publicly with allegations that GOP presidential candidate Herman Cain sexually harassed her while serving as head of the National Restaurant Association in the 1990s, The New York Times reports.the<mask> National Restaurant Association<mask><mask><mask>the<mask> her</s>
 no_relation
-<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> she<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Hilmi Bengi, president of Turkey's semi - official Anatolia News Agency, received the presidency of OANA during Thursday's general assembly meeting.the<mask> OANA<mask><mask><mask>the<mask> Hilmi Bengi</s>
 no_relation
-<s>Iraq sexual assault Tracy BaArker Tracy Barker was held against her will two times kept in a living container and food brought to her the first time when she reported her supervisor abusing her and the Iraqi women the second time when she was almost raped by State Department Ali employee after being there 12 months and abused doesn't she deserve justice?the<mask> her<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Frances M. Jewels, Sycamore's former finance chief, and Cheryl E. Kalinen, once Sycamore's director of financial operations, agreed to settle the charges without admitting to or denying the allegations, as did a third former employee, Robin A. Friedman, once Sycamore's director of human resources, whom the SEC alleged helped mislead Sycamore's auditors.the<mask> Sycamore<mask><mask><mask>the<mask> Robin A. Friedman</s>
 no_relation
-<s>`` Pauliina will bring a new style and flavor from her experiences as an elite player and coach in Finland, and I look forward to assisting her with knowledge of the league and our team, '' Rampone said.the<mask> Pauliina<mask><mask><mask>the<mask> Finland</s>
-per:countries_of_residence
+org:top_members/employees
+<s>When Barbara Jean Davis -- the future Norris Church Mailer -- met Norman Mailer at a party in Russellville, Ark., in 1975, she was a high school art teacher and divorced single mother.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Barbara Jean Davis</s>
 no_relation
-<s>Warsaw, July 26, 2009 -LRB- AFP -RRB- Shah Abdul Aziz is being questioned in Pakistan over the execution of Piotr Stanczak, 42, who was beheaded in February after being abducted while working in the Asian country.the<mask> Shah Abdul Aziz<mask><mask><mask>the<mask> Pakistan</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Hu's entourage include Alternate Member of the Political Bureau of the Central Committee of the Communist Party of China -LRB- CPC -RRB- Wang Gang, Foreign Minister Yang Jiechi, Minister in charge of the National Development and Reform Commission -LRB- NDRC -RRB- Ma Kai, Commerce Minister Bo Xilai, Director of the Policy Research Office of the CPC Central Committee Wang Huning, Director of the President's Office Chen Shiju, and Assistant Foreign Minister Cui Tian Kang and He Yafei.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> Ma Kai</s>
 no_relation
-<s>Laura Silsby, the leader of a group of US missionaries arrested trying to leave Haiti with 33 children following the massive January earthquake here, was freed Monday, her lawyer told AFP.the<mask> her<mask><mask><mask>the<mask> Haiti</s>
-per:countries_of_residence
+org:top_members/employees
+<s>* Sen Benjamin Cardin : * DC office : Phone : 202-224-4524 Fax 202-224-1651 Baltimore office : Phone 410-962-4436 Fax 410-962-4156 Bowie office : Phone : 301-860-0414 Fax 301-860-0416 Salisbury office : Phone : 410-546-4250 Fax 410-546-4252 Tim Carpenter PDA National Director Peace, Mike Hersh PDA Maryland State Coordinator If passed, a war with Iran could be right around the corner.the<mask> PDA<mask><mask><mask>the<mask> Tim Carpenter</s>
 no_relation
-<s>-- A jury in Italy convicts American student Amanda Knox and her former Italian boyfriend of murdering Knox's British roommate and sentences them to long prison terms.the<mask> Amanda Knox<mask><mask><mask>the<mask> Italy</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Wu Guihui, chief engineer of the National Energy Administration under the National development and Reform Commission, said the coal-based clean energy project will massively reduce emission of pollutants, help facilitate energy development restructuring and improve Beijing's air quality.the<mask> National Energy Administration<mask><mask><mask>the<mask> Wu Guihui</s>
 no_relation
-<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> she<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Angelo R Mozilo, the self-made man from the Bronx who built Countrywide Financial into the nation's largest mortgage lender before the credit squeeze hit, has been charged with securities fraud and insider trading in a civil lawsuit brought by the Securities and Exchange Commission.the<mask> Countrywide Financial<mask><mask><mask>the<mask> Angelo R Mozilo</s>
 no_relation
-<s>At the 2005 New America Foundation conference on terrorism, citation above, New Yorker journalist Nir Rosen blamed terrorism in large part on U.S. support for corrupt and undemocratic Middle Eastern regimes ; and University of Chicago political scientist Robert Pape blamed it in large part on the stationing of U.S. troops on the Arabian peninsula.the<mask> Nir Rosen<mask><mask><mask>the<mask> U.S.</s>
-per:countries_of_residence
+org:top_members/employees
+<s>For nine years, Prachai waged a battle against creditors to maintain managerial control over TPI, mixing litigation with delays on debt repayments, labor strikes and nationalistic advertising to try to tip the balance in his favor.the<mask> TPI<mask><mask><mask>the<mask> Prachai</s>
 no_relation
-<s>`` We are proud Cubans and proud Jews, '' she says, adding that she never feels any problem talking about her religion in Cuba.the<mask> she<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Chief Executive Officer of Indonesian national news agency Antara Ahmad Mukhlis Yusuf on Wednesday called on some advanced news agencies to help the smaller ones in the Organization of Asia Pacific News Agencies -LRB- OANA -RRB- organize training on journalism, photography and technology.the<mask> Organization of Asia Pacific News Agencies<mask><mask><mask>the<mask> Antara Ahmad Mukhlis Yusuf</s>
 no_relation
-<s>Police in El Salvador are investigating Puello for his alleged involved in a sex trafficking ring, although he has denied the allegations.the<mask> his<mask><mask><mask>the<mask> El Salvador</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Since the garden first opened to the public, it has become a base to teach the Chinese language and Chinese culture, said Sue Lafferty, Director of Education from the Huntington Library where the Chinese garden is situated.the<mask> Huntington Library<mask><mask><mask>the<mask> Sue Lafferty</s>
 no_relation
-<s>Cuba continues to hold an American subcontractor, Alan Gross, on suspicion of spying.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> Organisation of Asia-Pacific News Agencies<mask><mask><mask>the<mask> Ahmad Mukhlis Yusuf</s>
 no_relation
-<s>The US government says Gross was in Cuba as part of a USAID program to distribute communications equipment to the island's 1,500-strong Jewish community, and both the State Department and Gross's wife, Judy, made fresh appeals this week for his release.the<mask> Gross<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>com The Criminal Court Wednesday acquitted Prachai Leophairatana and his four younger siblings of siphoning off 956.8 million baht from Thai Petrochemical Industry Plc -LRB- TPI -RRB- when the company underwent rehabilitation.the<mask> TPI<mask><mask><mask>the<mask> Prachai Leophairatana</s>
 no_relation
-<s>`` Now we are free, I think Ivory Coast will rediscover itself, '' said Azita Bamba, a shopkeeper who came to a polling station with her six children.the<mask> Bamba<mask><mask><mask>the<mask> Ivory Coast</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Indonesian Culture and Tourism Minster Jero Watjik, PATA's President and CEO Peter de Jong and senior local officials as well as hundreds of representatives from 49 member countries and regions attended the opening ceremony.the<mask> PATA<mask><mask><mask>the<mask> Jero Watjik</s>
 no_relation
-<s>Judge Bernard Saint-Vil had Wednesday freed the other eight Americans without bail and they returned to the United States, but he ordered Laura Silsby and Charisa Coulter to remain in the country for further questioning.the<mask> Laura Silsby<mask><mask><mask>the<mask> United States</s>
-per:countries_of_residence
+org:top_members/employees
+<s>National Urban League President Marc Morial agreed that people are looking to Obama `` for a signal that he cares about people like me, '' adding : `` They're looking for it in his words and in his deeds. ''the<mask> National Urban League<mask><mask><mask>the<mask> he</s>
 no_relation
-<s>-- Posted By SF to Jewish And Breaking News at 9/30/2007 07:12:00 PM http://wwwthejccom/homeaspx?ParentId=m11s19&SecId;=19&AId;=55695&ATy; Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> Adela Dworin<mask><mask><mask>the<mask> Cuba</s>
-per:countries_of_residence
+org:top_members/employees
+<s>Both Yousef and Fattah worked together at the United Association for Studies and Research < http://www.discoverthenetworks.org/groupProfile.asp?grpid=6458 > -LRB- UASR -RRB-, where Fattah served respectively as both president and director of public affairs.the<mask> United Association for Studies and Research<mask><mask><mask>the<mask> Fattah</s>
 no_relation
-<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> her<mask><mask><mask>the<mask> Iraq</s>
-per:countries_of_residence
+org:top_members/employees
+<s>For nine years, Prachai waged a battle against creditors to maintain managerial control over TPI, mixing litigation with delays on debt repayments, labor strikes and nationalistic advertising to try to tip the balance in his favor.the<mask> TPI<mask><mask><mask>the<mask> his</s>
 no_relation
+org:top_members/employees

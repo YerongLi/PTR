@@ -1,31 +1,64 @@
-<s>More than 1,100 miles -LRB- 1,770 kilometers -RRB- away, Alan Gross passes his days in a Cuban military hospital, watching baseball on a small television or jamming with his jailers on a stringed instrument they gave him.the<mask> his<mask><mask><mask>the<mask> Cuban</s>
+<s>Eugenio Vagni, the Italian worker of the ICRC, and colleagues Andreas Notter of Switzerland and Mary Jean Lacaba of the Philippines were released by their Abu Sayyaf captors separately.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Switzerland</s>
+no_relation
+per:countries_of_residence
+<s>Asia Bibi was sentenced to hang in Pakistan's central province of Punjab earlier this month after being accused of insulting the Prophet Mohammed in 2009.the<mask> Asia Bibi<mask><mask><mask>the<mask> Punjab</s>
+no_relation
+per:countries_of_residence
+<s>Iraq sexual assault Tracy BaArker Tracy Barker was held against her will two times kept in a living container and food brought to her the first time when she reported her supervisor abusing her and the Iraqi women the second time when she was almost raped by State Department Ali employee after being there 12 months and abused doesn't she deserve justice?the<mask> her<mask><mask><mask>the<mask> Iraq</s>
+no_relation
+per:countries_of_residence
+<s>Italian police traced Guede to Germany through a friend who established Internet contact with the suspect Monday night and chatted with him for hours, Italian investigators said.the<mask> him<mask><mask><mask>the<mask> Germany</s>
+no_relation
+per:countries_of_residence
+<s>`` Today, we are still suffering the blowback from having helped the Afghan Taliban, '' said analyst and author Ahmed Rashid, who has written extensively about Islamic militant groups in Pakistan.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Pakistan</s>
 no_relation
 per:countries_of_residence
 <s>Dear MoveOn member, Jamie Leigh Jones was a 20-year-old woman working in Iraq for a subsidiary of Halliburton when she was drugged and brutally gang-raped by several co-workers.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
 no_relation
 per:countries_of_residence
+<s>1 on the US album chart with `` Something For Everybody '' -- his sixth US Nothe<mask> his<mask><mask><mask>the<mask> US</s>
+no_relation
+per:countries_of_residence
+<s>Asia Bibi was sentenced to hang in Pakistan's central province of Punjab earlier this month after being found guilty of insulting the Prophet Mohammed.the<mask> Asia Bibi<mask><mask><mask>the<mask> Punjab</s>
+no_relation
+per:countries_of_residence
 <s>Chen Tao, one of the 13 surviving comfort women in Taiwan, said she traveled all the way from Pingtung, the southernmost county in Taiwan, to the capital to attend the opening and ask for assistance from President Ma Ying-jeou, who attended the opening, in helping them find justice and dignity.the<mask> Chen Tao<mask><mask><mask>the<mask> Taiwan</s>
+no_relation
+per:countries_of_residence
+<s>His girlfriend lives in Thailand, and he travels there as often as he can.the<mask> he<mask><mask><mask>the<mask> Thailand</s>
 no_relation
 per:countries_of_residence
 <s>Israel was in mourning on Monday as it buried the young pilot son of the Jewish state's first and only astronaut, himself killed in the 2003 Columbia space shuttle disaster.the<mask> young pilot<mask><mask><mask>the<mask> Israel</s>
 no_relation
 per:countries_of_residence
-<s>Clinton told representatives of the American Jewish community that they should add their voices to calls for Cuba to release Alan P. Gross, a U.S. Agency for International Development contractor who was helping members of Cuba's small Jewish community use the Internet to stay in contact with each other and with similar groups abroad.the<mask> Alan P. Gross<mask><mask><mask>the<mask> Cuba</s>
+<s>Defense Secretary Gilbert Teodoro said the release of 62-year-old Eugenio Vagni after six months of jungle captivity in Abu Sayyaf southern strongholds was an opportunity to crush the militants who have terrorized the southern Philippines for decades.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Philippines</s>
 no_relation
 per:countries_of_residence
 <s>Gaunt and haggard, freed Italian aid worker Eugenio Vagni says his release from six months'captivity by armed Islamic militants in the Philippines was a day he thought might never come.the<mask> he<mask><mask><mask>the<mask> Philippines</s>
 no_relation
 per:countries_of_residence
-<s>Italian Red Cross worker Eugenio Vagni was freed in the southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> he<mask><mask><mask>the<mask> Philippine</s>
+<s>Gross, who is himself Jewish but speaks little Spanish, was sent to Cuba as a spy.the<mask> Gross<mask><mask><mask>the<mask> Cuba</s>
 no_relation
 per:countries_of_residence
-<s>MANILA -- Italian Red Cross worker Eugenio Vagni was freed in the restive southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Philippine</s>
+<s>Denaro said he fears that could lead to Kauffmann's extradition back to Venezuela, where he is considered a political enemy.the<mask> he<mask><mask><mask>the<mask> Venezuela</s>
 no_relation
 per:countries_of_residence
-<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> he<mask><mask><mask>the<mask> China</s>
+<s>His girlfriend lives in Thailand, and he travels there as often as he can.the<mask> he<mask><mask><mask>the<mask> Thailand</s>
 no_relation
 per:countries_of_residence
-<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> Wen<mask><mask><mask>the<mask> China</s>
+<s>Chen Tao unleashed the corner, a Botswana defender cleared it out of the box, but Shen was again picked by the loose ball and drove it in with a tight angle to make the breakthrough for China in the 40th minute.the<mask> Chen Tao<mask><mask><mask>the<mask> China</s>
+no_relation
+per:countries_of_residence
+<s>`` It used to be one of the best sports clubs in Iraq, '' said bodybuilder Ahmed Rashid, an enormous man whose photographs adorn the mirrored weight room he runs at the club.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Iraq</s>
+no_relation
+per:countries_of_residence
+<s>`` We are proud Cubans and proud Jews, '' she says, adding that she never feels any problem talking about her religion in Cuba.the<mask> she<mask><mask><mask>the<mask> Cuba</s>
+no_relation
+per:countries_of_residence
+<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> she<mask><mask><mask>the<mask> Iraq</s>
+no_relation
+per:countries_of_residence
+<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> her<mask><mask><mask>the<mask> Iraq</s>
 no_relation
 per:countries_of_residence
 <s>The US government has identified the prisoner as Alan Gross, a 60-year-old government contractor with Development Alternatives Inc who was seeking to help Jewish groups communicate with people outside the country by distributing mobile phones and computers.the<mask> Alan Gross<mask><mask><mask>the<mask> US</s>
@@ -34,39 +67,45 @@ per:countries_of_residence
 <s>`` We are proud Cubans and proud Jews, '' she says, adding that she never feels any problem talking about her religion in Cuba.the<mask> her<mask><mask><mask>the<mask> Cuba</s>
 no_relation
 per:countries_of_residence
-<s>`` We have repeatedly called on the government of Cuba to immediately and unconditionally release Mr Gross, who has been held all this time without charge, '' Crowley said.the<mask> Mr Gross<mask><mask><mask>the<mask> Cuba</s>
-no_relation
-per:countries_of_residence
 <s>Asia Bibi was sentenced to hang in Pakistan's central province of Punjab earlier this month after being found guilty of insulting the Prophet Mohammed.the<mask> Asia Bibi<mask><mask><mask>the<mask> Pakistan</s>
 no_relation
 per:countries_of_residence
-<s>Cuba believes he is a spy.the<mask> he<mask><mask><mask>the<mask> Cuba</s>
+<s>He may lack the political showmanship and refinement of Bhutto, a graduate of Harvard and Oxford, but he `` remains a popular figure, '' said Ahmed Rashid, who has written about politics and militancy in Pakistan.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Pakistan</s>
 no_relation
 per:countries_of_residence
-<s>Trial of US student accused in Italy sex-murder resumes In the prosecutors'scenario, Guede held Kercher down while Sollecito and Knox stabbed her.the<mask> Knox<mask><mask><mask>the<mask> US</s>
+<s>Feminist Wire Daily notes US citizen Jamie Leigh Jones 2005 gang-rape by employees of KBR in Iraq and was then placed in a ` container'to keep her quiet.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Iraq</s>
 no_relation
 per:countries_of_residence
-<s>Photos Victim : Gang Rape Cover-Up by U.S., Halliburton/KBR Jamie Leigh Jones, now 22, says that after she was raped by multiple men at a KBR camp in the Green Zone, the company put her under guard in a shipping container with a bed and warned her that if she left Iraq for medical treatment, she 'd be out of a job.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> U.S.</s>
+<s>After opening the scoring, the Shanghai Shenhua player chose a special way to celebrate his goal, running off the sideline to hug every coach and official of China on the bench.the<mask> his<mask><mask><mask>the<mask> China</s>
 no_relation
 per:countries_of_residence
 <s>Italian Red Cross worker Eugenio Vagni was freed by his kidnappers early Sunday in the restive southern Philippines, the military said.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Philippines</s>
 no_relation
 per:countries_of_residence
-<s>In the last round of talks, US diplomats pressed Cuba to release Alan Gross, a jailed American contractor that Cuba has accused of spying.the<mask> Alan Gross<mask><mask><mask>the<mask> Cuba</s>
-no_relation
-per:countries_of_residence
 <s>Asia Bibi was sentenced to hang in Pakistan's central province of Punjab earlier this month after being accused of insulting the Prophet Mohammed in 2009.the<mask> Asia Bibi<mask><mask><mask>the<mask> Pakistan</s>
 no_relation
 per:countries_of_residence
-<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> China</s>
+<s>Lo Piccolo, who is in his '60s, was said to be vying for Cosa Nostra leadership with another fugitive, Matteo Messina Denaro, a younger boss from western Sicily who some considered the Mafia's No. 2 man.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Sicily</s>
 no_relation
 per:countries_of_residence
-<s>Italian Red Cross worker Eugenio Vagni was freed in the southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> Philippine</s>
+<s>Prosecutors asked Thursday for a six-month prison term for US missionary Laura Silsby, who was arrested trying to leave Haiti with 33 children following the devastating January earthquake that hit the country.the<mask> Laura Silsby<mask><mask><mask>the<mask> Haiti</s>
+no_relation
+per:countries_of_residence
+<s>Graham was arrested in Vancouver, British Columbia, and fought extradition for four years before being sent to South Dakota in December 2007.the<mask> Graham<mask><mask><mask>the<mask> South Dakota</s>
 no_relation
 per:countries_of_residence
 <s>The Dutch newspaper Brabants Dagblad said he was probably from Tilburg in the southern Netherlands and that he had been on safari in South Africa with his mother Trudy, 41, father Patrick, 40, and brother Enzo, 11.the<mask> his<mask><mask><mask>the<mask> Netherlands</s>
 no_relation
 per:countries_of_residence
+<s>Chen Tao unleashed the corner, a Botswana defender cleared it out of the box, but Shen was again picked by the loose ball and drove it in with a tight angle to make the breakthrough for China in the 40 minute.the<mask> Chen Tao<mask><mask><mask>the<mask> China</s>
+no_relation
+per:countries_of_residence
+<s>His girlfriend lives in Thailand, and he travels there as often as he can.the<mask> His<mask><mask><mask>the<mask> Thailand</s>
+no_relation
+per:countries_of_residence
 <s>On the worst days, kidnapped Italian Red Cross worker Eugenio Vagni couldn't stop himself from picturing how he feared his monthslong jungle captivity in the southern Philippines would end : with his decapitated head in a basket.the<mask> he<mask><mask><mask>the<mask> Philippines</s>
+no_relation
+per:countries_of_residence
+<s>We have their affidavits too, and they 'll be presented in Court, if John Graham is extraditied to SD.the<mask> John Graham<mask><mask><mask>the<mask> SD</s>
 no_relation
 per:countries_of_residence

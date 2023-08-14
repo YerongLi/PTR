@@ -1,78 +1,114 @@
-<s>On Tuesday, CNN snagged interviews with Sherrod, Breitbart and Eloise Spooner, wife of the Georgia farmer whom Sherrod had aided and was the subject of her anecdote.the<mask> Eloise Spooner<mask><mask><mask>the<mask> her</s>
+<s>The festival is being organized by the NTSO in cooperation with the Sun Moon Lake National Scenic Area Administration.the<mask> NTSO<mask><mask><mask>the<mask> Sun Moon Lake National Scenic Area Administration</s>
 no_relation
-per:spouse
-<s>Carole Mallory saved seven boxes of material she said she collected during Mailer's weekly visits between 1983 to 1992, while Mailer was married to his sixth and last wife, Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Mailer</s>
+org:alternate_names
+<s>Suspicions had already fallen on Sheila O'Grady, who is close with David Axelrod and went straight from being former Chicago mayor Richard M. Daley's chief of staff to president of the Illinois Restaurant Association -LRB- IRA -RRB-, as being the person who dug up Herman Cain's personnel records from the National Restaurant Association -LRB- NRA -RRB-.the<mask> NRA<mask><mask><mask>the<mask> Illinois Restaurant Association</s>
 no_relation
-per:spouse
-<s>`` Norman used to use ` Cheers,'and I tried to appropriate it when he died, '' the writer and artist Norris Church Mailer said of her husband, Norman Mailer.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Norman</s>
+org:alternate_names
+<s>In the sale of unit American Life Insurance Company -LRB- ALICO -RRB- to MetLife, Inc., AIG raised about 16.2 billion dollars, including about 7.2 billion dollars in cash.the<mask> ALICO<mask><mask><mask>the<mask> MetLife, Inc.</s>
 no_relation
-per:spouse
-<s>At the time, Mailer was married to his sixth wife, Norris Church Mailer ; Mallory's affair with the writer is the subject of her new book, `` Loving Mailer. ''the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Mallory</s>
+org:alternate_names
+<s>MetLife's takeover of American Life Insurance Company -LRB- ALICO -RRB- will involve 6.8 billion dollars in cash plus some 8.7 billion dollars in MetLife stock, the firms said.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
 no_relation
-per:spouse
-<s>His other wives were : Beatrice Silverman, Lady Jeanne Campbell, Beverly Bentley, Carol Stevens and Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Beatrice Silverman</s>
+org:alternate_names
+<s>The four-day regional meeting, formally titled `` OANA Summit Congress '', is expected to gather leaders from 40 member news agencies of the organization during April 21-24, and representatives from four other associations of news agencies outside the region also will attend as an observer, Yonhap said.the<mask> OANA<mask><mask><mask>the<mask> Congress</s>
 no_relation
-per:spouse
-<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> she<mask><mask><mask>the<mask> Souza</s>
+org:alternate_names
+<s>MetLife's take over of American Life Insurance Company -LRB- ALICO -RRB- will involve 6.8 billion dollars in cash plus some 8.7 billion dollars in MetLife stock, the firms said.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
 no_relation
-per:spouse
-<s>His other wives, in addition to Silverman and Morales, were Lady Jeanne Campbell, granddaughter of Lord Beaverbrook ; Beverly Rentz Bentley ; and Norris Church, with whom he was living at his death.the<mask> Norris Church<mask><mask><mask>the<mask> he</s>
+org:alternate_names
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> Organisation of Asia-Pacific News Agencies<mask><mask><mask>the<mask> Antara</s>
 no_relation
-per:spouse
-<s>The government negotiator, Sulu Vice Gov. Lady Ann Sahidulla, said she gave $ 1,042 -LRB- 50,000 pesos -RRB- to the militants `` for cigarettes '' and handed over to Abu Sayyaf commander Albader Parad one of his wives, who was arrested last week by troops on suspicion she aided militants in kidnappings.the<mask> his<mask><mask><mask>the<mask> she</s>
+org:alternate_names
+<s>The European Commission said MetLife's acquisition of AIG's American Life Insurance Company -LRB- ALICO -RRB- would not significantly impede competition in the 27-nation bloc.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
 no_relation
-per:spouse
-<s>She and her husband, Roger Spooner, approached Sherrod for help in 1986 when Sherrod worked for a nonprofit that assisted farmers.the<mask> Roger Spooner<mask><mask><mask>the<mask> Sherrod</s>
+org:alternate_names
+<s>A 2005 study by the Associatio of University Women -LRB- AAUW -RRB-, called `` The -LRB- Un -RRB- Changing Face of the Ivy League, '' showed that from 1993 to 2003, the number of female professors rose from 14 to 20 percent of tenured faculty.the<mask> AAUW<mask><mask><mask>the<mask> Un</s>
 no_relation
-per:spouse
-<s>At the time, Mailer was married to his sixth wife, Norris Church Mailer ; Mallory's affair with the writer is the subject of her new book, `` Loving Mailer. ''the<mask> Norris Church Mailer<mask><mask><mask>the<mask> her</s>
+org:alternate_names
+<s>PDA, The Progressive Democrats of America, works creatively inside and outside the Democratic Party.the<mask> PDA<mask><mask><mask>the<mask> Democratic Party</s>
 no_relation
-per:spouse
-<s>Samudio's son, who went missing with his mother, was found on Saturday with Bruno's wife, Dayane Fernandes.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+org:alternate_names
+<s>U.S. Immigration and Customs Enforcement agents seized documents and other materials at the Koch Foods plant in southwest Ohio and at Koch Foods Inc.'s Chicago-area headquarters, said Brian Moskowitz, an agent in charge of ICE enforcement for Ohio and Michigan.the<mask> Koch Foods<mask><mask><mask>the<mask> Koch Foods Inc.</s>
 no_relation
-per:spouse
-<s>Cerniglia's family posted a message of thanks to well-wishers on his Facebook page and asked `` that in lieu of flowers a financial donation be made to Joe's family to help provide for Joe's wife Melissa and their 3 sons. ''the<mask> Cerniglia<mask><mask><mask>the<mask> Melissa</s>
+org:alternate_names
+<s>And almost no discussion about the more realistic LIHOP theories, all threads and sites and refutations concentrated around those silly MIHOP theories like the explosives were put there when they built the towers...the<mask> LIHOP<mask><mask><mask>the<mask> MIHOP</s>
 no_relation
-per:spouse
-<s>She and her husband, Roger Spooner, approached Sherrod for help in 1986 when Sherrod worked for a nonprofit that assisted farmers.the<mask> Roger Spooner<mask><mask><mask>the<mask> Sherrod</s>
+org:alternate_names
+<s>net > wrote : Some of these postings have also appeared on the NJ State PDA Yahoo Group, Progressive Democrats of America - New Jersey, that includes 97 members from all over the state.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> NJ State PDA Yahoo Group</s>
 no_relation
-per:spouse
-<s>He is accused of ordering the kidnapping of 25-year-old Eliza Samudio, his former mistress and mother of his alleged child.the<mask> Eliza Samudio<mask><mask><mask>the<mask> his</s>
+org:alternate_names
+<s>Mr Tom Lang, Partner and Managing Director, Industry Verticals, Americas, TPI, says, `` Utilities - traditionally highly regulated and influenced by unions - have avoided offshoring services.the<mask> TPI<mask><mask><mask>the<mask> Industry Verticals</s>
 no_relation
-per:spouse
-<s>Elsewhere he said he had fathered a child born in 1991 to a woman he hadn't seen since she was pregnant.the<mask> he<mask><mask><mask>the<mask> she</s>
+org:alternate_names
+<s>Countrywide Bank, FSB, a member of the Countrywide Financial Corporation -LRB- NYSE : CFC -RRB- family of companies, is among the nation & # 8217 ; s fastest-growing and ranks among the 20 largest national banks.the<mask> CFC<mask><mask><mask>the<mask> NYSE</s>
 no_relation
-per:spouse
-<s>Samudio and her four-month-old baby, whom she claimed to be Bruno's son, disappeared early last month in Rio.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+org:alternate_names
+<s>Information Services Group purchased TPI in October.the<mask> TPI<mask><mask><mask>the<mask> Information Services Group</s>
 no_relation
-per:spouse
-<s>Bruno is the main suspect of the disappearance of 25-year-old Eliza Samudio, with whom he allegedly has a four-month-old son - the paternity of the child has yet to be confirmed, as the goalkeeper did not agree to a DNA test.the<mask> Eliza Samudio<mask><mask><mask>the<mask> Bruno</s>
+org:alternate_names
+<s>Among the donations, 990 million yuan were donated through the Red Cross Society of China -LRB- RCSC -RRB-, 603 million yuan through the China Charity Federation, 6.891 billion yuan by provinces and regions out of the disaster-stricken areas, 619 million yuan by foreign countries and 1.37 billion yuan by Hong Kong, Macao and Taiwan, statistics of the Ministry of Civil Affairs -LRB- MCA -RRB- showed.the<mask> China Charity Federation<mask><mask><mask>the<mask> MCA</s>
 no_relation
-per:spouse
-<s>The police said Friday that Souza later organized a group of his friends and family members to take Samudio and her baby to his home in the state of Minas Gerais, where they said she was held hostage and ultimately strangled.the<mask> her<mask><mask><mask>the<mask> his</s>
+org:alternate_names
+<s>The talks come just two weeks after AIG took steps to spin off American Life Insurance, known as ALICO, as part of its efforts to repay the government.the<mask> ALICO<mask><mask><mask>the<mask> AIG</s>
 no_relation
-per:spouse
-<s>Authorities also ordered detention for six other people, including Bruno's wife, Dayana Rodrigues, who was found with Samudio's baby.the<mask> Samudio<mask><mask><mask>the<mask> Bruno</s>
+org:alternate_names
+<s>Using Poverty and Social Impact Analysis to design more effective povertyreduction measures http://www.undp-povertycentre.org/pub/IPCPovertyInFocus14.pdf This IPC Focus issue examines the usefulness of two recently developed analytical tools : Poverty and Social Impact Analysis -LRB- PSIA -RRB- and Poverty Impact Assessment -LRB- PIA -RRB-.the<mask> Social Impact Analysis<mask><mask><mask>the<mask> PIA</s>
 no_relation
-per:spouse
-<s>Besides Morales, Mailer's other wives were Beatrice Silverman, Lady Jeanne Campbell, Beverly Bentley, actress Carol Stevens and painter Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> Beatrice Silverman</s>
+org:alternate_names
+<s>Progressive Democrats of America makes this issue one of our top priorities 9:00 pm EDT Tuesday, January 29 : PDA Call on Election Protectionthe<mask> PDA<mask><mask><mask>the<mask> Progressive Democrats of America</s>
 no_relation
-per:spouse
-<s>Musical interludes included a trombone solo, `` Requiem for a Boxer, '' all flutters and echoes, feints and jabs ; and a moody torch song, `` You 'll Come Back -LRB- You Always Do -RRB-, '' co-written by Mailer and sung by Norris Church Mailer, his wife for his last 27 years.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> Boxer</s>
+org:alternate_names
+<s>Suspicions had already fallen on Sheila O'Grady, who is close with David Axelrod and went straight from being former Chicago mayor Richard M. Daley's chief of staff to president of the Illinois Restaurant Association -LRB- IRA -RRB-, as being the person who dug up Herman Cain's personnel records from the National Restaurant Association -LRB- NRA -RRB-.the<mask> NRA<mask><mask><mask>the<mask> IRA</s>
 no_relation
-per:spouse
-<s>The tributes remembered Mailer's quixotic campaign for mayor of New York ; his blazing of a new path with long-form journalism ; his feuds with fellow literati like Gore Vidal and William F. Buckley Jr. ; and his 33-year marriage in the last chapter of his life to Norris Church, who sat at the front of the hall and was applauded by the crowd.the<mask> Norris Church<mask><mask><mask>the<mask> Mailer</s>
+org:alternate_names
+<s>Among the donations, 3.61 billion yuan came through the Red Cross Society of China -LRB- RCSC -RRB-, 681 million yuan through the China Charity Federation, 21.46 billion yuan came from provinces and regions outside the disaster zone, 765 million yuan came from overseas and 1.28 billion yuan came from Hong Kong, Macao and Taiwan, statistics of the Ministry of Civil Affairs -LRB- MCA -RRB- showed.the<mask> China Charity Federation<mask><mask><mask>the<mask> MCA</s>
 no_relation
-per:spouse
-<s>Cerniglia's family posted a message of thanks to well-wishers on his Facebook page and asked `` that in lieu of flowers a financial donation be made to Joe's family to help provide for Joe's wife Melissa and their 3 sons. ''the<mask> Cerniglia<mask><mask><mask>the<mask> Joe</s>
+org:alternate_names
+<s>This news comes from Karr Ingham, an economist who created the Texas Petro Index -LRB- TPI -RRB-, which is a service of the Texas Alliance of Energy Producers.the<mask> TPI<mask><mask><mask>the<mask> Texas Alliance of Energy Producers</s>
 no_relation
-per:spouse
-<s>Jolo vice governor Nur-Ana Sahidulla said Abu Sayyaf leader Albader Parad turned Vagni over to her shortly after midnight after she facilitated the release of his two wives, who were arrested along with four other kidnapping suspects on Jolo on Tuesday.the<mask> his<mask><mask><mask>the<mask> she</s>
+org:alternate_names
+<s>MetLife's take over of American Life Insurance Company -LRB- ALICO -RRB- will involve 6.8 billion dollars in cash plus some 8.7 billion dollars in MetLife stock, the firms said.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
 no_relation
-per:spouse
-<s>Carole Mallory saved seven boxes of material she said she collected during Mailer's weekly visits between 1983 to 1992, while Mailer was married to his sixth and last wife, Norris Church.the<mask> Norris Church<mask><mask><mask>the<mask> his</s>
+org:alternate_names
+<s>NEW YORK, Dec 1, 2009 -LRB- AFP -RRB- American International Group said it had transferred ownership to the Federal Reserve Bank of New York parts of two international subsidiaries : American Life Insurance Company -LRB- ALICO -RRB- and American International Assurance Company -LRB- AIA -RRB-.the<mask> ALICO<mask><mask><mask>the<mask> American International Group</s>
 no_relation
-per:spouse
-<s>Norris Church Mailer has designated The Norman Mailer Society to receive contributions in her husband's name.the<mask> Norris Church Mailer<mask><mask><mask>the<mask> her</s>
+org:alternate_names
+<s>The National Development and Reform Commission -LRB- NDRC -RRB-, the nation's top economic planning agency, said the new plan would uphold Chinese traditions and ease overcrowding on the three golden weeks.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> economic planning agency</s>
 no_relation
-per:spouse
+org:alternate_names
+<s>US life insurance giant MetLife said on Monday it will acquire American International Group unit American Life Insurance company -LRB- ALICO -RRB- in a deal worth 15.5 billion dollars.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
+no_relation
+org:alternate_names
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> OANA<mask><mask><mask>the<mask> Antara</s>
+no_relation
+org:alternate_names
+<s>Director General Hilmi Bengi of Turkey's semi-official Anatolia News Agency will be elected later in the assembly as new OANA president to succeed Yusuf for the 2010-2013 term.the<mask> OANA<mask><mask><mask>the<mask> Anatolia News Agency</s>
+no_relation
+org:alternate_names
+<s>Zhang Guobao, also vice-minister of the National Development and Reform Commission and member of the National Committee of the Chinese People's Political Consultative Conference -LRB- CPPCC -RRB-, made the remarks in an exclusive interview with Xinhua before he attends CPPCC's annual session.the<mask> National Development and Reform Commission<mask><mask><mask>the<mask> CPPCC</s>
+no_relation
+org:alternate_names
+<s>Bring innovation home with Countrywide & # 8217 ; s Consumer Markets, a division of Countrywide Bank, FSB.the<mask> Countrywide Bank<mask><mask><mask>the<mask> FSB</s>
+no_relation
+org:alternate_names
+<s>Countrywide Bank, FSB, a member of the Countrywide Financial Corporation -LRB- NYSE : CFC -RRB- family of companies, is among the nation & # 8217 ; s fastest-growing and ranks among the 20 largest national banks.the<mask> Countrywide Financial Corporation<mask><mask><mask>the<mask> NYSE</s>
+no_relation
+org:alternate_names
+<s>MetLife will take over American Life Insurance Company -LRB- ALICO -RRB- in a deal that will comprise 6.8 billion dollars in cash plus some 8.7 billion dollars in MetLife stock, they said in separate statements.the<mask> ALICO<mask><mask><mask>the<mask> MetLife</s>
+no_relation
+org:alternate_names
+<s>Jefferson Keel, president of the National Congress of American Indians, said tribal leaders should keep the momentum going following success such as the Tribal Law and Order Act, recently signed into law by President Barack Obama, and the Indian Health Care Improvement Act, reauthorized as part of the larger health care reform passed by Congress.the<mask> National Congress of American Indians<mask><mask><mask>the<mask> Congress</s>
+no_relation
+org:alternate_names
+<s>AIG has also raised 16.2 billion dollars by selling unit American Life Insurance Company -LRB- ALICO -RRB- to MetLife Inc..the<mask> ALICO<mask><mask><mask>the<mask> AIG</s>
+no_relation
+org:alternate_names
+<s>The general assembly of the Organisation of Asia-Pacific News Agencies -LRB- OANA -RRB- is seeking to boost the quality of the 40 news agencies across 33 countries that comprise it, said incoming OANA head and chief of Indonesia's state-run Antara news agency Ahmad Mukhlis Yusuf.the<mask> OANA<mask><mask><mask>the<mask> Antara</s>
+no_relation
+org:alternate_names
+<s>National Taiwan Symphony Orchestra, the oldest symphony orchestra in the island, made a debut show at Chinese mainland's National Center for the Performing Arts -LRB- NCPA -RRB- in Beijing Thursday.the<mask> National Taiwan Symphony Orchestra<mask><mask><mask>the<mask> NCPA</s>
+no_relation
+org:alternate_names
+<s>American International Group said it had transferred ownership to the Federal Reserve Bank of New York parts of two international subsidiaries : American Life Insurance Company -LRB- ALICO -RRB- and American International Assurance Company -LRB- AIA -RRB-.the<mask> ALICO<mask><mask><mask>the<mask> American International Assurance Company</s>
+no_relation
+org:alternate_names

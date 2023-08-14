@@ -1,150 +1,210 @@
-<s>According to a statement, those arrested were linked to fugitive Mafia chief Matteo Messina Denaro, 46, who is accused of seeking to reconstruct the Cosa Nostra's leadership.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
-per:employee_of
+<s>Many did default, including Prachai, the founder of Thai Petrochemical Industry, to the tune of US$ 2.7 billion.the<mask> Thai Petrochemical Industry<mask><mask><mask>the<mask> Prachai</s>
+org:founded_by
 no_relation
-<s>CHONGQING, May 13 -LRB- Xinhua -RRB- -- Chongqing Municipal Higher People's Court Thursday started to hear the appeal of Wen Qiang, a former senior judicial official who was sentenced to death by a lower court April 14 for four counts of crime including protecting gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> CHONGQING</s>
-per:employee_of
+<s>`` Last-minute shoppers swamped stores over the weekend, allowing retailers to breathe a sigh of relief, '' said Bill Martin, co - founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Former director of the Chongqing Municipal Judicial Bureau Wen Qiang, 55, was convicted at the Chongqing No. 5 Intermediate People's Court of accepting bribes, protecting criminal gangs, rape and failing to account for his cash and assets.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Nell Minow, the co-founder of the Corporate Library, went so far as to say that, under the law, HP had no choice but to jettison Hurd.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>China's judiciary embroiled in graft scandals `` The big issue for China is corruption -- corruption is related to the fact there is no checks and balances mechanism on power, '' Joseph Cheng, a political scientist at City University of Hong Kong, told AFP.the<mask> Cheng<mask><mask><mask>the<mask> China</s>
-per:employee_of
+<s>`` We're writing history here, '' said Nell Minow, cofounder of the Corporate Library, a corporate governance research firm in Portland, Maine.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Eloise Spooner, 82, awoke Tuesday to discover that Sherrod had lost her job after videotaped comments she made in March at a local NAACP banquet surfaced on the Web.the<mask> Eloise Spooner<mask><mask><mask>the<mask> NAACP</s>
-per:employee_of
+<s>Sycamore Valley Ranch Co. is a joint venture between Jackson and an affiliate of Colony Capital LLC, according to person with knowledge of the transaction who was not authorized to speak on the record and requested anonymity.the<mask> Sycamore Valley Ranch Co.<mask><mask><mask>the<mask> Jackson</s>
+org:founded_by
 no_relation
-<s>Gonzalez was attorney general during the most violent peacetime period in the history of Chihuahua state.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
-per:employee_of
+<s>The Saturday sales decline was the largest ShopperTrak had seen since it began reporting the data in 2002, according to Bill Martin, the company's co-founder.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Wen was tried with his wife, Zhou Xiaoya, and three former Chongqing police associates Huang Daiqiang, Zhao Liming, Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Bill Martin, ShopperTrak's co-founder, said he wasn't sure if the momentum was sustained through the rest of the weekend.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Earlier Sunday, police said they had arrested former lawmaker Shah Abdul Aziz and a suspected Taliban militant in connection with the beheading of Polish geologist Piotr Stanczak, who was kidnapped near the Afghan border last September.the<mask> Shah Abdul Aziz<mask><mask><mask>the<mask> Taliban</s>
-per:employee_of
+<s>`` Directors have to look at CEO pay in terms of return on investment, just like they judge any other dollar they allocate, '' said Nell Minow, editor and co-founder of the Corporate Library.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>... It was primarily conducted by two men named Craig Ranke and Aldo Marquis, also known as Citizen Investigation Team, or CIT.the<mask> Craig Ranke<mask><mask><mask>the<mask> Citizen Investigation Team</s>
-per:employee_of
+<s>Nell Minow, editor and co-founder of the Corporate Library, an independent, corporate governance research firm, offered a few tips on how to vote any proxy in two minutes or less.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>The Obama list includes corporate luminaries like Joanna Shields, the chief executive officer of the popular Bebo social networking site ; Ruth Rogers, co-founder of the exclusive River Cafe and wife of celebrated architect Richard Rogers ; David Giampaolo, chief executive officer of the private equity investment company Pi Capital ; John Graham, a director of the investment firm Rogge Global Partners ; and Cheryl Solomon, general counsel for The Gucci Group.the<mask> John Graham<mask><mask><mask>the<mask> Pi Capital</s>
-per:employee_of
+<s>Nielsen said James Finkelstein, who founded Pluribus this year with George Green and Matthew Doull, will serve as e5's chairman.the<mask> Pluribus<mask><mask><mask>the<mask> George Green</s>
+org:founded_by
 no_relation
-<s>The No. 1 Cosa Nostra fugitive on the island is considered to be Matteo Messina Denaro, who investigators believe also has his power base in western Sicily.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
-per:employee_of
+<s>`` Just like they played football on Tuesday night, '' said Bill Martin, the founder of ShopperTrak, referring to the Eagles-Vikings game that was rescheduled from Sunday because of the snow, `` shoppers will be back in the stores Wednesday, Thursday and Friday. ''the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Prosecutors at the Chongqing No. 5 Intermediate People's Court said Wen Qiang took bribes worth more than 16 million yuan -LRB- $ 2.4 million -RRB- from gang members he gave legal protection while he was director of the Chongqing Municipal Judicial Bureau, the official Xinhua News Agency reported.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Nell Minow, co-founder of the Portland, Maine-based Corporate Library, a governance research firm, says that when the SEC suit was filed, the outside directors should have immediately set up a committee to investigate, hired independent counsel and announced that they would make the results of their probe public.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>A verdict on the case of Wen Qiang, former justice department director in the southwestern city of Chongqing, would be announced at an undisclosed, later date, the Nothe<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>The 5,000-member High Point Church was founded in 2000 by Simons and his wife, April, whose brother is Joel Osteen, well-known pastor of the 38,000-member Lakewood Church in Houston.the<mask> High Point Church<mask><mask><mask>the<mask> Simons</s>
+org:founded_by
 no_relation
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
-per:employee_of
+<s>Still, retailers will probably reclaim much of that amount, said Bill Martin, the founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Wen was tried with his wife, Zhou Xiaoya, and three former Chongqing police associates Huang Daiqiang, Zhao Liming, and Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Countrywide Financial Corp. co-founder Angelo Mozilo has agreed to a $ 67.5 million settlement to avoid trial on civil fraud and insider trading charges that alleged he profited from doling out risky mortgages while misleading investors about the risks.the<mask> Countrywide Financial Corp.<mask><mask><mask>the<mask> Angelo Mozilo</s>
+org:founded_by
 no_relation
-<s>Ble Goude plans to hold a series of rallies this week for his partisans from the Young Patriots movement.the<mask> his<mask><mask><mask>the<mask> Young Patriots</s>
-per:employee_of
+<s>`` It's a very small step in a very long journey, '' said Nell Minow, co-founder of the Corporate Library, an independent research company specializing in executive compensation.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Once her daughter was grown, no one forced her to give permission for her daughter to join the Sea Organization, or withdraw that permission a few weeks later.the<mask> her<mask><mask><mask>the<mask> Sea Organization</s>
-per:employee_of
+<s>He was interviewed by Nell Minow, co-founder of the Portland, Maine-based Corporate Library, which researches governance issues.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Other defendants also brought to the court together with Wen Tuesday included his wife Zhou Xiaoya and three senior former Chongqing policemen, Huang Daiqiang, Zhao Liming and Chen Tao.the<mask> Chen Tao<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Earlier buying in November also stole some sales away from the day, said ShopperTrak co-founder Bill Martin.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
-per:employee_of
+<s>http://wwwchroncom/disp/storympl/metropolitan/5045808html The 5,000-member High Point Church was founded in 2000 by Simons and his wife, April, whose brother is Joel Osteen, well-known pastor of the 38,000-member Lakewood Church in Houston.the<mask> High Point Church<mask><mask><mask>the<mask> Simons</s>
+org:founded_by
 no_relation
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
-per:employee_of
+<s>Marcy Winograd, the co-founder of the Los Angeles chapter of Progressive Democrats of America, is trying for the second time to topple moderate Democrat Jane Harman, a political rival of House Speaker Nancy Pelosi, D-Calif.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> Marcy Winograd</s>
+org:founded_by
 no_relation
-<s>The five items launched Wednesday were the first design works by Alessi since signing an agreement with the NPM in 2005.the<mask> Alessi<mask><mask><mask>the<mask> NPM</s>
-per:employee_of
+<s>Nell Minow, co-founder of the Corporate Library, which provides independent research on corporate governance, countered that the economy does suffer when there is a disconnect between executive pay and their performance.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Writing in London's Evening Standard newspaper, veteran Pakistani journalist and author Ahmed Rashid said that the government now had an `` unprecedented opportunity to turn the tide against the Taliban and Al-Qaeda. ''the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Evening Standard</s>
-per:employee_of
+<s>Nielsen said James Finkelstein, who founded Pluribus this year with George Green and Matthew Doull, will serve as e5's chairman.the<mask> Pluribus<mask><mask><mask>the<mask> James Finkelstein</s>
+org:founded_by
 no_relation
-<s>-LSB- includes rush transcript -RSB- Earlier this year Rosen wrote a cover story for the New York Time Sunday Magazine called `` The Flight from Iraq. ''the<mask> Rosen<mask><mask><mask>the<mask> New York Time Sunday Magazine</s>
-per:employee_of
+<s>He has served as a policy aide to the late U.S. Senator Alan Cranston, as National Issues Director for the 2004 presidential campaign of Congressman Dennis Kucinich, as a co-founder of Progressive Democrats of America and as a member of the international policy department at the RAND Corporation think tank before all that.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> He</s>
+org:founded_by
 no_relation
-<s>Parad's gang snatched Filipina Mary Jean Lacaba, Swiss national Andreas Notter and Italian Eugenio Vagni in January last year while they were on a Jolo humanitarian mission for the International Committee of the Red Cross.the<mask> Eugenio Vagni<mask><mask><mask>the<mask> International Committee of the Red Cross</s>
-per:employee_of
+<s>Cooper's brother, Richard, an entomologist he calls `` the god of bedbugs, '' had warned for years that they were returning and helped create BedBug Central, a company that sells `` boot camp '' training to pest control companies and produces regular `` BedBug TV '' Web casts on the latest woes.the<mask> BedBug Central<mask><mask><mask>the<mask> Richard</s>
+org:founded_by
 no_relation
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
-per:employee_of
+<s>`` Traffic seemed to follow a familiar pattern this year as retailers were blitzed early in the day by smart shoppers capitalizing on discounted merchandise, '' said Bill Marti, ShopperTrak co-founder.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Marti</s>
+org:founded_by
 no_relation
-<s>Nonetheless, he took the Stamford police test with a friend and passed ; he joined the department in 1985.the<mask> he<mask><mask><mask>the<mask> Stamford</s>
-per:employee_of
+<s>Nell Minow, founder of corporate governance watchdog The Corporate Library, said she still believes Schwarzman will pursue the IPO.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Earlier this year, Nir Rosen wrote a piece, a cover story for the New York Times Sunday Magazine, called `` The Flight from Iraq. ''the<mask> Nir Rosen<mask><mask><mask>the<mask> New York Times Sunday Magazine</s>
-per:employee_of
+<s>In malls, instead of wandering into a few stores like Gap, Forever 21, Victoria's Secret and Circuit City, they simply made a beeline to the one or two stores where they planned to spend their dollars, said Bill Martin, co - founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>The fact that the day after Christmas fell on a Sunday this year might have hurt sales a bit even where it didn't snow, ShopperTrak founder Bill Martin said, because of local laws that limit or ban Sunday hours in some places.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Nonetheless, he took the Stamford police test with a friend and passed ; he joined the department in 1985.the<mask> he<mask><mask><mask>the<mask> Stamford</s>
-per:employee_of
+<s>`` Because of this, procrastinating shoppers should have a wide array of good deals as retailers have extended sales and promotions to encourage folks to buy during this critical final weekend, '' said Bill Martin, co-founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Samudio met Bruno in 2009 at the home of a Flamengo teammate, according to Istoe magazine.the<mask> Samudio<mask><mask><mask>the<mask> Flamengo</s>
-per:employee_of
+<s>When she announced the creation of the Menil Collection in 1981, she infused fresh light and initiatives to the constants of scholarship, collecting and humanist enterprises at the heart of the foundation.the<mask> Menil Collection<mask><mask><mask>the<mask> she</s>
+org:founded_by
 no_relation
-<s>Miettinen hired for WPS champ Sky Blue FCthe<mask> Miettinen<mask><mask><mask>the<mask> Sky Blue FC</s>
-per:employee_of
+<s>UASR was founded in 1989 by Mousa abu Mazook < http://www.investigativeproject.org/profile/106 >, who currently serves as the Deputy Chief of the HAMAS political bureau in Damascus, Syria, and has been listed as a Specially Designated Global Terrorist by the US government in 1995.the<mask> UASR<mask><mask><mask>the<mask> Mousa</s>
+org:founded_by
 no_relation
-<s>The CEO whose actual pay was most out of line in the Crystal model was Cephalon Inc. founder Frank Baldino Jr., 56.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> Cephalon Inc.</s>
-per:employee_of
+<s>`` I see no indication whatsoever that the business community is paying any attention to the administration's suggestions, '' said Nell Minow, co-founder of the Corporate Library, an independent corporate governance research firm.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>His supporters met in a cultural centre in Treichville and were awaiting their leader, the one-time head of the `` Young Patriots '' movement.the<mask> His<mask><mask><mask>the<mask> `` Young Patriots</s>
-per:employee_of
+<s>Nell Minow, a founder of the Corporate Library, which rates the performance of boards, said `` high turnover at the sub-CEO level is always a risk factor. ''the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Miettinen hired for WPS champ Sky Blue FCthe<mask> Miettinen<mask><mask><mask>the<mask> WPS</s>
-per:employee_of
+<s>Countrywide Financial Corp co-founder Angelo Mozilo and two other former executives have agreed to pay tens of millions of dollars to avoid a trial on civil fraud and insider trading charges, a federal judge said in court Friday.the<mask> Countrywide Financial<mask><mask><mask>the<mask> Angelo Mozilo</s>
+org:founded_by
 no_relation
-<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> her<mask><mask><mask>the<mask> Halliburton</s>
-per:employee_of
+<s>... You can't have a good season unless it starts well, '' said Bill Martin, co-founder of ShopperTrak, on Saturday.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Xie was sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before his arrest.the<mask> his<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>TPI founder Prachai Leophairatana got three years behind bars for misleading the public about the valuation of subsidiary TPIPL's share prices when it was floated in 2003.the<mask> TPI<mask><mask><mask>the<mask> Prachai Leophairatana</s>
+org:founded_by
 no_relation
-<s>Wen Qiang, 55, former director of the Chongqing Municipal Judicial Bureau, was also accused of taking bribes, rape and owning huge amounts of money and assets he could not justify, heard the Chongqing Municipal Nothe<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Nell Minow, founder of corporate governance watchdog The Corporate Library, said she still believes Schwarzman will pursue the IPO.the<mask> Corporate Library<mask><mask><mask>the<mask> she</s>
+org:founded_by
 no_relation
-<s>Vagni was seized by the Abu Sayyaf militant group with ICRC colleagues Andreas Notter of Switzerland and Filipino Mary Jean Lacaba in January during a humanitarian mission on Jolo, a hotbed of militant activity.the<mask> Vagni<mask><mask><mask>the<mask> ICRC</s>
-per:employee_of
+<s>------ James Finkelstein, who founded Pluribus this year with George Green and Matthew Doull, will serve as e5's chairman.the<mask> Pluribus<mask><mask><mask>the<mask> James Finkelstein</s>
+org:founded_by
 no_relation
-<s>Cephalon lost 2 percent to $ 56.63 after it announced Frank Baldino Jr., the company's founder and chief executive officer, will take an immediate leave of absence for medical reasons.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> Cephalon</s>
-per:employee_of
+<s>`` This means the American shopper has adapted to the economic climate over the last couple of years and is possibly spending more wisely as the holiday season begins, '' said ShopperTrak founder Bill Martin.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>PROTECTING FREEDOMS IN ALBERTA An Article Prepared for `` Sightings '' Produced at the Martin Marty Centre, University of Chicago Divinity School by Wayne A. Holst -LRB- 750 words -RRB-the<mask> Wayne A. Holst<mask><mask><mask>the<mask> Martin Marty Centre</s>
-per:employee_of
+<s>`` Marie Antoinette could fit into this crowd without missing a beat, '' said Nell Minow, co-founder of the Corporate Library, which found in recent studies of several thousand US companies that more chief executives received club memberships than a year earlier, and companies paid more to cover executives'personal use of corporate planes.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>L. Todd Kelly, one of the lawyers representing Jones, said he spent 11 years in the Marines willing to die for the freedom in America.the<mask> he<mask><mask><mask>the<mask> America</s>
-per:employee_of
+<s>Bill Martin, co-founder of ShopperTrak, cautioned that Black Friday `` is just one day '' and said he was not changing his prediction for flat holiday sales this year.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> he<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>Countrywide Financial Corp. co-founder Angelo Mozilo and two other former executives have agreed to pay tens of millions of dollars to avoid a trial on civil fraud and insider trading charges, a federal judge said in court Friday.the<mask> Countrywide Financial Corp.<mask><mask><mask>the<mask> Angelo Mozilo</s>
+org:founded_by
 no_relation
-<s>His sister Patricia is the former attorney general of the Chihuahua state.the<mask> His<mask><mask><mask>the<mask> Chihuahua</s>
-per:employee_of
+<s>`` There's slight improvement but in a fundamental way, they still don't get it, '' said Nell Minow, co-founder of the Corporate Library.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>Miettinen coaches Helsinki's PK-35, which shares the lead in Finland's top women's football league, and becomes the third Sky Blue coach in two months.the<mask> Miettinen<mask><mask><mask>the<mask> Helsinki</s>
-per:employee_of
+<s>`` The holiday 2007 retail sales performance overwhelmingly proves the U.S. Consumer is resilient, '' ShopperTrak founder Bill Martin said in a statement.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>Why Jamie Leigh Jones < http://www.opednews.com/maxwrite/link.php?id=53740 > Can't Take Halliburton to Court Back in December, we learned the painful story of Jamie Leigh Jones, who says she was gang-raped by Halliburton/KBR coworkers in Baghdad.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Halliburton</s>
-per:employee_of
+<s>He has served as a policy aide to the late U.S. Senator Alan Cranston, as National Issues Director for the 2004 presidential campaign of Congressman Dennis Kucinich, as a co-founder of Progressive Democrats of America and as a member of the international policy department at the RAND Corporation think tank before all that.the<mask> Progressive Democrats of America<mask><mask><mask>the<mask> Dennis Kucinich</s>
+org:founded_by
 no_relation
-<s>Miettinen hired for WPS champ Sky Bluethe<mask> Miettinen<mask><mask><mask>the<mask> Sky Blue</s>
-per:employee_of
+<s>A few such well-publicized shareholder revolts could go a long way toward revamping compensation practices throughout corporate America, suggested Nell Minow, co-founder of the Corporate Library, the governance research group.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>According to a statement, those arrested were linked to fugitive mafia chief Matteo Messina Denaro, who is accused of seeking to reconstruct the Cosa Nostra's leadership.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
-per:employee_of
+<s>Fewer consumers hit the stores over the weekend, though Saturday sales were better than Sunday, said Bill Martin, a founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Packard</s>
-per:employee_of
+<s>`` He has been hideously overpaid for hideously bad performance, '' said Nell Minow, co-founder of the Corporate Library, which monitors corporate executives and boards.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>In 2002, Piedra and Blyskal sat on Miami's charter committee.the<mask> Piedra<mask><mask><mask>the<mask> Miami</s>
-per:employee_of
+<s>`` The discussion was surprisingly substantive, '' said Nell Minow, the co-founder of the Corporate Library.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
 no_relation
-<s>A municipal court in Chongqing convicted Xie Caiping -- sister-in-law of the former head of the city's judiciary, Wen Qiang -- of a series of crimes linked to the gambling syndicate, said the verdict, posted on the court's website.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
-per:employee_of
+<s>To get that approval, the organization agreed to a number of restrictions, some of which have aroused the ire of AIDS activists, including Larry Kramer, a co-founder of Gay Men's Health Crisis.the<mask> Gay Men's Health Crisis<mask><mask><mask>the<mask> Larry Kramer</s>
+org:founded_by
+no_relation
+<s>It traveled to Rice University, where de Menil and his wife, Dominique de Menil, who later founded the Menil Collection, ran the art museum.the<mask> Menil Collection<mask><mask><mask>the<mask> Dominique de Menil</s>
+org:founded_by
+no_relation
+<s>Nell Minow, the co-founder of the Corporate Library and a fierce proponent of executive compensation reform, didn't even think that was particularly likely.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
+no_relation
+<s>The son of a Bronx butcher, Mozilo started Countrywide in 1969 with David Loeb, who died in 2003 ; together the men built the company into a mortgage lending behemoth with $ 114 billion in revenue at its peak in 2006.the<mask> Countrywide<mask><mask><mask>the<mask> David Loeb</s>
+org:founded_by
+no_relation
+<s>The Barnes Review is a Holocaust denier magazine founded by Willis Carto who also founded the American Free Press and the Institute for Historical Review.the<mask> American Free Press<mask><mask><mask>the<mask> Willis Carto</s>
+org:founded_by
+no_relation
+<s>`` I 'd hope they do the same rigorous asset analysis on these jets that they do for every paper clip and every worker on the assembly line, '' said Nell Minow, co-founder of the Corporate Library, which researches governance issues.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
+no_relation
+<s>`` It's certainly a way of creating a new opportunity, '' said Jane Rosenthal, who co-founded Tribeca with Robert De Niro and her husband, entrepreneur Craig Hatkoff.the<mask> Tribeca<mask><mask><mask>the<mask> Robert De Niro</s>
+org:founded_by
+no_relation
+<s>Bill Martin, co-founder of ShopperTrak, cautioned that Black Friday `` is just one day '' and said he was not changing his prediction for flat holiday sales this year.the<mask> ShopperTrak<mask><mask><mask>the<mask> he</s>
+org:founded_by
+no_relation
+<s>`` We anticipated that the 2007 trend would continue and consumers would be willing to spend despite all of the economic pressures we've been hearing about heading into the season, '' said Bill Martin, co-founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
+no_relation
+<s>`` Mother Nature was very unkind to retailers on Saturday, '' said Bill Martin, co-founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
+no_relation
+<s>IndyMac was formed in 1985 by Countrywide founders Angelo R. Mozilo and David Loeb.the<mask> Countrywide<mask><mask><mask>the<mask> Angelo R. Mozilo</s>
+org:founded_by
+no_relation
+<s>`` It's certainly a way of creating a new opportunity, '' said Jane Rosenthal, who co-founded Tribeca with Robert De Niro and her husband, entrepreneur Craig Hatkoff.the<mask> Tribeca<mask><mask><mask>the<mask> Craig Hatkoff</s>
+org:founded_by
+no_relation
+<s>`` Retailers truly experienced what we've dubbed the ` perfect storm'over the last few weeks, with the financial markets melting down, the presidential election which typically slows retail traffic and relatively high gasoline prices -- all of which slowed both retail traffic and spending, '' said Bill Martin, co-founder of ShopperTrak.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
+no_relation
+<s>Nielsen said James Finkelstein, who founded Pluribus this year with George Green and Matthew Doull, will serve as e5's chairman.the<mask> Pluribus<mask><mask><mask>the<mask> Matthew Doull</s>
+org:founded_by
+no_relation
+<s>One possible explanation is the allure of big dollars for executives who strike big deals, said Nell Minow, editor and co - founder of The Corporate Library.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
+no_relation
+<s>This news comes from Karr Ingham, an economist who created the Texas Petro Index -LRB- TPI -RRB-, which is a service of the Texas Alliance of Energy Producers.the<mask> Texas Petro Index<mask><mask><mask>the<mask> Karr Ingham</s>
+org:founded_by
+no_relation
+<s>`` Marie Antoinette could fit into this crowd without missing a beat, '' said Nell Minow, co-founder of the Corporate Library, which found in recent studies of several thousand U.S. companies that more chief executives received club memberships than a year earlier, and companies paid more to cover executives'personal use of corporate planes.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
+no_relation
+<s>Federal regulators filed a civil fraud lawsuit Thursday against Countrywide Financial Corp co-founder Angelo Mozilo and two former associates.the<mask> Countrywide Financial<mask><mask><mask>the<mask> Angelo Mozilo</s>
+org:founded_by
+no_relation
+<s>`` The consumer is just tired '' of all the bad news, said Bill Martin, co-founder of ShopperTrak, based in Chicago.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
+no_relation
+<s>`` The irony is that the path he forged is now so well-established that the activities that got him in trouble are no longer necessary, '' Nell Minow, co-founder of the research firm Corporate Library, wrote in an e-mail message.the<mask> Corporate Library<mask><mask><mask>the<mask> Nell Minow</s>
+org:founded_by
+no_relation
+<s>`` Under these circumstances, to start off the season in this fashion is truly amazing and is a testament to the resiliency of the American consumer, and undeniably proves a willingness to spend, '' ShopperTrak co-founder Bill Martin said in a statement.the<mask> ShopperTrak<mask><mask><mask>the<mask> Bill Martin</s>
+org:founded_by
 no_relation

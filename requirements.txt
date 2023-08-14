@@ -1,5 +1,6 @@
 # gcc 8.2.0
 numpy==1.21.0
+pandas
 scikit-learn
 scipy
 torch==1.13.0
