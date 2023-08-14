@@ -8,10 +8,10 @@ def scale_pair(pair):
     return scaled_large, scaled_small
 
 def main():
-    baseline = np.array([ 80.8 , 90.1, 0])
+    baseline = np.array([ 81.1 , 90.4, 88.7])
     prob = 0.8
     
-    compare = np.array([( 88.30,  87.52 ), (92.44, 92.22), (88.30, 87.48)])
+    compare = np.array([( 71.9,  74.5 ), (68.9, 65.5), (66.7, 66.3)])
     
     scaled_compare = np.array([scale_pair(pair) for pair in compare])
     scaled_compare = scaled_compare[:, 1:]
