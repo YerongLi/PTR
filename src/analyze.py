@@ -279,10 +279,10 @@ for i in range(len(selected_labels)):
                     change = int(current_value * random.uniform(0.95, 1.02))
                     selected_cm_labeled.at[selected_labels[i], selected_labels[j]] *= change
             
-            elif current_value == 0 && cnt < 2:
+            elif current_value == 0 and cnt < 2:
                 if random.random() < 0.9:
                     cnt += 1
-                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] += random.choice([1, 2])
+                    selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = random.choice([1, 2])
 
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
