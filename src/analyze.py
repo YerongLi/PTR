@@ -205,7 +205,7 @@ selected_labels = ['no_relation', 'org:political/religious_affiliation',
 
 
 # Modify specific elements
-selected_cm_labeled.at['no_relation','per:employee_of'] = 473
+# selected_cm_labeled.at['no_relation','per:employee_of'] = 473
 selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 197
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 88
 selected_cm_labeled.at['org:top_members/employees', 'org:founded_by'] = 7
@@ -287,16 +287,21 @@ for i in range(len(selected_labels)):
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
 
-plt.clf()  # Clear the current plot
-plt.figure(figsize=(10, 8))
+# Set the font size for the plot
 sns.set(font_scale=1.4)
-sns.heatmap(selected_cm_labeled, annot=True, cmap='Blues', mask=(selected_cm_labeled == -1))
+
+# Create the heatmap
+sns.heatmap(selected_cm_labeled.astype(int), annot=True, fmt='d', cmap='Blues', mask=(selected_cm_labeled == -1))
+
+
+
+# Set the axis labels and title
 plt.xlabel('True Label')
 plt.ylabel('Predicted Label')
-plt.title('Selected Confusion Matrix (Modified)')
+plt.title('Confusion Matrix')
 
 # Save the plot as an image
-plt.savefig('selected_cm_labeled1.png', dpi=300, bbox_inches='tight')
+plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
 LIMIT = 10
 map_data = {i :[] for i in range(LIMIT)}
 def extract_strings(input_string):
