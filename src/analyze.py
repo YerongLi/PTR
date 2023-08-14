@@ -198,6 +198,8 @@ else:
 selected_cm_labeled.to_json('selected_cm_labeled.json')
 
 selected_labels = ['no_relation', 'org:political/religious_affiliation', 
+'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 
+'org:top_members/employees']     
 
 
 
