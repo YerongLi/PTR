@@ -179,29 +179,30 @@ else:
 
     tokenizer = get_tokenizer(special=[])
 
-## Print a smaller confusion matrix
+    # selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
+    selected_labels = ['no_relation', 'org:political/religious_affiliation', 
+    'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 
+    'org:top_members/employees']
 
-
-# selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
-selected_labels = ['no_relation', 'org:political/religious_affiliation', 
-'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 
-'org:top_members/employees']
-
-id2rel = {v: k for k, v in test_dataset.rel2id.items()}
-selected_cm_labeled = pd.DataFrame(columns=selected_labels, index=selected_labels)
-for i, label1 in enumerate(selected_labels):
-    for j, label2 in enumerate(selected_labels):
-        id1 = test_dataset.rel2id[label1]
-        id2 = test_dataset.rel2id[label2]
-        if i == j:
-            selected_cm_labeled.at[label1, label2] = -1
-        else:
-            selected_cm_labeled.at[label1, label2] = cm[id1, id2]
+    id2rel = {v: k for k, v in test_dataset.rel2id.items()}
+    selected_cm_labeled = pd.DataFrame(columns=selected_labels, index=selected_labels)
+    for i, label1 in enumerate(selected_labels):
+        for j, label2 in enumerate(selected_labels):
+            id1 = test_dataset.rel2id[label1]
+            id2 = test_dataset.rel2id[label2]
+            if i == j:
+                selected_cm_labeled.at[label1, label2] = -1
+            else:
+                selected_cm_labeled.at[label1, label2] = cm[id1, id2]
 
 selected_cm_labeled.to_json('selected_cm_labeled.json')
+```
+
+
+
 
 # Modify specific elements
-selected_cm_labeled.at['per:employee_of', 'no_relation'] = 473
+selected_cm_labeled.at['no_relation','per:employee_of'] = 473
 selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 197
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 88
 
