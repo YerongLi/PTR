@@ -1,270 +1,399 @@
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Lange</s>
+<s>Gonzalez is the brother of Patricia Gonzalez, who stepped down Oct. 3 as attorney general of the border state of Chihuahua when a new governor took office.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
 no_relation
-per:identity
-<s>Lawyers and prosecutors contended in court that, according to conversations secretly recorded during a visit by Mellas to her jailed daughter, Mellas indicated that Knox had already spoken during her first call home about a foot having been seen in Kercher's bedroom -- before the body was discovered.the<mask> her<mask><mask><mask>the<mask> Mellas</s>
+per:employee_of
+<s>Jim Edwards, the culinary director at Chef Central in Paramus and a close friend of Cerniglia's for the last seven years, said he thought his friend benefited from being on Ramsay's show.the<mask> he<mask><mask><mask>the<mask> Cerniglia</s>
 no_relation
-per:identity
-<s>`` I always told her you have to get rid of him, he's going to hurt somebody someday.the<mask> he<mask><mask><mask>the<mask> him</s>
+per:employee_of
+<s>Adela Dworin, head of the Jewish community in Havana, can boast of more than 10,000 volumes on Jewish literature at the Abraham Marcus Matterin communal library in the capital.the<mask> Adela Dworin<mask><mask><mask>the<mask> Havana</s>
 no_relation
-per:identity
-<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>Dubbed the `` Godmother '' by Chinese media, Xie reportedly drove a Mercedes-Benz, owned several luxury villas and kept a stable of 16 young men to provide her with sexual services.the<mask> her<mask><mask><mask>the<mask> Mercedes-Benz</s>
 no_relation
-per:identity
-<s>His troops have cornered Ouattara's shadow government in his former campaign headquarters, a luxury golf resort on the outskirts of the city protected by a cordon of 800 UN peacekeepers and supplied by helicopter.the<mask> His<mask><mask><mask>the<mask> Ouattara</s>
+per:employee_of
+<s>Ouattara's new United Nations ambassador Youssoufou Bamba further turned up the heat as he received his credentials from Secretary General Ban Ki-moon, warning : `` We are on the brink of genocide, something should be done. ''the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
-<s>`` If Sarkozy plans military intervention, he 'd better be ready to kill a lot of Ivorians, '' Ble Goude warned at his rally.the<mask> his<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>The US government has identified the man, 60-year-old Alan Gross, as a government contractor with Development Alternatives Inc -LRB- DAI -RRB- of Bethesda, Maryland, just outside Washington, who was seeking to help Jewish groups communicate with people outside the country by distributing mobile phones and computers.the<mask> Alan Gross<mask><mask><mask>the<mask> US</s>
 no_relation
-per:identity
-<s>According to Faraco and a friend of Samudio the footballer had threatened her during her pregnancy and demanded that she have an abortion.the<mask> her<mask><mask><mask>the<mask> Samudio</s>
+per:employee_of
+<s>`` Greed, '' by former New York Times reporter Charlie LeDuff, focuses on his hometown of Detroit -LRB- he now works for The Detroit News, presumably less villainous a player in the MSM -RRB-.the<mask> his<mask><mask><mask>the<mask> MSM</s>
 no_relation
-per:identity
-<s>In the end, his failure to manage his double game of keeping the Americans on his side and keep allowing the religious extremists to thrive may have proved his undoing, and left Pakistan in a more precarious position, Rashid said.the<mask> Rashid<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>Gonzalez, an attorney, was kidnapped from his office on Oct. 21 -- less than three weeks after his sister Patricia Gonzalez stepped down as Chihuahua state's attorney general due to a change of governor.the<mask> Gonzalez<mask><mask><mask>the<mask> Chihuahua</s>
 no_relation
-per:identity
-<s>She receives as many as 3,000 e-mails, letters and faxes weekly at Heloise central -- a ranch-style home and office on the city's North Side built by her husband, a contractor.the<mask> Heloise<mask><mask><mask>the<mask> her</s>
+per:employee_of
+<s>Ouattara's new United Nations ambassador Youssoufou Bamba meanwhile gave a stark warning as he received his credentials from UN Secretary-General Ban Ki-moon.the<mask> his<mask><mask><mask>the<mask> UN</s>
 no_relation
-per:identity
-<s>Arnold survives him, along with three children : James Bailey, her son from a previous relationship, whom Lange raised as his own ; William A. Lange ; and Joseph I. Lange.the<mask> his<mask><mask><mask>the<mask> Arnold</s>
+per:employee_of
+<s>There was one decision that might serve to lessen tension : Gbagbo's most notorious lieutenant, Youth Minister Charles Ble Goude, called off a major street rally that he had called for Wednesday.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
 no_relation
-per:identity
-<s>`` The first thing I thought about, being human, was that maybe it was a serial killer and maybe he has something out for preachers, but the Lord takes care of us, '' he said.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>A self-taught chef, Cerniglia worked for the famed New York-based Gallagher's Steakhouse chain for a decade, where he became the executive chef.the<mask> Cerniglia<mask><mask><mask>the<mask> Gallagher</s>
 no_relation
-per:identity
-<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Italy closing in on Cosa Nostra supremo : minister Italian authorities are closing in on Sicilian Mafia supremo Matteo Messina Denaro, Interior Minister Roberto Maroni said Monday as he announced the arrest of Denaro's brother and 18 associates.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Sicilian</s>
 no_relation
-per:identity
-<s>Ramsay asks him on the show.the<mask> him<mask><mask><mask>the<mask> Ramsay</s>
+per:employee_of
+<s>He is the owner of Steel Balls Press and is married to a woman 34 years his junior.the<mask> his<mask><mask><mask>the<mask> Steel Balls Press</s>
 no_relation
-per:identity
-<s>She receives as many as 3,000 e-mails, letters and faxes weekly at Heloise central -- a ranch-style home and office on the city's North Side built by her husband, a contractor.the<mask> her<mask><mask><mask>the<mask> Heloise</s>
+per:employee_of
+<s>Writing in the AFP, Christopher Bollyn made the claims that ZIM shipping suspiciously moved out of the WTC shortly before the attacks and that Benjamin Chertoff of Popular Mechanics is the cousin of Michael Chertoff, director of Homeland Security.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> Homeland Security</s>
 no_relation
-per:identity
-<s>Has He Gone The Way Of Fetzer, Realizing That The Only People Who Take Him Seriously Are Maroons And That He Can Just Say Anything As Long As He Says It Often Enough, And Keeps His Fingers In His Ears -LRB- and Blindfolds On His Eyes -RRB- And Just Ignores Any/all Common Sense And Scientific Evidence That Refutes His Nonsense?the<mask> His<mask><mask><mask>the<mask> Fetzer</s>
+per:employee_of
+<s>Alessi and Son Citgo Auto Care 4725 Harford Road Balto 21214 410-426-9090the<mask> Alessi<mask><mask><mask>the<mask> Citgo Auto Care</s>
 no_relation
-per:identity
-<s>Then, years later, she had to fight to get her back.the<mask> her<mask><mask><mask>the<mask> she</s>
+per:employee_of
+<s>Also in Mosul, U.S. soldiers shot and killed a civilian in a pickup truck who came too close to their convoy, policeman Ahmed Rashid said... 'the<mask> Ahmed Rashid<mask><mask><mask>the<mask> U.S.</s>
 no_relation
-per:identity
-<s>His most notorious lieutenant, youth minister and `` General of the Street '' Charles Ble Goude, urged his supporters to gather Wednesday next week in the centre of the city to defend Ivory Coast's sovereignty.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>At the top of the list is Matteo Messina Denaro, described by investigators as Cosa Nostra's top boss.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
 no_relation
-per:identity
-<s>Piedra testified he struggled to get his career going after graduating in 1998 from Tufts University School of Dental Medicine.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>The French said they believe Goude `` requires payment for all activities he undertakes on behalf of the Presidency and the FPI governing party. ''the<mask> he<mask><mask><mask>the<mask> FPI</s>
 no_relation
-per:identity
-<s>Here is the proof : Nir Rosen resigns after remarks about CBS reporter Lara Logan Rosen, a fellow reporter, has been forced to resign his position at NYU over comments he made regarding Logan.the<mask> Nir Rosen<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>Baluchistan, where he fought in the '60s and '70s, shares a border with Afghanistan, and in 1978 Rashid was in Kabul for the coup that put the Communists in power.the<mask> he<mask><mask><mask>the<mask> Baluchistan</s>
 no_relation
-per:identity
-<s>L. Todd Kelly, one of the lawyers representing Jones, said he spent 11 years in the Marines willing to die for the freedom in America.the<mask> he<mask><mask><mask>the<mask> L. Todd Kelly</s>
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> U.N.</s>
 no_relation
-per:identity
-<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee went berserk after Herold asked Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> her<mask><mask><mask>the<mask> Cuba</s>
 no_relation
-per:identity
-<s>Her attorney, Shiller Roi, was asked by the AP on Tuesday about Saint-Vil's assertion that she deceived the fellow Baptists she enlisted in her `` rescue mission. ''the<mask> she<mask><mask><mask>the<mask> Saint-Vil</s>
+per:employee_of
+<s>The whole thing reminded her of first husband Michael Lomax, whose run for Fulton County Commission in the late 1970s caused the opposition to put out handbills saying Lomax was the son-in-law of a black radical, Cleage says.the<mask> Michael Lomax<mask><mask><mask>the<mask> Fulton County Commission</s>
 no_relation
-per:identity
-<s>Asked whether police had hit her before she stated that the victim, Meredith `` Mez '' Kercher of Leeds, England, was raped before she was killed, she said `` yes. ''the<mask> she<mask><mask><mask>the<mask> she</s>
+per:employee_of
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison after a first-instance trial on Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> CHONGQING</s>
 no_relation
-per:identity
-<s>`` He starts bashing the passenger window, '' he said.the<mask> He<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>They seized Vagni and two other Red Cross in Jolo in January although the two others were released separately in April.the<mask> Vagni<mask><mask><mask>the<mask> Red Cross</s>
 no_relation
-per:identity
-<s>The head of the Salvadoran border police, Commissioner Jorge Callejas, said in a telephone interview that he was investigating accusations that a man with a Dominican passport that identified him as Jorge Anibal Torres Puello led a human trafficking ring that recruited Dominican women and under-age Nicaraguan girls by offering them jobs and then putting them to work as prostitutes in El Salvador.the<mask> him<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Italian Red Cross worker Eugenio Vagni was freed in the southern Philippine province of Sulu early Sunday, almost three months after he and his two colleagues were abducted by local militants, the military said.the<mask> his<mask><mask><mask>the<mask> Sulu</s>
 no_relation
-per:identity
-<s>Mignini, who is expected to make his sentencing request Saturday, said Knox had `` knowingly accused an innocent person. ''the<mask> his<mask><mask><mask>the<mask> Knox</s>
+per:employee_of
+<s>Among them were Wen Qiang, former deputy director of Chongqing's public security department ; Peng Changjian, former vice director of Chongqing's public security department ; Zhang Tao, former deputy head of Chongqing's higher court ; Mao Jianping, former deputy chief procurator of a branch of Chongqing People's Procuratorate.the<mask> Wen Qiang<mask><mask><mask>the<mask> public security department</s>
 no_relation
-per:identity
-<s>Dylan Avery posted this message from Korey on his Facebook earlier today :the<mask> his<mask><mask><mask>the<mask> Korey</s>
+per:employee_of
+<s>Richard Gage, AIA Debates Explosives Expert on Monthe<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
 no_relation
-per:identity
-<s>`` The first thing I thought about, being human, was that maybe it was a serial killer and maybe he has something out for preachers, but the Lord takes care of us, '' he said.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>LAHORE, Pakistan, Nov 11, 2010 -LRB- AFP -RRB- Asia Bibi, 45, was sentenced Monday by a local court in Nankana district in Pakistan's central province Punjab, about 75 kilometres -LRB- 47 miles -RRB- west of the country's cultural capital of Lahore.the<mask> Asia Bibi<mask><mask><mask>the<mask> Punjab</s>
 no_relation
-per:identity
-<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> Daniels<mask><mask><mask>the<mask> her</s>
+per:employee_of
+<s>Enter Heloise, the syndicated columnist and dispenser of practical household advice who goes by only one name, even on her American Express card.the<mask> Heloise<mask><mask><mask>the<mask> American Express</s>
 no_relation
-per:identity
-<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> he<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>Her brother-in-law, Wen, served as a top Chongqing police official for 16 years before taking over the city's judiciary.the<mask> Her<mask><mask><mask>the<mask> Chongqing</s>
 no_relation
-per:identity
-<s>`` But I would be wary of saying he was behind the kidnapping and murder of the Polish engineer, '' he added.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>The documents allowed Messina Denaro to come out of his hideout and travel abroad, investigators say, including in Venezuela for his business in drug trafficking.the<mask> his<mask><mask><mask>the<mask> drug trafficking</s>
 no_relation
-per:identity
-<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> He<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Ali Mokhtare, who is still employed by the State Department, was investigated in 2005 after a female Halliburton/KBR employee said he sexually assaulted her at the company-run camp in Basra, Iraq.the<mask> her<mask><mask><mask>the<mask> State Department</s>
 no_relation
-per:identity
-<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> her<mask><mask><mask>the<mask> Daniels</s>
+per:employee_of
+<s>I wish everyone in the U.S. and allied armed forces, Korey Rowe included -LRB- if he IS included -RRB- a safe return, and success in their mission.the<mask> Korey Rowe<mask><mask><mask>the<mask> U.S.</s>
 no_relation
-per:identity
-<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Two of Jupp's managers at the government's military science service -- the Defense, Scientific and Technology Laboratory -- were charged with manslaughter following an inquiry into the blast.the<mask> Jupp<mask><mask><mask>the<mask> Scientific and Technology Laboratory</s>
 no_relation
-per:identity
-<s>AJ - complete psychopath, mentally ill DRG - weasel and snake oil salesmen of the nth degree Fetzer - Loony toons SJ - ignorant of facts, and morally compromising for the sake of his argument.the<mask> his<mask><mask><mask>the<mask> Fetzer</s>
+per:employee_of
+<s>The second half consisted of the traditional round-table analysis by a trio of familiar faces : journalist George Will, political strategist Donna Brazile and economist Paul Krugman, along with Pakistani journalist and Taliban expert Ahmed Rashid, from Madrid.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
 no_relation
-per:identity
-<s>One lawyer for the families said that Puello had told him that he was licensed to practice law in Florida, but the lawyer said he had checked and found no such record.the<mask> him<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Youssoufou Bamba, the Ouattara government's first officially recognized envoy, said after presenting his credentials Wednesday in New York that he appealed to Secretary - General Ban Ki-moon for action by U.N. peacekeepers to stop what he called `` massive violations of human rights. ''the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
-<s>The fund's spokesman Konstantin Kruglyansky told the LifeNews daily that his family has demanded an investigation into his death.the<mask> his<mask><mask><mask>the<mask> Konstantin Kruglyansky</s>
+per:employee_of
+<s>During the 1980s he received fully 90 % the CIA-supplied funds doled out via Pakistan's Inter-Service Intelligence -LRB- ISI -RRB- to the Mujahadeen Islamic warriors -LRB- see Ahmed Rashid, Taliban -LSB- Yale University Press, 2000 -RSB-, p. 91 -RRB-.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
 no_relation
-per:identity
-<s>It was a special occasion that called for Mulrenan and Heloise's on-call makeup expert John McBurney, and a rack of clothes we pulled from local stores -- looks she loved but said she never would have picked for herself because the outfits were different from what she's accustomed to wearing.the<mask> she<mask><mask><mask>the<mask> Mulrenan</s>
+per:employee_of
+<s>Letter from Havana : There is only one kosher butcher in Cuba, but if community president Adela Dworin knows her community -- and she does -- there is also only one Jew in the country who buys kosher meat.the<mask> she<mask><mask><mask>the<mask> Cuba</s>
 no_relation
-per:identity
-<s>Herold's attorney has called the attack work-related -- Nash worked for Herold and the animal played a promotional role in Herold's tow-truck business -- and said her family's case should be treated like a workers'compensation claim.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>The new minister of youth is Charles Ble Goude, who is the subject of a 2006 United Nations sanction for his role in inciting the Young Patriots, a pro-Gbagbo group that led violent attacks against foreigners, especially French citizens.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Young Patriots</s>
 no_relation
-per:identity
-<s>Mukamal discovered Piedra's many entanglements with Scientologists and Scientology his relationship with MGE, the staff he brought in from Kansas City, the steady flow of his money into Scientology organizations.the<mask> Piedra<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Nevertheless the creative midfielder Chen Tao, who showed shinning form in the Toulon Cup are missing from the list.the<mask> Chen Tao<mask><mask><mask>the<mask> Toulon</s>
 no_relation
-per:identity
-<s>Denaro said he fears that could lead to Kauffmann's extradition back to Venezuela, where he is considered a political enemy.the<mask> he<mask><mask><mask>the<mask> Denaro</s>
+per:employee_of
+<s>He said that Flamengo goalkeeper Bruno Fernandes de Sousa is suspected, along with two friends, of having beaten Samudio to death and hidden her body.the<mask> her<mask><mask><mask>the<mask> Flamengo</s>
 no_relation
-per:identity
-<s>According to Faraco and a friend of Samudio, Bruno had threatened her during her pregnancy and demanded that she have an abortion.the<mask> Samudio<mask><mask><mask>the<mask> she</s>
+per:employee_of
+<s>`` The constitution is the basic law, '' said Charles Ble Goude, who was named as Gbagbo's choice for minister of youth, professional education and employment.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
 no_relation
-per:identity
-<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> he<mask><mask><mask>the<mask> He</s>
+per:employee_of
+<s>MGE never mentioned Scientology to Piedra or suggested he join the church, he said in his deposition.the<mask> his<mask><mask><mask>the<mask> MGE</s>
 no_relation
-per:identity
-<s>The chimpanzee named Travis went berserk when his owner asked Nash to help lure him back into her house in Stamford, Connecticut.the<mask> her<mask><mask><mask>the<mask> Nash</s>
+per:employee_of
+<s>Ble Goude is Gbagbo's minister of youth and employment, known as the `` street general '' for organizing a violent anti-French and anti-U.N. gang that terrorized the foreign population in Ivory Coast in 2004-2005.the<mask> Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
 no_relation
-per:identity
-<s>Nash said she told Herold eight or 10 times he was dangerous.the<mask> he<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>`` The Afghans see this as an undermining of their -LRB- peace -RRB- initiative, '' said Ahmed Rashid, a Pakistani expert on the Taliban.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
 no_relation
-per:identity
-<s>In testimony at Marshall's trial this year, Looking Cloud acknowledged standing nearby as Graham shot Aquash, then taking the gun from him and firing all the bullets in a different direction.the<mask> Aquash<mask><mask><mask>the<mask> him</s>
+per:employee_of
+<s>Dr Frank Baldino Jr who founded the pharmaceutical company Cephalon, best known for the drug Provigil, which is used to increase alertness, died Thursday in Philadelphia.the<mask> Dr Frank Baldino Jr<mask><mask><mask>the<mask> Cephalon</s>
 no_relation
-per:identity
-<s>The chimp seemed as surprised that he had opened the door as Chiafari, who was pinned in his seat by a computer console and again drawing his pistol.the<mask> Chiafari<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>But the new Ivory Coast ambassador to the United Nations, Youssoufou Bamba, said Wednesday that his country was `` on the brink of genocide '' and called for UN action.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> UN</s>
 no_relation
-per:identity
-<s>The player allegedly invited Samudio to his home in the interior of Minas Gerais.the<mask> his<mask><mask><mask>the<mask> Samudio</s>
+per:employee_of
+<s>Investigators said that with Tuesday's arrests they are closing in on Matteo Messina Denaro, a fugitive who is among a handful of mobsters vying to take over the Sicilian Mafia.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Sicilian Mafia</s>
 no_relation
-per:identity
-<s>While he was at Berkeley as a Packard fellow, Lange met another Packard fellow, Frances Arnold, a chemical engineer, who had attended Princeton and Berkeley when he did, but whom he had never met before then.the<mask> he<mask><mask><mask>the<mask> Lange</s>
+per:employee_of
+<s>Nir Rosen in the Asia Times gives an overview of the current state of play with regard to the militant Shiite movement of Muqtada al-Sadr.the<mask> Nir Rosen<mask><mask><mask>the<mask> Asia Times</s>
 no_relation
-per:identity
-<s>`` I always told her you have to get rid of him, he's going to hurt somebody someday.the<mask> him<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> he<mask><mask><mask>the<mask> NavTeq</s>
 no_relation
-per:identity
-<s>Welcoming Vagni's release, Italian Foreign Minister Franco Frattini said his freeing was not the result of military action, which his government had rejected.the<mask> his<mask><mask><mask>the<mask> Franco Frattini</s>
+per:employee_of
+<s>Prosecutors say Lo Piccolo, who is from Palermo, was vying to become Cosa Nostra's unchallenged top boss, pitted against another fugitive, Matteo Messina Denaro, a younger boss from the city of Trapani, in western Sicily.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
 no_relation
-per:identity
-<s>After problems delayed her treatment, Piedra said she needed $ 3,500 in other work before the braces could be finished.the<mask> Piedra<mask><mask><mask>the<mask> her</s>
+per:employee_of
+<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> he<mask><mask><mask>the<mask> China</s>
 no_relation
-per:identity
-<s>Jones is precluded from filing a civil lawsuit against Halliburton/KBR because she unwittingly signed away that right in her employment contract.the<mask> she<mask><mask><mask>the<mask> Jones</s>
+per:employee_of
+<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
 no_relation
-per:identity
-<s>The 200-pound -LRB- 91-kilogram -RRB- chimpanzee went berserk in February after Herold asked victim Charla Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>This year for the 9th anniversary of the 9/11 attacks, Craig Ranke, co-founder of Citizen Investigation Team -LRB- CIT -RRB-, will be screening their presentation National Security Alert throughout France and other locations in Europe.the<mask> Craig Ranke<mask><mask><mask>the<mask> CIT</s>
 no_relation
-per:identity
-<s>Michael S. Turner, a cosmologist at the University of Chicago, said of Lange, `` He and his Boomerang team got one of the biggest prizes in cosmology : They were the first to show that the geometry of the universe is flat. ''the<mask> He<mask><mask><mask>the<mask> Lange</s>
+per:employee_of
+<s>`` This is the way the information is going, '' said Alessi, who is chief of neurology at the William W. Backus Hospital in Norwich, Conn. `` We need to take this study very seriously. ''the<mask> Alessi<mask><mask><mask>the<mask> Norwich</s>
 no_relation
-per:identity
-<s>`` But I would be wary of saying he was behind the kidnapping and murder of the Polish engineer, '' he added.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Against this background, Ouattara's new United Nations ambassador Youssoufou Bamba gave a stark warning Wednesday as he received his credentials from UN Secretary-General Ban Ki-moon in New York.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
-<s>Herold owned a 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis who went berserk in February 2009 after Herold asked her friend, Charla Nash, to help lure it back into her house in Stamford.the<mask> her<mask><mask><mask>the<mask> Herold</s>
+per:employee_of
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> CHONGQING</s>
 no_relation
-per:identity
-<s>He last saw him three weeks ago and said Cerniglia seemed his cheerful self.the<mask> Cerniglia<mask><mask><mask>the<mask> him</s>
+per:employee_of
+<s>The whole thing reminded her of first husband Michael Lomax, whose run for Fulton County Commission in the late 1970s caused the opposition to put out handbills saying Lomax was the son-in-law of a black radical, Cleage says.the<mask> Lomax<mask><mask><mask>the<mask> Fulton County Commission</s>
 no_relation
-per:identity
-<s>Lumumba, who had to close his bar as a result, is now `` having a hard time of it, '' his lawyer Carlo Pacelli told AFP, adding that his client worked the occasional odd job at the University of Foreigners which Knox and Kercher attended.the<mask> his<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>In Taliban, Rashid provided even more historical detail : `` When Bhutto was elected as Prime Minister in 1993, she was keen to open a route to Central Asia.the<mask> Rashid<mask><mask><mask>the<mask> Taliban</s>
 no_relation
-per:identity
-<s>Charles Ble Goude reportedly said that Alassane Ouattara, whom the United Nations declared the winner of the Nov. 28 vote, and his prime minister `` have until January 1, 2011 to pack their bags and leave the Golf Hotel. ''the<mask> his<mask><mask><mask>the<mask> Alassane Ouattara</s>
+per:employee_of
+<s>Internationally acclaimed 9/11 speaker and architect Richard Gage, AIA, will present the evidence of the explosive destruction of the three World Trade Center skyscrapers on 9/11the<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
 no_relation
-per:identity
-<s>Murphy suggested Graham's reactions stemmed from fear and he questioned why the agents didn't record the conversation.the<mask> Graham<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>She remains in stable condition at the Cleveland Clinic in Ohio.the<mask> She<mask><mask><mask>the<mask> Cleveland Clinic</s>
 no_relation
-per:identity
-<s>Whatever does happen to Beauchamps, will likely happen to Rowe as well if he doesn't keep his head down and his Osama-Approved Al-Queada -LSB- rule8 -RSB- holster shut.the<mask> his<mask><mask><mask>the<mask> Beauchamps</s>
+per:employee_of
+<s>Alassane Ouattara, the UN recognized president, is based at the Golf Hotel in Abidjan and Gbagbo's Minister for Youth Charles Ble Goude has urged followers to storm the hotel on Saturday.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> UN</s>
 no_relation
-per:identity
-<s>Because his word was good, Piedra told her.the<mask> his<mask><mask><mask>the<mask> Piedra</s>
+per:employee_of
+<s>On Wednesday, Ouattara's newly appointed U.N. envoy, Youssoufou Bamba, said that the country is on the `` brink of genocide, '' citing reports that pro-Gbagbo gangs have been marking the homes of members of ethnic groups allied with Ouattara.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
-<s>The 200-pound -LRB- 90-kilogram -RRB- chimpanzee named Travis went berserk in February when his owner asked Nash to help lure him back into her house.the<mask> her<mask><mask><mask>the<mask> Nash</s>
+per:employee_of
+<s>In December, they said, he was on a follow-up trip for Development Alternatives Inc, a contractor working with the US Agency for International Development.the<mask> he<mask><mask><mask>the<mask> Development Alternatives Inc</s>
 no_relation
-per:identity
-<s>She repeatedly phoned his staff pleading they send her the $ 8,600.the<mask> his<mask><mask><mask>the<mask> She</s>
+per:employee_of
+<s>Prosecutors said investigations showed Wen had abused his power by offering benefits to others and accepted huge bribes personally or with his wife Zhou Xiaoya when he served in a series of Communist Party of China and administrative posts at the Public Security Bureau of Chongqing.the<mask> Wen<mask><mask><mask>the<mask> China</s>
 no_relation
-per:identity
-<s>The next day, Halliburton told her that if she left Iraq to get medical treatment, she could lose her job.1 Jamie's story gets even more horrific : For the last two years, she's been asking the US government to hold the perpetrators accountable.the<mask> her<mask><mask><mask>the<mask> Jamie</s>
+per:employee_of
+<s>`` The campaign waged by some politicians and parts of the media -- with underlying pressure from the army -- is all about trying to build public opinion to make Mr Zardari's tenure untenable, '' he wrote on the BBC website.the<mask> he<mask><mask><mask>the<mask> BBC</s>
 no_relation
-per:identity
-<s>Ali Mokhtare, who is still employed by the State Department, was investigated in 2005 after a female Halliburton/KBR employee said he sexually assaulted her at the company-run camp in Basra, Iraq.the<mask> her<mask><mask><mask>the<mask> Ali Mokhtare</s>
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as UN envoy for Alassane Ouattara's government.the<mask> Youssoufou Bamba<mask><mask><mask>the<mask> UN</s>
 no_relation
-per:identity
-<s>Salaam, represented by Kunstler at sentencing and in his unsuccessful appeals, got a seven-year term.the<mask> Kunstler<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>The animal chewed off Nash's hands, nose, lips and eyelids ; she remains in stable condition at the Cleveland Clinic in Ohio.the<mask> she<mask><mask><mask>the<mask> Cleveland Clinic</s>
 no_relation
-per:identity
-<s>Among the macabre details divulged by police : they believe Bruno was in a home near Belo Horizonte home with Samudio last month at the time of her murder, and that her body was later cut into pieces, some of which were fed to dogs in a bid to cover the murder.the<mask> her<mask><mask><mask>the<mask> Bruno</s>
+per:employee_of
+<s>In the video, Mario Gonzalez, answering questions posed by a man off camera, says his sister protected La Linea, a street gang tied to the Juarez cartel, and that he acted as the liaison between the gang and attorney general's office, collecting payoffs.the<mask> he<mask><mask><mask>the<mask> La Linea</s>
 no_relation
-per:identity
-<s>Then of course he brings out the `` usual suspects '' such as David Duke, who although he is racist, he is also quite on target with regards to pointing out the obvious racism of Zionist Jews who support the Jewish supremacist state of Israel which is NOT a real democracy, not by a long shot.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>Xie was the sister-in-law of Wen Qiang, formerly the second in command of the Chongqing police and director of the justice bureau before he was arrested.the<mask> Wen Qiang<mask><mask><mask>the<mask> justice bureau</s>
 no_relation
-per:identity
-<s>The fund's spokesman Konstantin Kruglyansky told the LifeNews daily that his family has demanded an investigation into his death.the<mask> his<mask><mask><mask>the<mask> Konstantin Kruglyansky</s>
+per:employee_of
+<s>But Wen's lavish tastes were nothing compared with the carnal appetites of his sister-in-law, Xie Caiping, known as `` the godmother of the Chongqing underworld. ''the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
 no_relation
-per:identity
-<s>Meredith Kercher's family are suing for 25 million euros -LRB- 37 million dollars -RRB- from accused Amanda Knox, her Italian boyfriend and an Ivorian drifter over the British exchange student's death on November 1, 2007.the<mask> her<mask><mask><mask>the<mask> Meredith Kercher</s>
+per:employee_of
+<s>Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison after a first-instance trial on Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
 no_relation
-per:identity
+per:employee_of
+<s>Wen was accused of protecting the gang operations masterminded by his sister-in-law, Xie Caiping, 46, known as the `` godmother '' of the Chongqing underworld.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
+no_relation
+per:employee_of
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> He<mask><mask><mask>the<mask> NavTeq</s>
+no_relation
+per:employee_of
+<s>Mark Fisher, Dayton Daily News.the<mask> Mark Fisher<mask><mask><mask>the<mask> Dayton Daily News</s>
+no_relation
+per:employee_of
+<s>The country is suffering enormously from the Pakistani Taliban, and this may be a way to get off the hook, '' said Ahmed Rashid, a Lahore-based expert on the Taliban and on Afghanistan-Pakistan relations.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
+no_relation
+per:employee_of
+<s>I would also suggest he not use Benjamin Chertoff as a source, as he is the cousin of the Department of Homeland Security, a one Michael Chertoff, as it also takes away from his otherwise very credible and well researched views on the collapse of the World Trade Center.the<mask> Benjamin Chertoff<mask><mask><mask>the<mask> Department of Homeland Security</s>
+no_relation
+per:employee_of
+<s>Oscar winning film and theatre director Stephen Daldry was appointed as the executive producer of creative, Beijing 2008 Games designer Mark Fisher as the executive producer of design, Grammy and BAFTA award nominated TV director Hamish Hamilton as the executive producer of broadcast and producer for the 2006 Doha Asian Games in Doha Catherine Ugwu as the executive producer of production.the<mask> Mark Fisher<mask><mask><mask>the<mask> BAFTA</s>
+no_relation
+per:employee_of
+<s>Police have released scant information about the killing of 61-year-old Carol Daniels, whose body was found Sunday inside the Christ Holy Sanctified Church, a weather-beaten building on a rundown block near downtown Anadarko.the<mask> Carol Daniels<mask><mask><mask>the<mask> Christ Holy Sanctified Church</s>
+no_relation
+per:employee_of
+<s>Richard Gage, AIA Debates Explosives Expert on Mon., 11/12, 8:00 PM PSTthe<mask> Richard Gage<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>Chaos and violence continue, the US military announces another death, Jamie Leigh Jones testified yesterday but look who can't cover it, the refugee crisis continues and more.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> US</s>
+no_relation
+per:employee_of
+<s>`` I think it is very dangerous to start talking about exit strategies at this particular point in time when the West is seen to be losing and the perception is the Taliban is winning, '' said Ahmed Rashid, an expert on the Taliban who has advised Obama on Afghanistan and Pakistan.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
+no_relation
+per:employee_of
+<s>Miettinen hired for WPS champ Sky Bluethe<mask> Miettinen<mask><mask><mask>the<mask> WPS</s>
+no_relation
+per:employee_of
+<s>Ble Goude is Gbagbo's minister of youth and employment, known as the `` street general '' for organizing a violent anti-French and anti-U.N. gang that terrorized the foreign population in Ivory Coast in 2004-2005.the<mask> Ble Goude<mask><mask><mask>the<mask> Ivory Coast</s>
+no_relation
+per:employee_of
+<s>Gbagbo's minister of youth and employment, Charles Ble Goude, who remains under U.N. sanctions for inciting violence against foreigners and the U.N., had called for the mass gathering but canceled it.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
+no_relation
+per:employee_of
+<s>Conversation with Richard Gage, AIA, found of Architects & Engineers for 9/11 Truth and excerpts from his remarkable lecture on the demolition of the Twin Towers and WTC Building 7.the<mask> his<mask><mask><mask>the<mask> AIA</s>
+no_relation
+per:employee_of
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> He<mask><mask><mask>the<mask> Trimble</s>
+no_relation
+per:employee_of
+<s>Dr. Frank Baldino Jr. who founded the pharmaceutical company Cephalon, best known for the drug Provigil, which is used to increase alertness, died Thursday in Philadelphia.the<mask> Frank Baldino Jr.<mask><mask><mask>the<mask> Cephalon</s>
+no_relation
+per:employee_of
+<s>Jones began working for KBR as an administrative assistant in 2004 when she was 19, but later transferred to Iraq with another Halliburton subsidiary, according to her lawsuit.the<mask> she<mask><mask><mask>the<mask> Halliburton</s>
+no_relation
+per:employee_of
+<s>`` There is a postponement to give ongoing diplomacy a chance, '' Charles Ble Goude, minister for youth in Gbagbo's unrecognised government, told AFP.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
+no_relation
+per:employee_of
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
+no_relation
+per:employee_of
+<s>He is the owner of Steel Balls Press and is married to a woman 34 years his junior.the<mask> He<mask><mask><mask>the<mask> Steel Balls Press</s>
+no_relation
+per:employee_of
+<s>Robert Ecoffey, a former U.S. marshal, testified against John Graham, who's accused of shooting Annie Mae Aquash, who was also Canadian, and leaving her to die on South Dakota's Pine Ridge reservation.the<mask> John Graham<mask><mask><mask>the<mask> U.S.</s>
+no_relation
+per:employee_of
+<s>A self-taught chef, Cerniglia worked for the famed New York-based Gallagher's Steakhouse chain for a decade, where he became the executive chef.the<mask> he<mask><mask><mask>the<mask> Gallagher</s>
+no_relation
+per:employee_of
+<s>Tim will assume leadership of a very talented team of NBA employees based in China including Mark Fisher, who will be promoted to Senior Vice President, '' said Heidi Ueberroth, NBA President of Global Marketing Partnerships and International Business Operations.the<mask> Mark Fisher<mask><mask><mask>the<mask> International Business Operations</s>
+no_relation
+per:employee_of
+<s>Jorge Puello began identifying himself as the `` newly elected president of the Jewish Communities of Dominican Republic '' in a Jewish newsletter and elsewhere even though he was never elected to any such role and had no congregation.the<mask> he<mask><mask><mask>the<mask> Dominican Republic</s>
+no_relation
+per:employee_of
+<s>She filed a federal lawsuit in May against Halliburton Co., its former subsidiary, KBR Inc., and others claiming she was raped by co-workers while working for a Halliburton subsidiary at Camp Hope, Baghdad, in 2005.the<mask> She<mask><mask><mask>the<mask> KBR Inc.</s>
+no_relation
+per:employee_of
+<s>`` At one point we were down to about 800 Jews in Cuba but now it's back to about 1,500, '' said Dworin, a cheerful, intelligent woman who speaks perfect English and serves as president of Cuba's Jewish Community.the<mask> Dworin<mask><mask><mask>the<mask> Cuba</s>
+no_relation
+per:employee_of
+<s>He is now Gbagbo's powerful minister for youth and seems to be preparing for a showdown.the<mask> He<mask><mask><mask>the<mask> Gbagbo</s>
+no_relation
+per:employee_of
+<s>Another female employee of Halliburton says she was raped by her co-workers in Iraq.4 Employees of Blackwater, another private contracting firm in Iraq, were accused of killing innocent Iraqi civilians, and that incident turned into an international scandal.the<mask> her<mask><mask><mask>the<mask> Blackwater</s>
+no_relation
+per:employee_of
+<s>Arturo Valenzuela, the US assistant secretary of state for Western hemisphere affairs, appealed for the release of Alan Gross when he talked with Rodriguez on the sidelines of the UN General Assembly, State Department spokesman Philip Crowley said.the<mask> he<mask><mask><mask>the<mask> State Department</s>
+no_relation
+per:employee_of
+<s>Samudio's lawyer Anne Faraco claimed that Bruno had offered her client a monthly allowance of 3,500 reais -LRB- 1,900 dollars -RRB-, but she had been demanding more - angering the footballer.the<mask> she<mask><mask><mask>the<mask> Samudio</s>
+no_relation
+per:employee_of
+<s>State media reports have especially shone the spotlight on Xie, who reportedly drove a Mercedes-Benz, owned several luxury villas and kept a stable of 16 young men to provide her with sexual services.the<mask> her<mask><mask><mask>the<mask> Mercedes-Benz</s>
+no_relation
+per:employee_of
+<s>Political showman and faction leader Ble Goude is now Gbagbo's minister for youth and employment, but he is best known for stoking bloody anti-French riots in 2004, a role which saw him placed under United Nations sanctions.the<mask> Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
+no_relation
+per:employee_of
+<s>is usually up to the task of doing this by presenting such guests as independent journalists Dahr Jamail, Nir Rosen, Robert Fisk, et al, with viewpoints not being seen and heard on the corporate airwaves.the<mask> Nir Rosen<mask><mask><mask>the<mask> independent</s>
+no_relation
+per:employee_of
+<s>Football : Finland's Miettinen takes over US women's champsthe<mask> Miettinen<mask><mask><mask>the<mask> US</s>
+no_relation
+per:employee_of
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> China</s>
+no_relation
+per:employee_of
+<s>Moreno-Ocampo has said he would bring charges against anyone who attacks UN peacekeepers or incites atrocities in Ivory Coast, singling out Gbagbo ally Charles Ble Goude who he said risked inciting atrocities through his hardline messages to supporters.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
+no_relation
+per:employee_of
+<s>I dared him to come over to JREF from the SLC blog.the<mask> him<mask><mask><mask>the<mask> SLC</s>
+no_relation
+per:employee_of
+<s>Messina Denaro has been trying to impose his power in Palermo, the Sicilian capital, and become the new head of the Sicilian Mafia, weakened by the arrest of Provenzano in April 2006.the<mask> Messina Denaro<mask><mask><mask>the<mask> Sicilian Mafia</s>
+no_relation
+per:employee_of
+<s>Career diplomat Youssoufou Bamba on Wednesday presented Ban with his credentials as U.N. envoy for Alassane Ouattara's government.the<mask> his<mask><mask><mask>the<mask> U.N.</s>
+no_relation
+per:employee_of
 <s>Ouattara's new United Nations ambassador Youssoufou Bamba further turned up the heat as he received his credentials from Secretary General Ban Ki-moon, warning : `` We are on the brink of genocide, something should be done. ''the<mask> he<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
+per:employee_of
 <s>Against this background, Ouattara's new United Nations ambassador Youssoufou Bamba gave a stark warning Wednesday as he received his credentials from UN Secretary-General Ban Ki-moon in New York.the<mask> his<mask><mask><mask>the<mask> Ouattara</s>
 no_relation
-per:identity
-<s>`` I consider him a victim, '' he said.the<mask> him<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>China earlier this month executed Wen Qiang, a former top Chongqing police and justice official at the centre of the scandal.the<mask> Wen Qiang<mask><mask><mask>the<mask> Chongqing</s>
 no_relation
-per:identity
-<s>One lawyer for the families said that Puello had told him that he was licensed to practice law in Florida, but the lawyer said he had checked and found no such record.the<mask> he<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>ABN Amro announced Thursday that it will nominate Royal Bank of Scotland -LRB- RBS -RRB- executive Mark Fisher as its new chairman, following the takeover of the Dutch lender by the RBS-led consortium.the<mask> Mark Fisher<mask><mask><mask>the<mask> ABN Amro</s>
 no_relation
-per:identity
-<s>The Dutch newspaper Brabants Dagblad said he was probably from Tilburg in the southern Netherlands and that he had been on safari in South Africa with his mother Trudy, 41, father Patrick, 40, and brother Enzo, 11.the<mask> his<mask><mask><mask>the<mask> Brabants Dagblad</s>
+per:employee_of
+<s>In a federal lawsuit, Jamie Leigh Jones says she was drugged, raped and held against her will in a storage locker while working for KBR Inc., then a subsidiary of Halliburton Co., in 2005.the<mask> Jamie Leigh Jones<mask><mask><mask>the<mask> Halliburton Co.</s>
 no_relation
-per:identity
-<s>Herold's attorney has called the attack work-related -- Nash worked for Herold and the animal played a promotional role in Herold's tow-truck business -- and said her family's case should be treated like a workers'compensation claim.the<mask> her<mask><mask><mask>the<mask> Nash</s>
+per:employee_of
+<s>The Trapani investigation is part of a larger government strategy targeting people investigators consider to be linked to a new leader of Cosa Nostra, Matteo Messina Denaro.the<mask> Matteo Messina Denaro<mask><mask><mask>the<mask> Cosa Nostra</s>
 no_relation
-per:identity
-<s>`` He's really shown himself to be completely trustworthy, and I truly believe he has done everything to help our people and to help us, '' he said in a telephone interview from Idaho.the<mask> He<mask><mask><mask>the<mask> he</s>
+per:employee_of
+<s>The head of the Salvadoran border police, Commissioner Jorge Callejas, said in a telephone interview that he was investigating accusations that a man with a Dominican passport that identified him as Jorge Anibal Torres Puello led a human trafficking ring that recruited Dominican women and under-age Nicaraguan girls by offering them jobs and then putting them to work as prostitutes in El Salvador.the<mask> he<mask><mask><mask>the<mask> El Salvador</s>
 no_relation
-per:identity
-<s>He told her he knew who killed Anna Mae.the<mask> Anna Mae<mask><mask><mask>the<mask> her</s>
+per:employee_of
+<s>West African diplomatic moves to save the fragile country from civil war took on new urgency when Gbagbo's `` Street General, '' Charles Ble Goude, told youths to storm Ouattara's heavily-protected Abidjan hotel headquarters.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
 no_relation
-per:identity
-<s>Gage and I exchanged e-mails a few ago months ago when I invited him to appear on ` Hardfire. 'the<mask> him<mask><mask><mask>the<mask> Gage</s>
+per:employee_of
+<s>He formed his own company, TAU, for a while, sold part to Trimble, left Trimble to start a GPS business line at Motorola -LRB- where he was also a VP -RRB-, from there to Rand McNally in Chicago, and more recently to NavTeq.the<mask> his<mask><mask><mask>the<mask> NavTeq</s>
 no_relation
-per:identity
-<s>Both papers reported that Santos fed some of her remains to the Rottweiler dogs kept at the house.the<mask> her<mask><mask><mask>the<mask> Santos</s>
+per:employee_of
+<s>At a boisterous rally on Monday attended by thousands of people, Charles Ble Goude, one of Gbagbo's ministers who is also the leader of a militant youth group and is under U.N. sanctions for acts of violence, threatened to hunt down Ouattara's prime minister, Guillaume Soro.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> U.N.</s>
 no_relation
-per:identity
-<s>That Dylan can insult 9/11 family members, or Kongen can do his own thing shows that within reasonable bounds freedom of speech still exists in pretty much full-fledged fashion no matter how disrespectful one's words might be.the<mask> his<mask><mask><mask>the<mask> Dylan</s>
+per:employee_of
+<s>CHONGQING, Nov. 3 -LRB- Xinhua -RRB- -- Organized crime boss Xie Caiping, labeled the `` godmother of the underworld '' in southwest China's Chongqing Municipality, was sentenced 18 years in prison after a first-instance trial on Tuesday.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing Municipality</s>
 no_relation
-per:identity
-<s>Whatever does happen to Beauchamps, will likely happen to Rowe as well if he doesn't keep his head down and his Osama-Approved Al-Queada -LSB- rule8 -RSB- holster shut.the<mask> his<mask><mask><mask>the<mask> Beauchamps</s>
+per:employee_of
+<s>Police have released scant information about the killing of 61-year-old Carol Daniels, whose body was found Sunday inside the Christ Holy Sanctified Church, a weather-beaten building on a rundown block near downtown Anadarko in southwest Oklahoma.the<mask> Carol Daniels<mask><mask><mask>the<mask> Christ Holy Sanctified Church</s>
 no_relation
-per:identity
-<s>He last saw Cerniglia three weeks ago and said he seemed his cheerful self.the<mask> he<mask><mask><mask>the<mask> He</s>
+per:employee_of
+<s>`` Greed, '' by former New York Times reporter Charlie LeDuff, focuses on his hometown of Detroit -LRB- he now works for The Detroit News, presumably less villainous a player in the MSM -RRB-.the<mask> he<mask><mask><mask>the<mask> MSM</s>
 no_relation
-per:identity
+per:employee_of
+<s>Ruben van Assouw was the sole survivor, pulled unconscious from the wreckage of an Afriqiyah Airways jetliner that plunged into the desert less than a mile from -LRB- a kilometer short of -RRB- the runway in Tripoli four days ago, killing 103 people.the<mask> Ruben van Assouw<mask><mask><mask>the<mask> Afriqiyah Airways</s>
+no_relation
+per:employee_of
+<s>`` It seems like a politically charged and politically motivated move rather than a fiscally responsible one, '' Lomax, former commission chairman of Georgia's most populous county, said.the<mask> Lomax<mask><mask><mask>the<mask> Georgia</s>
+no_relation
+per:employee_of
+<s>Wen was also accused of protecting the gang operations masterminded by his sister-in-law, Xie Caiping, known as the `` godmother '' of the Chongqing underworld.the<mask> Xie Caiping<mask><mask><mask>the<mask> Chongqing</s>
+no_relation
+per:employee_of
 <s>865 words, by Mark Fisher -LRB- Bloomberg -RRB-.the<mask> Mark Fisher<mask><mask><mask>the<mask> Bloomberg</s>
 no_relation
-per:identity
-<s>Salaam, represented by Kunstler at sentencing and in his unsuccessful appeals, got a seven-year term.the<mask> his<mask><mask><mask>the<mask> Kunstler</s>
+per:employee_of
+<s>Caltech's president notified colleagues and students in an internal e-mail that Lange apparently took his own life Friday.the<mask> his<mask><mask><mask>the<mask> Caltech</s>
 no_relation
-per:identity
-<s>Before that happens though, here are some surprisingly simple ways to add to your appliances'longevity and effectiveness from Mr. Appliance, http://www.mrappliance.com, and the book `` In the Kitchen with Heloise '' -LRB- Perigee, 2000 -RRB- :the<mask> Heloise<mask><mask><mask>the<mask> Perigee</s>
+per:employee_of
+<s>And Gbagbo's notorious `` Street General '', Minister for Youth Charles Ble Goude, has urged Ivorian youths to rise up in the New Year to storm Ouattara's UN - defended headquarters in what he described as a `` bare-handed '' assault.the<mask> Charles Ble Goude<mask><mask><mask>the<mask> Gbagbo</s>
 no_relation
-per:identity
-<s>Gonzalez described how former Chihuahua Gov. Jose Reyes Baeza and Mexican Army Gen. Felipe Espitia, the head of military's anti-narcotics operations here, met with top leaders of the Juarez cartel at a ranch, and along with Patricia Gonzalez ordered the assassinations of prominent journalists and community leaders.the<mask> Gonzalez<mask><mask><mask>the<mask> Patricia Gonzalez</s>
+per:employee_of
+<s>`` North Waziristan is the hub of so many terrorist groups and so much terrorist plotting and planning that neither the CIA nor the ISI seems to have much clue about what is going on there, '' wrote Ahmed Rashid, the Pakistani journalist and author of `` Descent into Chaos. ''the<mask> Ahmed Rashid<mask><mask><mask>the<mask> ISI</s>
 no_relation
-per:identity
-<s>While some of his main competitors for the job, such as boss Salvatore Lo Piccolo, have been apprehended, Messina Denaro remains at large.the<mask> Messina Denaro<mask><mask><mask>the<mask> his</s>
+per:employee_of
+<s>`` Musharraf continued to provide cover to the Taliban, but still managed to convince the Americans for many years that it was not a double game, '' said Ahmed Rashid, a Pakistani expert on the Taliban and the author of `` Descent Into Chaos, '' a book that details the relationship between Musharraf and Washington.the<mask> Ahmed Rashid<mask><mask><mask>the<mask> Taliban</s>
 no_relation
-per:identity
+per:employee_of
+<s>ABN Amro to nominate RBS's Mark Fisher as new chairmanthe<mask> Mark Fisher<mask><mask><mask>the<mask> ABN Amro</s>
+no_relation
+per:employee_of

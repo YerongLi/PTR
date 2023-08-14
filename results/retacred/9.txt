@@ -1,72 +1,108 @@
-<s>Tamekca Walker, 34, was arraigned Friday in Sacramento County Superior Court on charges of felony assault resulting in the death of a child and the murder of Tamaihia Lynae Moore.the<mask> Tamaihia Lynae Moore<mask><mask><mask>the<mask> Friday</s>
+<s>Even at its peak, in 2007, ALICO's portfolio of credit-default swaps was just a fraction of the one at AIG Financial Products, the London shop whose collapsing business led the U.S. government to prop up AIG, the biggest bailout in American history.the<mask> ALICO<mask><mask><mask>the<mask> London</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>The body of 39-year-old Joseph Cerniglia was found floating in the Hudson River on Friday.the<mask> Joseph Cerniglia<mask><mask><mask>the<mask> Friday</s>
+<s>In Taichung, the Council for Cultural Affairs under the Executive Yuan plans to entertain central Taiwan residents with the music of the internationally renowned violinist Lin Cho-liang and the 90-member Taiwan Symphony Orchestra.the<mask> Taiwan Symphony Orchestra<mask><mask><mask>the<mask> Taichung</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>De Souza was undergoing a separate trial in the city of Belo Horizonte for the murder of 25-year-old Samudio, who disappeared in June this year after she was taken to the goalkeeper's home after giving birth.the<mask> she<mask><mask><mask>the<mask> June this year</s>
+<s>The People's Liberation Army's Third Guard Division gave journalists a tour of their living and dining quarters and a display of marksmanship and artillery firepower at their base, about an hour's drive north of Beijing.the<mask> Third Guard Division<mask><mask><mask>the<mask> Beijing</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>According to the teenager, Samudio was kidnapped in Rio in early June and killed some days later, in neighboring Minas Gerais state.the<mask> Samudio<mask><mask><mask>the<mask> early June</s>
+<s>Need JAVA / J2EE Developers with ADF & JDeveloper at Green Bay, Wisconsin. 10 positions.the<mask> ADF<mask><mask><mask>the<mask> Green Bay</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Pastor Ivan Henderson told mourners at Daniels'funeral Monday in Oklahoma City to pray that investigators find the killer and that people find the strength to forgive him or her.the<mask> Daniels<mask><mask><mask>the<mask> Monday</s>
+<s>YANGON, Dec. 27 -LRB- Xinhua -RRB- -- Myanmar will hold a horse race in Yangon to commemorate the country's 63rd Anniversary Independence Day, the Myanmar Equestrian Federation -LRB- MEF -RRB- confirmed to Xinhua on Monday.the<mask> Myanmar Equestrian Federation<mask><mask><mask>the<mask> Yangon</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>The Supreme Court of Canada on Thursday dismissed an appeal from John Graham, a former member of the activist group who is charged with murder for the slaying of Anna Mae Pictou Aquash on the Pine Ridge Indian Reservation.the<mask> Anna Mae Pictou Aquash<mask><mask><mask>the<mask> Thursday</s>
+<s>But, on Monday, Zuckerman echoed Bialek's account of the two of them meeting Cain -- and spending the evening with him -- in Chicago in 1997 at the National Restaurant Association convention.the<mask> National Restaurant Association<mask><mask><mask>the<mask> Chicago</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Richard Marshall of Rapid City pleaded not guilty Tuesday to aiding and abetting the murder of Anna Mae Pictou Aquash.the<mask> Anna Mae Pictou Aquash<mask><mask><mask>the<mask> Tuesday</s>
+<s>Continued 1 | 2 | 3 Next > Calabasas, California-based Countrywide also said it had funded $ 344 billion of mortgage loans in August, the fewest this year and down 173 percent from a year earlier, as it tightened lending standards.the<mask> Countrywide<mask><mask><mask>the<mask> Calabasas</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>The boy's aunt and uncle said on Friday that Ruben now knows that his mother, father and 11-year-old brother died in Wednesday's crash at Tripoli airport that killed a total of 103 people and whose cause remains unknown.the<mask> his<mask><mask><mask>the<mask> Wednesday</s>
+<s>Keel and leaders from throughout Indian Country will be meeting in Albuquerque over the next week as part of NCAI's annual convention.the<mask> NCAI<mask><mask><mask>the<mask> Albuquerque</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>A preliminary autopsy was conducted on Monday, but Oklahoma State Bureau of Investigation spokeswoman Jessica Brown would not say anything about the cause or time of Daniels'death, a possible motive or what evidence was collected at the scene.the<mask> Daniels<mask><mask><mask>the<mask> Monday</s>
+<s>BC-HOUSTON-ARTS -LRB- Houston -RRB- Highlights of Houston tourism include the Menil Collection, Rothko Chapel, the Houston Symphony and other performing and visual arts.the<mask> Menil Collection<mask><mask><mask>the<mask> Houston</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Finnish police told the media on Sunday after preliminary investigation that the death of the Russian contestant Ladyzhenskiy has nothing to do with crime.the<mask> Ladyzhenskiy<mask><mask><mask>the<mask> Sunday</s>
+<s>The journalists were taken to military kitchen of the Third Guard Division, a garrison force to protect Beijing, where typical Chinese food attracted much attention.the<mask> Third Guard Division<mask><mask><mask>the<mask> Beijing</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>The New York City medical examiner on Tuesday ruled the death of 39-year-old Joseph Cerniglia a suicide and confirmed that Cerniglia jumped from the bridge.the<mask> Joseph Cerniglia<mask><mask><mask>the<mask> Tuesday</s>
+<s>BEIJING, April 24 -LRB- Xinhua -RRB- -- The China Charity Federation said Saturday it had received 566 million yuan -LRB- about 83 million U.S. dollars -RRB- in donation via banks as of 3 p.m. Friday to the quake - hit northwest China's Qinghai Province.the<mask> The China Charity Federation<mask><mask><mask>the<mask> BEIJING</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Knox has been behind bars for a year, locked in an Italian prison charged in the Nov. 1, 2007, slaying of her roommate, Meredith Kercher.the<mask> Meredith Kercher<mask><mask><mask>the<mask> Nov. 1, 2007</s>
+<s>The NDA's budget has been badly hit by the closure of the Thorp reprocessing centre at Sellafield.the<mask> NDA<mask><mask><mask>the<mask> Sellafield</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Samudio, who is missing since early June, is believed to having been killed, but the extent of Bruno's participation in the murder has yet to be determined.the<mask> Samudio<mask><mask><mask>the<mask> early June</s>
+<s>09.14.07 - Bernice Berend Rose, a director of drawings and special exhibitions at the PaceWildenstein Gallery in New York and earlier a longtime curator at the Museum of Modern Art, has been named chief curator of the Menil Collection's new Drawings Institute in Houston.the<mask> Menil Collection<mask><mask><mask>the<mask> Houston</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Bibi, a mother of five, was sentenced earlier this month to death.the<mask> Bibi<mask><mask><mask>the<mask> earlier this month</s>
+<s>Alleged behavior took place with the NRA -LRB- presumably in Washington DC -RRB-.the<mask> NRA<mask><mask><mask>the<mask> Washington</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>On Thursday, the police received an anonymous tip that Samudio had been beaten to death by Bruno and two friends of his.the<mask> his<mask><mask><mask>the<mask> Thursday</s>
+<s>The Nortel workers took their cue from a situation that began Sunday at a factory owned by New Fabris, a failed auto parts maker in Chatellerault, about 165 miles southwest of Paris.the<mask> New Fabris<mask><mask><mask>the<mask> Paris</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Chongqing Municipal Higher People's Court Thursday started to hear the appeal of Wen Qiang, a former senior judicial official who was sentenced to death by a lower court April 14 for four counts of crime including protecting gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> April 14</s>
+<s>ADF said Thursday that the vermin problems had caused it to re-evaluate maintenance procedures in its New York City restaurants.the<mask> ADF<mask><mask><mask>the<mask> New York City</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Among the macabre details divulged by police : they believe Bruno was in a home near Belo Horizonte home with Samudio last month at the time of her murder, and that her body was later cut into pieces, some of which were fed to dogs in a bid to cover the murder.the<mask> her<mask><mask><mask>the<mask> last month</s>
+<s>ADF spokeswoman Marissa Smith said she did not know exactly how many of the company's 20 restaurants in New York City had closed, but described it as `` a handful. ''the<mask> ADF<mask><mask><mask>the<mask> New York City</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>An inquest into the death of Terry Jupp, who died on a remote island off England's east coast used as a military facility, found Wednesday that there were failures in planning, risk assessment, communication and organization of the joint British-American tests.the<mask> Terry Jupp<mask><mask><mask>the<mask> Wednesday</s>
+<s>The mood was a similar blend of commitment and determination at a PDA gathering in Manhattan.the<mask> PDA<mask><mask><mask>the<mask> Manhattan</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>American Amanda Knox was found guilty early Saturday along with her former Italian boyfriend in the 2007 sex murder of her British housemate Meredith Kercher and sent to prison for 26 years.the<mask> Meredith Kercher<mask><mask><mask>the<mask> 2007</s>
+<s>The 2007 International Music Festival organized by National Taiwan Symphony Orchestra -LRB- NTSO -RRB- will begin Oct. 6 in Taichung City in central Taiwan, an NTSO spokesman said Tuesday.the<mask> NTSO<mask><mask><mask>the<mask> Taichung City</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>`` I learn from students and I challenge them, '' says Heloise, 58, who took over the family hints business when her mother, also named Heloise, died in 1977.the<mask> Heloise<mask><mask><mask>the<mask> 1977</s>
+<s>She will join with the National Taiwan Symphony Orchestra in two performances -- one in the central city of Taichung on May 6, followed by another performance May 7 in the southern port city of Kaohsiung.the<mask> National Taiwan Symphony Orchestra<mask><mask><mask>the<mask> Taichung</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Her cause of death was mistakenly listed as exposure to the cold, and her body was buried in March 1976 -- before it was identified.the<mask> her<mask><mask><mask>the<mask> March 1976</s>
+<s>URBANLEAGUE _ WASHINGTON _ The Urban League, at its annual conference in Washington this week, concentrates on fostering black economic equality ; an interview with League president, Marc Morial.the<mask> Urban League<mask><mask><mask>the<mask> WASHINGTON</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Grace Burgess, a spokeswoman for the New York City medical examiner's office, said the office on Tuesday ruled Cerniglia's death a suicide.the<mask> Cerniglia<mask><mask><mask>the<mask> Tuesday</s>
+<s>Westinghouse said it was in `` advanced discussions '' with Britain's Nuclear Decommissioning Authority -LRB- NDA -RRB- about taking on a long-term management lease for the site at Springfields near Preston.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> Preston</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>He said 34 rebels, from the Allied Democratic Forces -LRB- ADF -RRB-, were killed during a gun battle on Tuesday and four others were killed a day earlier in the western Bundibugyo district.the<mask> ADF<mask><mask><mask>the<mask> Tuesday</s>
+<s>The Nuclear Decommissioning Authority -LRB- NDA -RRB- yesterday confirmed that resources would be shifted from other clean-up operations to Sellafield and Dounreay to combat high-hazard waste more effectively, as reported in The Times last month.the<mask> Nuclear Decommissioning Authority<mask><mask><mask>the<mask> Sellafield</s>
+org:city_of_branch
 no_relation
-per:date_of_death
-<s>Wen Qiang, 54, the former head of the judiciary in the southwestern Chongqing region and also an ex-deputy police chief, was sentenced to death in April for charges including rape and taking bribes to protect criminal gangs.the<mask> Wen Qiang<mask><mask><mask>the<mask> April</s>
+<s>The three suspects, who also included a former Australian Defence Force officer, were arrested in pre-dawn raids in Sydney and two of them were charged in a court later in the day.the<mask> Australian Defence Force<mask><mask><mask>the<mask> Sydney</s>
+org:city_of_branch
 no_relation
-per:date_of_death
+<s>At Wednesday's session of the Pacific Asia Travel Association -LRB- PATA -RRB- meeting in Bali, tourism officials from West Java predicted the number of foreign visitors to the province would double by 2010.the<mask> Pacific Asia Travel Association<mask><mask><mask>the<mask> Bali</s>
+org:city_of_branch
+no_relation
+<s>Perrelli faced skepticism from listeners at a National Congress of American Indians conference in Niagara Falls, N.Y., recently, several of whom pressed for specific action rather than another `` listening session, '' a tactic tried by administrations going back to Jimmy Carter.the<mask> National Congress of American Indians<mask><mask><mask>the<mask> Niagara Falls</s>
+org:city_of_branch
+no_relation
+<s>Now High Point meets in a 432,000-square-foot facility in Arlington, near Dallas.the<mask> High Point<mask><mask><mask>the<mask> Arlington</s>
+org:city_of_branch
+no_relation
+<s>BC-HOUSTON-ARTS -LRB- Houston -RRB- Highlights of Houston tourism include the Menil Collection, Rothko Chapel, the Houston Symphony and other performing and visual arts.the<mask> Menil Collection<mask><mask><mask>the<mask> Houston</s>
+org:city_of_branch
+no_relation
+<s>Another 2004 report by investigative journalist Scott Wheeler, `` Alleged Terrorist Threat Operates in DC Suburb < http://www.cnsnews.com/ViewSpecialReports.asp?Page=\ SpecialReports \ archive \ 2004 07 \ SPE20040712a.html > '', describes multiple ties between UASR and al-Qaeda.the<mask> UASR<mask><mask><mask>the<mask> DC</s>
+org:city_of_branch
+no_relation
+<s>The Nortel workers took their cue from an incident that began Sunday at a factory owned by New Fabris, a failed auto parts maker in Chatellerault, about 165 miles southwest of Paris.the<mask> New Fabris<mask><mask><mask>the<mask> Paris</s>
+org:city_of_branch
+no_relation
+<s>Zambia's Finance Minister Ng ` andu Magande signed two loan agreements and a grant with the ADF to secure the funding during the just-ended annual meeting of the AfDB held in Shanghai, China.the<mask> ADF<mask><mask><mask>the<mask> Shanghai</s>
+org:city_of_branch
+no_relation
+<s>The People's Liberation Army's Third Guard Division gave journalists a tour of their living and dining quarters and a display of marksmanship and artillery fire power at their base about an hour's drive north of Beijing.the<mask> Third Guard Division<mask><mask><mask>the<mask> Beijing</s>
+org:city_of_branch
+no_relation
+<s>The Urban League was founded after the lynching of a black man in 1911, in Springfield, Illinois.the<mask> Urban League<mask><mask><mask>the<mask> Springfield</s>
+org:city_of_branch
+no_relation
+<s>Both the merger and Krukowicz's appointment took place on April 1, and the companies are showcasing their products together for the first time at the National Restaurant Association's annual conference in Chicago this week.the<mask> National Restaurant Association<mask><mask><mask>the<mask> Chicago</s>
+org:city_of_branch
+no_relation
+<s>Westinghouse said it was in `` advanced discussions '' with Britain's Nuclear Decommissioning Authority -LRB- NDA -RRB- about taking on a long-term management lease for the site at Springfields near Preston.the<mask> NDA<mask><mask><mask>the<mask> Preston</s>
+org:city_of_branch
+no_relation
+<s>Also, candidates will address the National Urban League's annual conference in St. Louis -- a week after both Sen. Barack Obama, D-Ill., and former senator John Edwards, D-N.C.the<mask> National Urban League<mask><mask><mask>the<mask> St. Louis</s>
+org:city_of_branch
+no_relation
