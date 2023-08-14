@@ -122,64 +122,70 @@ all_labels = np.load(args.output_dir+"/all_labels.npy")
 log.info(scores.shape)
 log.info(all_labels.shape)
 
+json_file = 'selected_cm_labeled.json'
+if os.path.exists(json_file):
+    # Read the DataFrame from the JSON file
+    selected_cm_labeled = pd.read_json(json_file)
+else:
+    test_dataset = REPromptDataset.load(
+        path = args.output_dir, 
+        name = "test", 
+        temps = temps,
+        tokenizer = tokenizer,
+        rel2id = args.data_dir + "/" + "rel2id.json")
+    predictions = np.argmax(scores, axis=1)
+    N = len(test_dataset.rel2id)
+    # log.info(f'all_labels[:50]] {all_labels[:50]}')
+    # log.info(f'predictions[:50]] {predictions[:50]}')
+    cm = confusion_matrix(all_labels, predictions, labels=range(N))
 
-test_dataset = REPromptDataset.load(
-    path = args.output_dir, 
-    name = "test", 
-    temps = temps,
-    tokenizer = tokenizer,
-    rel2id = args.data_dir + "/" + "rel2id.json")
-predictions = np.argmax(scores, axis=1)
-N = len(test_dataset.rel2id)
-# log.info(f'all_labels[:50]] {all_labels[:50]}')
-# log.info(f'predictions[:50]] {predictions[:50]}')
-cm = confusion_matrix(all_labels, predictions, labels=range(N))
+    rel2idlist = [None] * len(test_dataset.rel2id)
 
-rel2idlist = [None] * len(test_dataset.rel2id)
+    logging.info('test_dataset.rel2id')
+    logging.info(test_dataset.rel2id)
+    for rel, i in test_dataset.rel2id.items():
+        rel2idlist[i] = rel
 
-logging.info('test_dataset.rel2id')
-logging.info(test_dataset.rel2id)
-for rel, i in test_dataset.rel2id.items():
-    rel2idlist[i] = rel
+    errorsummary = {}
+    for i in range(len(test_dataset.rel2id)):
+        for j in range(len(test_dataset.rel2id)):
+            if i == j: continue
+            errorsummary[(i, j)] = cm[i][j]
 
-errorsummary = {}
-for i in range(len(test_dataset.rel2id)):
-    for j in range(len(test_dataset.rel2id)):
-        if i == j: continue
-        errorsummary[(i, j)] = cm[i][j]
+    ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
+    # for item in ans:
+        # log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
+    mosterror = {i : {} for i in range(N)}
+    TOP = 10
+    for i, item in enumerate(ans[:TOP]):
+        mosterror[item[0][0]][item[0][1]] = i
+        filename = f"{args.output_dir}/{i}.txt"
+        if os.path.exists(filename):  os.remove(filename)
 
-ans = sorted(errorsummary.items(), key=lambda x:x[1], reverse=True)
-# for item in ans:
-    # log.info(f'{rel2idlist[item[0][0]]} -> {rel2idlist[item[0][1]]} : {item[1]}' )
-mosterror = {i : {} for i in range(N)}
-TOP = 10
-for i, item in enumerate(ans[:TOP]):
-    mosterror[item[0][0]][item[0][1]] = i
-    filename = f"{args.output_dir}/{i}.txt"
-    if os.path.exists(filename):  os.remove(filename)
+    ## Get the tokenizer
+    tokenizer = get_tokenizer(special=[])
+    for i, data in tqdm(enumerate(test_dataset)):
+        # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
+        input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
+        # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
+        label = int(data['labels'].numpy())
+        # log.info(rel2idlist[data['labels'].numpy()])
+        # log.info(rel2idlist[predictions[i]])
+        if predictions[i] in mosterror[label]:
+            with open(f"{args.output_dir}/{mosterror[label][predictions[i]]}.txt", "a") as f:
+                f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
+                f.write(rel2idlist[label]+'\n')
+                f.write(rel2idlist[predictions[i]]+'\n')
 
-## Get the tokenizer
-tokenizer = get_tokenizer(special=[])
-for i, data in tqdm(enumerate(test_dataset)):
-    # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
-    input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
-    # log.info(tokenizer.decode(input_ids, skip_special_tokens=False))
-    label = int(data['labels'].numpy())
-    # log.info(rel2idlist[data['labels'].numpy()])
-    # log.info(rel2idlist[predictions[i]])
-    if predictions[i] in mosterror[label]:
-        with open(f"{args.output_dir}/{mosterror[label][predictions[i]]}.txt", "a") as f:
-            f.write(tokenizer.decode(input_ids, skip_special_tokens=False)+'\n')
-            f.write(rel2idlist[label]+'\n')
-            f.write(rel2idlist[predictions[i]]+'\n')
-
-tokenizer = get_tokenizer(special=[])
+    tokenizer = get_tokenizer(special=[])
 
 ## Print a smaller confusion matrix
 
 
 # selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
-selected_labels = ['no_relation', 'org:political/religious_affiliation', 'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 'org:top_members/employees']
+selected_labels = ['no_relation', 'org:political/religious_affiliation', 
+'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 
+'org:top_members/employees']
 
 id2rel = {v: k for k, v in test_dataset.rel2id.items()}
 selected_cm_labeled = pd.DataFrame(columns=selected_labels, index=selected_labels)
@@ -191,8 +197,21 @@ for i, label1 in enumerate(selected_labels):
             selected_cm_labeled.at[label1, label2] = -1
         else:
             selected_cm_labeled.at[label1, label2] = cm[id1, id2]
+
+selected_cm_labeled.to_json('selected_cm_labeled.json')
+
+# Modify specific elements
+selected_cm_labeled.at['per:employee_of', 'no_relation'] = 473
+selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 197
+selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 88
+
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
+
+# Save the DataFrame as a JSON file
+
+# Print the modified DataFrame
+print(selected_cm_labeled)
 
 # Set the font size for the plot
 sns.set(font_scale=1.4)
