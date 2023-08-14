@@ -287,9 +287,16 @@ for i in range(len(selected_labels)):
 # Convert elements to numeric values
 selected_cm_labeled = selected_cm_labeled.apply(pd.to_numeric)
 
-# Show the plot
-## /Print a smaller confusion matrix
+plt.clf()  # Clear the current plot
+plt.figure(figsize=(10, 8))
+sns.set(font_scale=1.4)
+sns.heatmap(selected_cm_labeled, annot=True, cmap='Blues', mask=(selected_cm_labeled == -1))
+plt.xlabel('True Label')
+plt.ylabel('Predicted Label')
+plt.title('Selected Confusion Matrix (Modified)')
 
+# Save the plot as an image
+plt.savefig('selected_cm_labeled1.png', dpi=300, bbox_inches='tight')
 LIMIT = 10
 map_data = {i :[] for i in range(LIMIT)}
 def extract_strings(input_string):
