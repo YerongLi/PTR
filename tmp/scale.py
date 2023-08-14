@@ -20,6 +20,8 @@ def main():
                                baseline / scaled_compare[:, 0],
                                baseline * scaled_compare[:, 0])
     
+    scaled_baseline = np.round(scaled_baseline, 2)  # Round to 0.01
+    
     print("Original Baseline:", baseline)
     print("Scaled Compare:", scaled_compare)
     print("Scaled Baseline:", scaled_baseline)
