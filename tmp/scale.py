@@ -18,7 +18,7 @@ def main():
     
     scaled_baseline = np.where(np.random.rand(baseline.shape[0]) < prob,
                                baseline / scaled_compare[:, 0],
-                               baseline * scaled_compare[:, 1])
+                               baseline * scaled_compare[:, 0])
     
     print("Original Baseline:", baseline)
     print("Scaled Compare:", scaled_compare)
