@@ -232,7 +232,7 @@ plt.title('Confusion Matrix')
 # Save the plot as an image
 plt.savefig('selected_cm_labeled.png', dpi=300, bbox_inches='tight')
 
-plt.clear()
+plt.clf()
 
 # Apply the modifications to selected_cm_labeled
 for i in range(len(selected_labels)):
