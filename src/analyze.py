@@ -178,7 +178,9 @@ tokenizer = get_tokenizer(special=[])
 ## Print a smaller confusion matrix
 
 
-selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
+# selected_labels = ['no_relation', 'per:identity', 'per:title', 'per:employee_of', 'per:countries_of_residence', 'org:top_members/employees', 'per:spouse']
+selected_labels = ['no_relation', 'org:political/religious_affiliation', 'org:founded_by', 'org:shareholders', 'per:title', 'per:employee_of', 'org:top_members/employees']
+
 id2rel = {v: k for k, v in test_dataset.rel2id.items()}
 selected_cm_labeled = pd.DataFrame(columns=selected_labels, index=selected_labels)
 for i, label1 in enumerate(selected_labels):
