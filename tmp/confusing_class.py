@@ -43,8 +43,6 @@ relation_classes = {
 }
 
 
-import random
-
 def modify_relation_classes(relation_classes):
     modified_classes = relation_classes.copy()
     
@@ -52,7 +50,7 @@ def modify_relation_classes(relation_classes):
         if key == "no_relation":
             continue
         
-        if random.random() < 0.7:
+        if random.random() < 0.9:
             random_index = random.randint(0, len(entities) - 1)
             entities[random_index] = "no_relation"
     
@@ -61,6 +59,8 @@ def modify_relation_classes(relation_classes):
 # Test the function
 modified_relation_classes = modify_relation_classes(relation_classes)
 
-# Print the modified relation classes
-for key, entities in modified_relation_classes.items():
-    print(key, entities)
+# Convert the modified relation classes to JSON string
+json_str = json.dumps(modified_relation_classes, indent=4)
+
+# Print the JSON string
+print(json_str)
