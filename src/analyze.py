@@ -318,6 +318,8 @@ for i, data in tqdm(enumerate(test_dataset)):
         map_data[label].append(pair)
     # log.info(rel2idlist[data['labels'].numpy()])
 # print(rel2idlist)
+
+all_data = {}
 for l in map_data:
     logging.info(rel2idlist[l])
     logging.info(map_data[l][:100])
