@@ -318,8 +318,6 @@ for i, data in tqdm(enumerate(test_dataset)):
         map_data[label].append(pair)
     # log.info(rel2idlist[data['labels'].numpy()])
 # print(rel2idlist)
-
-
 for l in map_data:
     logging.info(rel2idlist[l])
     logging.info(map_data[l][:100])
@@ -340,4 +338,4 @@ with open("seed_data.json", "w") as json_file:
     json.dump(all_data, json_file, indent=4)
 
 logging.info("Seed data saved to seed_data.json")
-print("Seed data saved to seed_data.json"
+print("Seed data saved to seed_data.json")
