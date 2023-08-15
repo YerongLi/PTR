@@ -318,6 +318,8 @@ for i, data in tqdm(enumerate(test_dataset)):
         map_data[label].append(pair)
     # log.info(rel2idlist[data['labels'].numpy()])
 # print(rel2idlist)
+
+
 for l in map_data:
     logging.info(rel2idlist[l])
     logging.info(map_data[l][:100])
@@ -325,17 +327,17 @@ for l in map_data:
     print(map_data[l][:100])
     
     # Randomly select 6 items from map_data[l][:100]
-    selected_items = random.sample(map_data[l][:100], 5)
+    selected_items = random.sample(map_data[l][:100], 6)
     
-    # Create a dictionary to store the selected items along with their corresponding rel2idlist
-    selected_data = {
+    # Store the rel2idlist and selected items in the all_data dictionary
+    all_data[l] = {
         "rel2idlist": rel2idlist[l],
         "selected_items": selected_items
     }
-    
-    # Save the selected data to a JSON file named "seed.json"
-    with open("seed.json", "w") as json_file:
-        json.dump(selected_data, json_file, indent=4)
 
-logging.info("Seed data saved to seed.json")
-print("Seed data saved to seed.json")
+# Save all_data to a JSON file named "seed_data.json"
+with open("seed_data.json", "w") as json_file:
+    json.dump(all_data, json_file, indent=4)
+
+logging.info("Seed data saved to seed_data.json")
+print("Seed data saved to seed_data.json"
