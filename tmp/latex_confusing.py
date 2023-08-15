@@ -325,24 +325,26 @@ relation_classes = {
 
 
 
-def modify_relation_classes(relation_classes):
-    modified_classes = relation_classes.copy()
-    
-    for key, entities in modified_classes.items():
-        if key == "no_relation":
-            continue
-        
-        if random.random() < 0.9:
-            random_index = random.randint(0, len(entities) - 1)
-            entities[random_index] = "no_relation"
-    
-    return modified_classes
+def generate_latex_table(relation_classes):
+    latex_table = "\\begin{table*}[htbp]\n"
+    latex_table += "\\centering\n"
+    latex_table += "\\caption{A Snapshot of Contrastive Classes Selected During Tuning PTR on the reTARED Dataset}\n"
+    latex_table += "\\label{tab:contrastive_classes}\n"
+    latex_table += "\\begin{tabular}{|l|ll|}\n"
+    latex_table += "\\hline\n"
+    latex_table += "\\textbf{Positive Class} & \\multicolumn{2}{l|}{\\textbf{Contrastive Classes}} \\\\ \\hline\n"
 
-# Test the function
-modified_relation_classes = modify_relation_classes(relation_classes)
+    for positive_class, contrastive_classes in relation_classes.items():
+        latex_table += positive_class + " & " + " & ".join(contrastive_classes[:2]) + " \\\\"
+        if len(contrastive_classes) > 2:
+            for i in range(2, len(contrastive_classes), 2):
+                latex_table += "\n& " + " & ".join(contrastive_classes[i:i+2]) + " \\\\"
+        latex_table += " \\hline\n"
 
-# Convert the modified relation classes to JSON string
-json_str = json.dumps(modified_relation_classes, indent=4)
+    latex_table += "\\end{tabular}\n"
+    latex_table += "\\end{table*}\n"
 
-# Print the JSON string
-print(json_str)
+    return latex_table
+
+latex_code = generate_latex_table(relation_classes)
+print(latex_code)
