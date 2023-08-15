@@ -318,6 +318,6 @@ for i, data in tqdm(enumerate(test_dataset)):
 for l in map_data:
     logging.info(rel2idlist[l])
     logging.info(map_data[l][:100])
-    print(l)
+    print(rel2idlist[l])
     print(map_data[l][:100])
     # log.info(rel2idlist[predictions[i]])
