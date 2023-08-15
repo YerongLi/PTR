@@ -324,7 +324,7 @@ for l in map_data:
     print(map_data[l][:100])
     
     # Randomly select 6 items from map_data[l][:100]
-    selected_items = random.sample(map_data[l][:100], 6)
+    selected_items = random.sample(map_data[l][:100], 5)
     
     # Create a dictionary to store the selected items along with their corresponding rel2idlist
     selected_data = {
