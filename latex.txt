@@ -1,0 +1,130 @@
+\begin{table*}[htbp]
+\centering
+\caption{A Snapshot of Contrastive Classes Selected During Tuning PTR on the reTARED Dataset}
+\label{tab:contrastive_classes}
+\begin{tabular}{|l|ll|}
+\hline
+\textbf{Positive Class} & \multicolumn{2}{l|}{\textbf{Contrastive Classes}} \\ \hline
+per:charges & per:sentence & per:allegations \\
+& per:indictment & per:offense \\
+& no_relation & org:top_members/employees \\ \hline
+per:date_of_death & per:age & per:country_of_birth \\
+& per:origin & no_relation \\
+& per:city_of_death & per:date_of_birth \\ \hline
+per:country_of_death & per:city_of_death & per:stateorprovince_of_death \\
+& per:origin & no_relation \\
+& per:stateorprovince_of_birth & per:stateorprovinces_of_residence \\ \hline
+per:cause_of_death & per:age & no_relation \\
+& per:date_of_birth & per:city_of_death \\
+& per:stateorprovince_of_death & per:country_of_death \\ \hline
+org:founded_by & org:shareholders & per:other_family \\
+& org:members & org:political/religious_affiliation \\
+& org:number_of_employees/members & no_relation \\ \hline
+org:founded & org:city_of_branch & org:stateorprovince_of_branch \\
+& org:country_of_branch & org:number_of_employees/members \\
+& no_relation & org:members \\ \hline
+per:city_of_death & no_relation & per:country_of_death \\
+& per:city_of_birth & per:date_of_birth \\
+& per:date_of_death & per:origin \\ \hline
+per:stateorprovince_of_death & per:city_of_death & per:country_of_death \\
+& per:date_of_death & per:city_of_birth \\
+& per:stateorprovince_of_birth & no_relation \\ \hline
+per:date_of_birth & per:age & per:country_of_birth \\
+& per:stateorprovince_of_birth & no_relation \\
+& per:date_of_death & per:origin \\ \hline
+per:stateorprovince_of_birth & no_relation & per:stateorprovinces_of_residence \\
+& per:origin & per:date_of_birth \\
+& per:country_of_birth & per:date_of_death \\ \hline
+per:country_of_birth & per:stateorprovince_of_birth & no_relation \\
+& per:date_of_birth & per:stateorprovinces_of_residence \\
+& per:origin & per:city_of_death \\ \hline
+per:city_of_birth & per:stateorprovince_of_birth & no_relation \\
+& per:country_of_birth & per:stateorprovinces_of_residence \\
+& per:origin & per:city_of_death \\ \hline
+org:shareholders & org:members & org:founded_by \\
+& org:political/religious_affiliation & org:number_of_employees/members \\
+& org:top_members/employees & no_relation \\ \hline
+per:other_family & per:siblings & no_relation \\
+& per:parents & per:children \\
+& per:employee_of & per:city_of_birth \\ \hline
+per:title & org:top_members/employees & org:political/religious_affiliation \\
+& no_relation & per:charges \\
+& org:shareholders & per:other_family \\ \hline
+org:dissolved & org:city_of_branch & org:stateorprovince_of_branch \\
+& org:country_of_branch & org:number_of_employees/members \\
+& org:top_members/employees & no_relation \\ \hline
+per:countries_of_residence & per:stateorprovinces_of_residence & per:cities_of_residence \\
+& per:origin & per:country_of_birth \\
+& per:country_of_death & no_relation \\ \hline
+per:stateorprovinces_of_residence & no_relation & per:cities_of_residence \\
+& per:origin & per:stateorprovince_of_birth \\
+& per:stateorprovince_of_death & org:founded \\ \hline
+per:cities_of_residence & no_relation & per:stateorprovinces_of_residence \\
+& per:origin & per:city_of_birth \\
+& per:city_of_death & org:founded \\ \hline
+org:member_of & no_relation & org:shareholders \\
+& org:top_members/employees & org:members \\
+& org:number_of_employees/members & org:founded_by \\ \hline
+per:religion & org:political/religious_affiliation & per:origin \\
+& per:other_family & org:member_of \\
+& org:shareholders & per:title \\ \hline
+org:political/religious_affiliation & per:religion & org:member_of \\
+& org:shareholders & per:title \\
+& per:employee_of & no_relation \\ \hline
+org:top_members/employees & per:title & per:employee_of \\
+& per:other_family & no_relation \\
+& org:shareholders & org:political/religious_affiliation \\ \hline
+org:number_of_employees/members & org:shareholders & org:members \\
+& org:political/religious_affiliation & org:founded_by \\
+& org:top_members/employees & no_relation \\ \hline
+per:schools_attended & org:member_of & per:employee_of \\
+& per:charges & no_relation \\
+& per:city_of_birth & per:origin \\ \hline
+per:employee_of & per:other_family & per:schools_attended \\
+& per:title & org:top_members/employees \\
+& org:political/religious_affiliation & no_relation \\ \hline
+per:siblings & per:other_family & per:spouse \\
+& per:parents & per:children \\
+& per:employee_of & no_relation \\ \hline
+per:spouse & no_relation & per:siblings \\
+& per:parents & per:children \\
+& per:employee_of & per:city_of_birth \\ \hline
+per:parents & per:other_family & per:siblings \\
+& per:spouse & per:children \\
+& per:employee_of & no_relation \\ \hline
+per:children & per:other_family & per:siblings \\
+& no_relation & per:parents \\
+& per:employee_of & per:city_of_birth \\ \hline
+org:alternate_names & org:members & org:shareholders \\
+& org:number_of_employees/members & org:top_members/employees \\
+& org:dissolved & org:founded_by \\ \hline
+org:members & org:shareholders & org:number_of_employees/members \\
+& org:top_members/employees & no_relation \\
+& org:political/religious_affiliation & org:founded_by \\ \hline
+per:origin & per:religion & no_relation \\
+& org:member_of & org:shareholders \\
+& org:top_members/employees & org:number_of_employees/members \\ \hline
+org:website & org:member_of & org:shareholders \\
+& org:top_members/employees & org:number_of_employees/members \\
+& no_relation & org:founded_by \\ \hline
+per:age & per:countries_of_residence & per:stateorprovinces_of_residence \\
+& per:cities_of_residence & per:origin \\
+& per:country_of_birth & no_relation \\ \hline
+no_relation & org:political/religious_affiliation & org:member_of \\
+& org:shareholders & per:title \\
+& per:employee_of & org:top_members/employees \\ \hline
+per:identity & no_relation & per:spouse \\
+& per:parents & per:children \\
+& per:employee_of & per:city_of_birth \\ \hline
+org:stateorprovince_of_branch & org:city_of_branch & org:country_of_branch \\
+& org:number_of_employees/members & no_relation \\
+& org:members & org:dissolved \\ \hline
+org:country_of_branch & org:city_of_branch & org:stateorprovince_of_branch \\
+& org:number_of_employees/members & org:top_members/employees \\
+& org:members & no_relation \\ \hline
+org:city_of_branch & org:stateorprovince_of_branch & org:country_of_branch \\
+& org:number_of_employees/members & org:top_members/employees \\
+& org:members & org:dissolved \\ \hline
+\end{tabular}
+\end{table*}
+
