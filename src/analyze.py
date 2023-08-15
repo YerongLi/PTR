@@ -288,7 +288,7 @@ plt.title('Confusion Matrix')
 
 # Save the plot as an image
 plt.savefig('selected_cm_labeled1.png', dpi=300, bbox_inches='tight')
-LIMIT = 10
+LIMIT = 40
 map_data = {i :[] for i in range(LIMIT)}
 def extract_strings(input_string):
     start_index = input_string.find('the<mask>') + len('the<mask>')
@@ -328,7 +328,7 @@ for l in map_data:
     
     # Randomly select 6 items from map_data[l][:100]
     try:
-        selected_items = random.sample(map_data[l], 6)
+        selected_items = random.sample(map_data[l], 5)
         
         # Store the rel2idlist and selected items in the all_data dictionary
         all_data[l] = {
