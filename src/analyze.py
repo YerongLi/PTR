@@ -19,6 +19,7 @@ import seaborn as sns
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import json
 
 def f1_score(output, label, rel_num, na_num):
     correct_by_relation = Counter()
