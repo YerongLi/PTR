@@ -327,13 +327,16 @@ for l in map_data:
     print(map_data[l][:100])
     
     # Randomly select 6 items from map_data[l][:100]
-    selected_items = random.sample(map_data[l][:100], 6)
-    
-    # Store the rel2idlist and selected items in the all_data dictionary
-    all_data[l] = {
-        "rel2idlist": rel2idlist[l],
-        "selected_items": selected_items
-    }
+    try:
+        selected_items = random.sample(map_data[l][:100], 6)
+        
+        # Store the rel2idlist and selected items in the all_data dictionary
+        all_data[l] = {
+            "name": rel2idlist[l],
+            "selected_items": selected_items
+        }
+    except:
+        continue
 
 # Save all_data to a JSON file named "seed_data.json"
 with open("seed_data.json", "w") as json_file:
