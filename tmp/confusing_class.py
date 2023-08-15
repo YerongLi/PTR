@@ -1,3 +1,5 @@
+import random
+import json
 relation_classes = {
     "per:charges": ["per:sentence", "per:allegations", "per:indictment", "per:offense", "per:conviction", "org:top_members/employees"],
     "per:date_of_death": ["per:age", "per:country_of_birth", "per:origin", "per:cause_of_death", "per:city_of_death", "per:date_of_birth"],
