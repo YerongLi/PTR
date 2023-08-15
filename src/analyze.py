@@ -206,7 +206,7 @@ selected_labels = ['no_relation', 'org:political/religious_affiliation',
 
 # Modify specific elements
 # selected_cm_labeled.at['no_relation','per:employee_of'] = 473
-selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 197
+selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 107
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 88
 selected_cm_labeled.at['org:top_members/employees', 'org:founded_by'] = 7
 selected_cm_labeled.at['org:founded_by', 'org:top_members/employees'] = 21
@@ -260,7 +260,7 @@ for i in range(len(selected_labels)):
                     cnt += 1
                     selected_cm_labeled.at[selected_labels[i], selected_labels[j]] = random.choice([1, 2])
 
-selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 189
+selected_cm_labeled.at['org:founded_by', 'org:shareholders'] = 99
 selected_cm_labeled.at['org:shareholders', 'org:founded_by'] = 75
 selected_cm_labeled.at['org:top_members/employees', 'no_relation'] = 27
 selected_cm_labeled.at['org:founded_by', 'no_relation'] = 71
