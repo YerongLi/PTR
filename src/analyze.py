@@ -123,18 +123,19 @@ log.info(scores.shape)
 log.info(all_labels.shape)
 
 json_file = 'selected_cm_labeled.json'
+test_dataset = REPromptDataset.load(
+    path = args.output_dir, 
+    name = "test", 
+    temps = temps,
+    tokenizer = tokenizer,
+    rel2id = args.data_dir + "/" + "rel2id.json")
+predictions = np.argmax(scores, axis=1)
+N = len(test_dataset.rel2id)
 if os.path.exists(json_file):
     # Read the DataFrame from the JSON file
     selected_cm_labeled = pd.read_json(json_file)
 else:
-    test_dataset = REPromptDataset.load(
-        path = args.output_dir, 
-        name = "test", 
-        temps = temps,
-        tokenizer = tokenizer,
-        rel2id = args.data_dir + "/" + "rel2id.json")
-    predictions = np.argmax(scores, axis=1)
-    N = len(test_dataset.rel2id)
+
     # log.info(f'all_labels[:50]] {all_labels[:50]}')
     # log.info(f'predictions[:50]] {predictions[:50]}')
     cm = confusion_matrix(all_labels, predictions, labels=range(N))
@@ -302,7 +303,7 @@ def extract_strings(input_string):
         y = input_string[start_index:end_index].strip()
     return (x,y)
 
-    
+
 for i, data in tqdm(enumerate(test_dataset)):
     # dict_keys(['input_ids', 'token_type_ids', 'attention_mask', 'labels', 'input_flags', 'mlm_labels'])
     input_ids = [t for t in data['input_ids'] if t != tokenizer.pad_token_id]
