@@ -1,0 +1,263 @@
+{
+    "0": {
+        "name": "no_relation",
+        "selected_items": [
+            [
+                "Progressive Democrats of America",
+                "Now"
+            ],
+            [
+                "Samudio",
+                "Wednesday"
+            ],
+            [
+                "her",
+                "Ivan Henderson"
+            ],
+            [
+                "Alessi",
+                "Conn."
+            ],
+            [
+                "Michael Lomax",
+                "One"
+            ],
+            [
+                "China Charity Federation",
+                "Ministry of Civil Affairs"
+            ]
+        ]
+    },
+    "1": {
+        "name": "org:members",
+        "selected_items": [
+            [
+                "Organization of Asia-Pacific News Agencies",
+                "General Assembly"
+            ],
+            [
+                "PATA",
+                "SAR's Tourist Office"
+            ],
+            [
+                "OANA",
+                "general assembly"
+            ],
+            [
+                "China Charity Federation",
+                "Red Cross"
+            ],
+            [
+                "Tribeca Enterprises",
+                "Tribeca"
+            ],
+            [
+                "National Energy Administration",
+                "New Energy Department"
+            ]
+        ]
+    },
+    "2": {
+        "name": "per:siblings",
+        "selected_items": [
+            [
+                "his",
+                "Enzo"
+            ],
+            [
+                "Carol Daniels",
+                "Terry"
+            ],
+            [
+                "Sarah Kunstler",
+                "Emily"
+            ],
+            [
+                "Gonzalez",
+                "Patricia Gonzalez"
+            ],
+            [
+                "he",
+                "Enzo"
+            ],
+            [
+                "her",
+                "Lyle"
+            ]
+        ]
+    },
+    "3": {
+        "name": "per:spouse",
+        "selected_items": [
+            [
+                "his",
+                "Zhou Xiaoya"
+            ],
+            [
+                "Laura Silsby",
+                "Terry Silsby"
+            ],
+            [
+                "Alan Gross",
+                "Judy Gross"
+            ],
+            [
+                "Alan Gross",
+                "her"
+            ],
+            [
+                "Bibi",
+                "Ashiq Masih"
+            ],
+            [
+                "Bibi",
+                "Ashiq Masih"
+            ]
+        ]
+    },
+    "4": {
+        "name": "org:country_of_branch",
+        "selected_items": [
+            [
+                "NDRC",
+                "China"
+            ],
+            [
+                "American Association of University Women",
+                "United States"
+            ],
+            [
+                "National Development and Reform Commission",
+                "China"
+            ],
+            [
+                "National Development and Reform Commission",
+                "China"
+            ],
+            [
+                "ADF",
+                "West Timor"
+            ],
+            [
+                "American Life Insurance company",
+                "US"
+            ]
+        ]
+    },
+    "5": {
+        "name": "per:country_of_death",
+        "selected_items": [
+            [
+                "his",
+                "Finland"
+            ],
+            [
+                "Vladimir Ladyzhenskiy",
+                "Finland"
+            ],
+            [
+                "Meredith Kercher",
+                "Italy"
+            ],
+            [
+                "his",
+                "Finland"
+            ],
+            [
+                "Terry Jupp",
+                "England"
+            ],
+            [
+                "Wen Qiang",
+                "China"
+            ]
+        ]
+    },
+    "6": {
+        "name": "per:parents",
+        "selected_items": [
+            [
+                "Carol Daniels",
+                "his"
+            ],
+            [
+                "her",
+                "Edda Mellas"
+            ],
+            [
+                "Assaf Ramon",
+                "Ilan"
+            ],
+            [
+                "Carol Daniels",
+                "his"
+            ],
+            [
+                "his",
+                "Patrick"
+            ],
+            [
+                "Ruben",
+                "Patrick"
+            ]
+        ]
+    },
+    "7": {
+        "name": "per:stateorprovinces_of_residence",
+        "selected_items": [
+            [
+                "his",
+                "Northwest Frontier Province"
+            ],
+            [
+                "his",
+                "Connecticut"
+            ],
+            [
+                "She",
+                "Texas"
+            ],
+            [
+                "Matteo Messina Denaro",
+                "Sicily"
+            ],
+            [
+                "He",
+                "Northwest Frontier Province"
+            ],
+            [
+                "Laura Silsby",
+                "Idaho"
+            ]
+        ]
+    },
+    "8": {
+        "name": "org:top_members/employees",
+        "selected_items": [
+            [
+                "ADF",
+                "Ismael Rukwago"
+            ],
+            [
+                "National Energy Administration",
+                "Zhang Guobao"
+            ],
+            [
+                "New Fabris",
+                "Pierre Reau"
+            ],
+            [
+                "National Energy Administration",
+                "Zhang Guobao"
+            ],
+            [
+                "Countrywide",
+                "David Sambol"
+            ],
+            [
+                "National Restaurant Association",
+                "Sheila Weiss"
+            ]
+        ]
+    }
+}
