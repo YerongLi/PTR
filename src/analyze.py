@@ -131,6 +131,8 @@ test_dataset = REPromptDataset.load(
     rel2id = args.data_dir + "/" + "rel2id.json")
 predictions = np.argmax(scores, axis=1)
 N = len(test_dataset.rel2id)
+rel2idlist = [None] * len(test_dataset.rel2id)
+
 if os.path.exists(json_file):
     # Read the DataFrame from the JSON file
     selected_cm_labeled = pd.read_json(json_file)
@@ -140,7 +142,6 @@ else:
     # log.info(f'predictions[:50]] {predictions[:50]}')
     cm = confusion_matrix(all_labels, predictions, labels=range(N))
 
-    rel2idlist = [None] * len(test_dataset.rel2id)
 
     logging.info('test_dataset.rel2id')
     logging.info(test_dataset.rel2id)
