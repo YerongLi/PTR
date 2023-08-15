@@ -132,7 +132,8 @@ test_dataset = REPromptDataset.load(
 predictions = np.argmax(scores, axis=1)
 N = len(test_dataset.rel2id)
 rel2idlist = [None] * len(test_dataset.rel2id)
-
+for rel, i in test_dataset.rel2id.items():
+    rel2idlist[i] = rel
 if os.path.exists(json_file):
     # Read the DataFrame from the JSON file
     selected_cm_labeled = pd.read_json(json_file)
